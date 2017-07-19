@@ -1,17 +1,26 @@
-title: linked-rooms
+---
 hero_image: images/banner.png
-description: linked-rooms description
-original_url: https://codeclubprojects.org/en-GB/scratch/rock-band
-theme: red # possible values: blue, green, navy, orange, red, turquoise, violet, yellow
-duration: 1 # possible values: 1, 2 or 3
+theme: red
+duration: 1
 listed: false
 ingredient: false
 copyedit: false
 curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
-interests: "games, jokes/pranks, music/sound, photography, physical computing, robots, space"
-technologies: "electronics, physical computing, html/css, scratch, python"
-site_areas:
+title: Linked Rooms
+description: Create a web project with several 'rooms' linked together.
+original_url: https://codeclubprojects.org/en-GB/webdev/linked-rooms
+interests: ''
+technologies: html/css
+site_areas: codeclub, webdev
 steps:
-  - title: Introduction
-  - title: What you will need
-  - title: Step title
+- title: Introduction
+- title: Linking to another web page in the same project
+- title: 'Challenge: Add another link'
+- title: Add another room
+- title: 'Challenge: Style and link the Games Room'
+- title: Make the links look like doors
+- title: 'Challenge: Add more doors!'
+- title: Adding a background image
+- title: 'Challenge: Add wallpaper to the Games Room'
+- title: 'Challenge: Make it yours!'
+
