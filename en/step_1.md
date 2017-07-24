@@ -12,7 +12,7 @@ __Instructions__: Click the doors to move between rooms.
 
 ### Additional information for club leaders
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberry-pi.org/en/projects/linked-rooms/print).
+If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/linked-rooms/print).
 
 
 --- collapse ---
