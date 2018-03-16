@@ -8,7 +8,7 @@
 
 	اكتب `gamesroom.html` لتحديد اسم الصفحة:
 
-  	![screenshot](images/rooms-games-html.png)
+  ![screenshot](images/rooms-games-html.png)
 
 + تُشبه تعليمات HTML البرمجية لـ __Games Room__ التعليمات البرمجية لـ `tvroom.html` إلى حد كبير، لذا يمكنك __نسخ__ هذه التعليمات و __لصقها__ في ملف `gamesroom.html`.
 	
