@@ -8,7 +8,7 @@ Aggiungiamo ora un’altra stanza, la __Games Room__ (Stanza dei giochi).
 
 	Come nome della pagina, digita `gamesroom.html`:
 
-  	![screenshot](images/rooms-games-html.png)
+ 	![screenshot](images/rooms-games-html.png)
 
 + L’HTML per la __Games Room__ (Stanza dei giochi) è molto simile al codice del file `tvroom.html`; per cui __copia__ tale codice e __incollalo__ nella pagina `gamesroom.html`.
 
