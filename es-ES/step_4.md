@@ -8,7 +8,7 @@ Ahora vamos a añadir otra sala, una __Sala de juegos__.
 
 	Llama a la nueva página `gamesroom.html`:
 
-  	![screenshot](images/rooms-games-html.png)
+  ![screenshot](images/rooms-games-html.png)
 
 + El HTML para la __Sala de juegos__ es muy parecido al de `tvroom.html`, así que __copia__ el código y __pégalo__ en `gamesroom.html`.
 
