@@ -1,0 +1,29 @@
+---
+title: Verknüpfte Zimmer
+hero_image: images/banner.png
+theme: red
+duration: 2
+listed: false
+ingredient: false
+copyedit: false
+curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
+description: "Erstelle ein Projekt mit mehreren 'rooms' (Zimmern), die miteinander verknüpft sind."
+original_url: https://codeclubprojects.org/en-GB/webdev/linked-rooms
+interests: ''
+technologies: html-css-javascript
+site_areas: projects
+hardware: ''
+software: html-css-javascript
+version: 3
+last_tested: 2017-01-01
+steps: 
+- title: Einführung
+- title: Stelle eine Verknüpfung zu einer anderen Webseite im gleichen Projekt her
+- title: 'Aufgabe: Füge einen weiteren Link hinzu'
+- title: Füge noch ein Zimmer hinzu
+- title: 'Aufgabe: Gestalte das Spielzimmer und stelle einen Link hierzu her'
+- title: Lasse diesen Link wie Türen aussehen
+- title: 'Aufgabe: Füge weitere Türen hinzu!'
+- title: Ein Hintergrundbild hinzufügen
+- title: 'Aufgabe: Füge eine Tapete zum Spielzimmer hinzu'
+- title: 'Aufgabe: Gestalte es so wie du es willst!'
