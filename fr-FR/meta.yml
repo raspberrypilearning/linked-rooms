@@ -1,36 +1,39 @@
 ---
-title: Linked Rooms
+title: Salons Liés
 hero_image: images/banner.png
 theme: red
 duration: 2
 listed: false
 ingredient: false
 copyedit: false
-curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
-description: Create a web project with several 'rooms' linked together.
+curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
+description: Créer un projet Web avec plusieurs 'salons' liés entre eux.
 original_url: https://codeclubprojects.org/en-GB/webdev/linked-rooms
 interests: ''
-technologies: html/css
-site_areas: codeclub, webdev
+technologies: html-css-javascript
+site_areas: projects
+hardware: ''
+software: html-css-javascript
+version: 3
+last_tested: 2017-01-01
 steps:
   - 
     title: Introduction
   - 
-    title: Linking to another web page in the same project
+    title: Établir un lien avec une autre page Web du même projet
   - 
-    title: 'Challenge: Add another link'
+    title: 'Défi : Ajouter un autre lien'
   - 
-    title: Add another room
+    title: Ajouter un autre salon
   - 
-    title: 'Challenge: Style and link the Games Room'
+    title: 'Défi : Styliser et lier le Salon de jeux'
   - 
-    title: Make the links look like doors
+    title: Faire en sorte que les liens ressemblent à des portes
   - 
-    title: 'Challenge: Add more doors!'
+    title: Ajouter plus de portes !
   - 
-    title: Adding a background image
+    title: Ajouter une image d'arrière-plan
   - 
-    title: 'Challenge: Add wallpaper to the Games Room'
+    title: 'Défi : Ajouter un fond d''écran au Salon de jeux'
   - 
-    title: 'Challenge: Make it yours!'
-
+    title: 'Défi : Personnalisez-le !'
