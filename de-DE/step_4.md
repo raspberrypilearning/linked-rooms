@@ -8,7 +8,7 @@ Lass uns jetzt ein weiteres Zimmer, einen __Games Room__ (Spielzimmer) hinzufüg
 
 	Tippe `gamesroom.html` (Spielzimmer) als deinen Seitennamen ein:
 
-  	![screenshot](images/rooms-games-html.png)
+ 	![screenshot](images/rooms-games-html.png)
 
 + Das HTML für den __Games Room__ ist sehr ähnlich wie zum `tvroom.html`, __kopiere__ dies daher und __füge__ es in `gamesroom.html` ein.
 	

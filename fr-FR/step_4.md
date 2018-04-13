@@ -8,7 +8,7 @@ Maintenant ajoutons un autre salon, un __Salon de jeux__.
 
 	Inscrivez `gamesroom.html` comme nom de page :
 
-  	![screenshot](images/rooms-games-html.png)
+  ![screenshot](images/rooms-games-html.png)
 
 + Le HTML pour le __Salon de jeux__ est très similaire à `tvroom.html` donc __copiez_ ceci et__collez-le__ dans `gamesroom.html`.
 	
