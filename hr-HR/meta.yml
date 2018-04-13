@@ -1,0 +1,39 @@
+---
+title: Povezane sobe
+hero_image: slike / banner.png
+theme: Crvena
+duration: 2
+listed: false
+ingredient: false
+copyedit: false
+curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
+description: Izradite web projekt s nekoliko 'soba' povezanih zajedno.
+original_url: https://codeclubprojects.org/en-GB/webdev/linked-rooms
+interests: ''
+technologies: html-css-javascript
+site_areas: projects
+hardware: ''
+software: html-css-javascript
+version: 3
+last_tested: 2017-01-01
+steps:
+  - 
+    title: Uvod
+  - 
+    title: Povezivanje na drugu web stranicu u istom projektu
+  - 
+    title: 'Izazov: dodajte drugu vezu'
+  - 
+    title: Dodaj još jednu sobu
+  - 
+    title: 'Izazov: Stil i povezivanje sobi za igru'
+  - 
+    title: Neka veze izgledaju kao vrata
+  - 
+    title: 'Izazov: Dodajte još vrata!'
+  - 
+    title: Dodavanje pozadinske slike
+  - 
+    title: 'Izazov: dodajte pozadinu u Sobu za igre'
+  - 
+    title: 'Izazov: Učinite to tvoje!'
