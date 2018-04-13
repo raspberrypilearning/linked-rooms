@@ -1,0 +1,39 @@
+---
+title: Gekoppelde kamers
+hero_image: images / banner.png
+theme: rood
+duration: 2
+listed: false
+ingredient: false
+copyedit: false
+curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
+description: Maak een webproject met verschillende 'kamers' aan elkaar gekoppeld.
+original_url: https://codeclubprojects.org/en-GB/webdev/linked-rooms
+interests: ''
+technologies: html-css-javascript
+site_areas: projects
+hardware: ''
+software: html-css-javascript
+version: 3
+last_tested: 2017-01-01
+steps:
+  - 
+    title: Invoering
+  - 
+    title: Koppelen naar een andere webpagina in hetzelfde project
+  - 
+    title: 'Uitdaging: voeg nog een link toe'
+  - 
+    title: Voeg nog een kamer toe
+  - 
+    title: 'Uitdaging: Style en link de Games Room'
+  - 
+    title: Laat de links eruit zien als deuren
+  - 
+    title: 'Uitdaging: voeg meer deuren toe!'
+  - 
+    title: Een achtergrondafbeelding toevoegen
+  - 
+    title: 'Uitdaging: achtergrond toevoegen aan de Games Room'
+  - 
+    title: 'Uitdaging: maak het van jou!'
