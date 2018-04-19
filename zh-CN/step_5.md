@@ -1,7 +1,7 @@
 --- challenge ---
 ## 挑战：设置游戏房间样式并进行链接
 
-编辑__游戏房间__的 HTML 和 CSS，使网页如下所示： 
+编辑游戏房间的 HTML 和 CSS，使网页如下所示： 
 
 ![screenshot](images/rooms-games-challenge.png)
 
