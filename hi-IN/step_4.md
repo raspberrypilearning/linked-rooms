@@ -8,7 +8,7 @@
 
 	पेज के नाम के लिए `gamesroom.html` टाइप करें:
 
-  	![screenshot](images/rooms-games-html.png)
+  ![screenshot](images/rooms-games-html.png)
 
 + __Games Room__ (गेम्स रूम) के लिए HTML काफी हद तक `tvroom.html` जैसा होता है इसलिए इसे __कॉपी करें__ और `gamesroom.html` में __पेस्ट__ करें।
 	
