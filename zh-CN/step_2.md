@@ -27,7 +27,7 @@ Web 项目可由大量互相链接的 HTML 文件组成。
 
 	![screenshot](images/rooms-link-tvroom.png)
 
-+ 点击 __TV Room（电视房间）__链接查看 `tvroom.html` 网页以测试你的 trinket。
++ 点击 TV Room（电视房间）链接查看 `tvroom.html` 网页以测试你的 trinket。
 
 	请注意 `tvroom.html` 也有其自身的 `tvroom.css` 样式文件，该文件定义了此页面的布局。 
 
