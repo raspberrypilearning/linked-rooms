@@ -1,6 +1,6 @@
 ## 添加另一个房间
 
-现在让我们来添加另一个房间，一个__游戏房间__。 
+现在让我们来添加另一个房间，一个游戏房间。 
 
 + 单击添加页面 __+__ 按钮：
 
@@ -8,9 +8,9 @@
 
 	输入 `gamesroom.html` 作为页面名称：
 
-  	![screenshot](images/rooms-games-html.png)
+  ![screenshot](images/rooms-games-html.png)
 
-+ __游戏房间__的 HTML 与 `tvroom.html` 十分相似，因此将其__复制__下来并__粘贴__到 `gamesroom.html` 中。
++ 游戏房间的 HTML 与 `tvroom.html` 十分相似，因此将其复制下来并粘贴到 `gamesroom.html` 中。
 	
 	编辑高亮部分使其显示为 Games 而非 TV：
 
@@ -21,7 +21,7 @@
 	单击添加页面 __+__ 按钮，创建 `gamesroom.css`。 
 
 
-+ __游戏房间__的 CSS 与 `tvroom.css` 十分相似，因此将其__复制__下来并__粘贴__到 `gamesroom.css` 中。
++ 游戏房间的 CSS 与 `tvroom.css` 十分相似，因此将其复制下来并粘贴到 `gamesroom.css` 中。
 
 	![screenshot](images/rooms-add-games-css.png)
 
@@ -31,7 +31,7 @@
 
 + 单击游戏房间链接来测试你的项目
 
-	​__游戏房间__应如下所示：
+	​游戏房间应如下所示：
 
 	![screenshot](images/rooms-games-before.png)
 
