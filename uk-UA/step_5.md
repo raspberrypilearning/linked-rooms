@@ -1,13 +1,13 @@
 \--- challenge \---
 
-## Challenge: Style and link the Games Room
+## Виклик: стиль і посилання на ігрову кімнату
 
-Edit the HTML and CSS for the **Games Room** so that the webpage looks like this:
+Редагуйте HTML та CSS для ** Ігрова кімната **, щоб веб-сторінка виглядала так:
 
-![screenshot](images/rooms-games-challenge.png)
+![скріншот](images/rooms-games-challenge.png)
 
-Hint: You'll need to change the background colour, font colour and border colour in `gamesroom.css`. The bright green colour is called `chartreuse`.
+Підказка: Вам потрібно буде змінити колір фону, колір шрифту та колір полів ` gamesroom.css `. Яскраво-зелений колір називається`chartreuse`.
 
-Hint: You'll need to add an `<a>` link in `gamesroom.html` which links to `hall.html`.
+Підказка. Потрібно додати `<a>` посилання в ` gamesroom.html `, що посилається на ` hall.html `.
 
 \--- /challenge \---
