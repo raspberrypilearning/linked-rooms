@@ -1,17 +1,17 @@
 \--- challenge \---
 
-## Challenge: Make it yours!
+## Виклик: зробити це твоїм!
 
-Add more rooms to your project. Remember that you can use **copy** and **paste** to save time and then just change the things that need to be different.
+Додати більше кімнат до вашого проекту. Пам'ятайте, що ви можете використовувати ** копіювати ** та ** вставити **, щоб заощадити час, а потім просто змінити речі, які мають бути різними.
 
-For each room you will need to:
+Для кожної кімнати вам знадобиться:
 
-+ Create a `.html` file
-+ Add door links to and from the new 'room'
-+ Create a `.css` file with the styles for your new room and its doors
++ Створіть файл `.html `
++ Додайте посилання до дверей до і з нової "кімнати"
++ Створіть файл `.css ` із стилями для своєї нової кімнати та її дверей
 
-You can change the `background-color:` for each room. Click on the images icon to see the background images you can choose from:
+Ви можете змінити ` фоновий колір: ` для кожної кімнати. Натисніть на значок зображення, щоб побачити фонові зображення, які ви можете вибрати:
 
-![screenshot](images/rooms-images.png)
+![скріншот](images/rooms-images.png)
 
 \--- /challenge \---
