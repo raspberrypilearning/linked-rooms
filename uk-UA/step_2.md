@@ -1,31 +1,31 @@
-## Linking to another web page in the same project
+## Посилання на іншу веб-сторінку в одному проекті
 
-Web projects can be made up of lots of HTML files linked together.
+Веб-проекти можуть складатися з безлічі HTML-файлів, з'єднаних між собою.
 
-+ Open this trinket: <a href="http://jumpto.cc/web-rooms" target="_blank">jumpto.cc/web-rooms</a>.
++ Відкрийте цей Trinket: <a href="http://jumpto.cc/web-rooms" target="_blank">jumpto.cc/web-rooms</a>.
     
-    The project should look like this:
+    Проект повинен виглядати так:
     
-    ![screenshot](images/rooms-starter.png)
+    ![скріншот](images/rooms-starter.png)
 
-+ The trinket should autorun and you will find yourself in the Hall:
++ Trinket має автозапуск, і ви опинитеся в Залі:
     
-    ![screenshot](images/rooms-hall-start.png)
+    ![скріншот](images/rooms-hall-start.png)
 
-+ Look at the list of file tabs for this trinket. Can you see `tvroom.html`? Click on it.
++ Подивіться список вкладок файлів для цього Trinket. Ви бачите `tvroom.html`? Натисніть на це.
     
-    ![screenshot](images/rooms-tvroom-html.png)
+    ![скріншот](images/rooms-tvroom-html.png)
     
-    This is another html file in the same project.
+    Це ще один html-файл у тому ж проекті.
 
-+ To get to `tvroom.html` you need to add a link in `index.html`.
++ Щоб перейти до ` tvroom.html `, потрібно додати посилання ` index.html `.
     
-    Add the highlighted code inside the `<div>` with the class `room`:
+    Додайте виділений код всередині `<div>` з класом ` кімната `:
     
-    ![screenshot](images/rooms-link-tvroom.png)
+    ![скріншот](images/rooms-link-tvroom.png)
 
-+ Test your trinket by clicking on the **TV Room** link to see the `tvroom.html` webpage.
++ Перевірте свій Trinket, натиснувши посилання ** TV кімната **,щоб переглянути веб-сторінку ` tvroom.html `.
     
-    Note that `tvroom.html` also has its own `tvroom.css` style file which defines the layout for this page.
+    Зверніть увагу, що ` tvroom.html ` також має свій власний файл ` tvroom.css `, який визначає макет цієї сторінки.
     
-    ![screenshot](images/rooms-tvroom-unstyled.png)
+    ![скріншот](images/rooms-tvroom-unstyled.png)
