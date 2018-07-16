@@ -1,37 +1,37 @@
-## Add another room
+## Додати ще одну кімнату
 
-Now let's add another room, a **Games Room**.
+Тепер давайте додамо ще одну кімнату ** Ігрова кімната **.
 
-+ Click on the add page **+** button:
++ Натисніть кнопку додати сторінку ** + **:
     
-    ![screenshot](images/rooms-add-page.png)
+    ![скріншот](images/rooms-add-page.png)
     
-    Type `gamesroom.html` as the page name:
+    Введіть ` gamesroom.html ` як ім'я сторінки:
     
-    ![screenshot](images/rooms-games-html.png)
+    ![скріншот](images/rooms-games-html.png)
 
-+ The HTML for the **Games Room** is very similar to `tvroom.html` so **copy** that and **paste** it into `gamesroom.html`.
++ HTML ** Ігрова кімната ** дуже схожа на ` tvroom.html `, тому ** скопіюйте ** та ** вставте ** в ` gamesroom.html `.
     
-    Edit the highlighted items so they say Games not TV:
+    Редагувати виділені елементи, щоб вони говорили Ігри не TV:
     
-    ![screenshot](images/rooms-games-html2.png)
+    ![скріншот](images/rooms-games-html2.png)
 
-+ Your `gamesroom.html` now uses `gamesroom.css` which doesn't exist yet.
++ У вашому ` gamesroom.html ` тепер використовується ` gamesroom.css `, який ще не існує.
     
-    Create `gamesroom.css` by clicking on the add page **+** button.
+    Створіть ` gamesroom.css `, натиснувши кнопку додавання сторінки ** + **.
 
-+ The CSS for the **Games Room** is very similar to `tvroom.css` so **copy** that and **paste** it into `gamesroom.css`.
++ CSS для кімнати ** Ігрова Кімната ** дуже схожий на ` tvroom.css `, тому ** скопіюйте **, а ** вставте ** в <1 > gamesroom.css </code>.
     
-    ![screenshot](images/rooms-add-games-css.png)
+    ![скріншот](images/rooms-add-games-css.png)
 
-+ Add a link from the Hall to the Games room:
++ Додайте посилання з Залі на Ігрову кімнату:
     
-    ![screenshot](images/rooms-hall-games.png)
+    ![скріншот](images/rooms-hall-games.png)
 
-+ Test your project by clicking on the Games Room link
++ Перевірте свій проект, натиснувши посилання Ігрова кімната
     
-    The **Games Room** should look like this:
+    ** Ігрова кімната ** має виглядати наступним чином:
     
-    ![screenshot](images/rooms-games-before.png)
+    ![скріншот](images/rooms-games-before.png)
     
-    Not very exciting, but you can fix that in the next challenge.
+    Не дуже захоплююче, але ви можете виправити це в наступному виклику.
