@@ -1,20 +1,20 @@
-body {
-  font-family: Impact;
-  background-color: white;
-  color: black;
+основа {
+  гарнітура шрифту: Impact;
+  фоновий колір: білий;
+  колір: чорний;
 }
 
-.roomname {
-  font-size: 30px;
-  text-align: center;
+.номер кімнати {
+  розмір шрифту: 30 пікселів;
+  текст-вирівнювання: центр;
 }
 
-.room {
-  position: relative;
-  height: 200px;
-  border: 1px solid black;
+.кімната {
+  позиція: relative;
+  висота блоку: 200 пікселів;
+  рамка: solid black 1 піксель;
 }
 
-.description {
-  padding: 10px;
+.опис {
+  поля: 10 пікселів;
 }
