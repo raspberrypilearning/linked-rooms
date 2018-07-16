@@ -1,9 +1,9 @@
-## Adding a background image
+## Додавання фонового зображення
 
-Let's decorate the hall with a background image.
+Прикрасьте залу фоновим зображенням.
 
-+ Edit the `style.css` to add a background image to the Hall:
++ Редагувати ` style.css `, щоб додати фонове зображення в зал:
     
-    ![screenshot](images/rooms-hall-decorated.png)
+    ![скріншот](images/rooms-hall-decorated.png)
     
-    The image will be repeated to fill the whole room.
+    Зображення буде повторено, щоб заповнити всю кімнату.
