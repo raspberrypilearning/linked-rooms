@@ -1,13 +1,13 @@
 \--- challenge \---
 
-## Challenge: Add another link
+## Виклик: Додати ще одне посилання
 
-Add an `<a>` link to the `tvroom.html` webpage to get you back to the Hall webpage which is called `index.html`. The link text should be 'Hall'.
+Додайте посилання `<a>` на веб-сайт ` tvroom.html `, щоб повернути вас на веб-сторінку Вестибюлю яка називається ` index.html `. Текст посилання має бути "Вестибюль".
 
-The TV Room webpage should then have a clickable link like this:
+На веб-сторінці TV кімнати має бути посилання, яке можна натиснути таким чином:
 
-![screenshot](images/rooms-hall-link.png)
+![скріншот](images/rooms-hall-link.png)
 
-Make sure you test your code. You should be able to move from the Hall to the TV Room and back again by clicking on links.
+Перевірте свій код. Ви повинні мати можливість переміщатися з вестибюлю до TV кімнати і знову, натиснувши на посилання.
 
 \--- /challenge \---
