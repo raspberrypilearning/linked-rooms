@@ -1,10 +1,10 @@
-## Laat de links eruit zien als deuren
+## Laat de links er als deuren uit zien
 
 Links hoeven niet alleen tekst te zijn. Laten we een klikbare deur maken met behulp van een `<div>`.
 
-+ Open `index.html` en voeg een `<div>` toe rond de **tv-kamer** linktekst. Het moet in de `<a>` zitten om het klikbaar te maken.
++ Open `index.html` en voeg een `<div>` toe rond de **TV Kamer** link tekst. Het moet binnen in de `<a>` zitten om het klikbaar te maken.
     
-    Voeg `id = "hall2tv"` toe om het te labelen als de deur van de hal naar de tv-ruimte, zodat je de deur kunt stylen.
+    Voeg `id = "hall2tv"` toe om het te benoemen als 'deur van de hal naar de TV Kamer', zodat je de deur kunt vormgeven.
     
     ![screenshot](images/rooms-tvroom-div.png)
 
@@ -12,9 +12,9 @@ Links hoeven niet alleen tekst te zijn. Laten we een klikbare deur maken met beh
     
     ![screenshot](images/rooms-door-css1.png)
 
-+ Test uw webpagina door ergens op de deur te klikken, niet alleen op de tekst.
++ Test je webpagina door ergens op de deur te klikken, niet alleen op de tekst.
 
-+ Laten we het nu een beetje meer als een deur laten lijken door een rand rond drie zijden toe te voegen:
++ Laten we het nu een beetje meer op een deur laten lijken door een rand rond drie zijden toe te voegen:
     
     ![screenshot](images/rooms-door-css2.png)
 
@@ -26,4 +26,4 @@ Links hoeven niet alleen tekst te zijn. Laten we een klikbare deur maken met beh
     
     ![screenshot](images/rooms-door-position.png)
 
-+ Test uw webpagina door op de deur te klikken om bij **TV Room** te komen.
++ Test je webpagina door op de deur te klikken om in de **TV Kamer** te komen.
