@@ -1,17 +1,17 @@
-\--- uitdaging \---
+\--- challenge \---
 
-## Uitdaging: maak het van jou!
+## Uitdaging: maak het je eigen!
 
-Voeg meer kamers toe aan uw project. Vergeet niet dat je **kopie** en **plakken** kunt gebruiken om tijd te besparen en vervolgens alleen de dingen te wijzigen die anders moeten zijn.
+Voeg meer kamers aan je project toe. Vergeet niet dat je **kopiëren** en **plakken** kunt gebruiken om tijd te besparen en dan alleen die dingen hoeft te wijzigen die anders moeten zijn.
 
 Voor elke kamer moet je:
 
-+ Maak een `.html` bestand
-+ Voeg de links toe van en naar de nieuwe 'kamer'
-+ Maak een `.css` bestand met de stijlen voor je nieuwe kamer en zijn deuren
++ een `.html` bestand maken
++ links toevoegen van en naar de nieuwe 'kamer'
++ een `.css` bestand maken met de stijlen voor je nieuwe kamer en deuren
 
-U kunt de `achtergrondkleur:` voor elke kamer wijzigen. Klik op het pictogram afbeeldingen om de achtergrondafbeeldingen te bekijken waaruit u kunt kiezen:
+Je kunt met `background-color:` de achtergrondkleur van elke kamer wijzigen. Klik op het afbeeldingspictogram om de achtergrondafbeeldingen te bekijken waaruit je kunt kiezen:
 
 ![screenshot](images/rooms-images.png)
 
-\--- / uitdaging \---
+\--- /challenge \---
