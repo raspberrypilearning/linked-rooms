@@ -1,17 +1,17 @@
 \--- challenge \---
 
-## Challenge: Make it yours!
+## Desafio: Personalise!
 
-Add more rooms to your project. Remember that you can use **copy** and **paste** to save time and then just change the things that need to be different.
+Adicione mais cômodos ao seu projeto. Lembre-se de que você pode usar **copiar (ctrl + c)** and **colar (ctrl + v)** e para ganhar tempo e alterar apenas o que precisa ser diferente. 
 
-For each room you will need to:
+Para cada cômodo, você vai precisar:
 
-+ Create a `.html` file
-+ Add door links to and from the new 'room'
-+ Create a `.css` file with the styles for your new room and its doors
++ Criar um arquivo `.html`
++ Adicionar links de portas que dão acesso e que saem saem do novo ‘cômodo’’
++ Criar um arquivo `.css` com os estilos do seu novo cômodo e de suas portas
 
-You can change the `background-color:` for each room. Click on the images icon to see the background images you can choose from:
+Você pode alterar a cor de fundo `background-color:` de cada cômodo. Clique no ícone das imagens para ver as imagens de fundo disponíveis para escolha:
 
-![screenshot](images/rooms-images.png)
+![captura de tela](images/rooms-images.png)
 
 \--- /challenge \---
