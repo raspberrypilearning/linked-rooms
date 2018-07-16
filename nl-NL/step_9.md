@@ -1,17 +1,17 @@
-\--- uitdaging \---
+\--- challenge \---
 
-## Uitdaging: achtergrond toevoegen aan de Games Room
+## Uitdaging: achtergrond toevoegen aan de Speel Kamer
 
-Kun je de speelkamer decoreren met een achtergrondafbeelding?
+Kun je de Speel Kamer versieren met een achtergrondafbeelding?
 
-U kunt de `space-invader.png` achtergrondafbeelding gebruiken die deel uitmaakt van uw project.
+Je kunt de `space-invader.png` achtergrondafbeelding gebruiken die deel uitmaakt van je project.
 
-U moet het volgende doen:
+Je moet het volgende doen:
 
-+ Voeg een `achtergrondafbeelding toe:` aan de `.room` CSS voor de Games Room. 
++ Voeg een `background-image: (achtergrondafbeelding) ` aan de `gamesroom.css` voor de Speel Kamer toe. 
 
 De ingerichte kamer zou er als volgt uit moeten zien:
 
 ![screenshot](images/rooms-games-finished.png)
 
-\--- / uitdaging \---
+\--- /challenge \---
