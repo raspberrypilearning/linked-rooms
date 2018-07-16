@@ -1,6 +1,6 @@
 ## Voeg nog een kamer toe
 
-Laten we nu nog een kamer toevoegen, een **Games Room**.
+Laten we nu nog een kamer toevoegen, een **Speel Kamer**.
 
 + Klik op de knop Pagina toevoegen **+**:
     
@@ -10,27 +10,27 @@ Laten we nu nog een kamer toevoegen, een **Games Room**.
     
     ![screenshot](images/rooms-games-html.png)
 
-+ De HTML voor **Games Room** lijkt veel op `tvroom.html` dus **kopie** en **plakt** in `gamesroom.html`.
++ De HTML voor de **Speel Kamer** lijkt veel op de `tvroom.html` dus **kopieer** en **plak** deze HTML in de `gamesroom.html`.
     
-    Bewerk de gemarkeerde items zodat ze zeggen Games not TV:
+    Bewerk de gemarkeerde items zodat ze Speel en niet TV heten:
     
     ![screenshot](images/rooms-games-html2.png)
 
-+ Je `gamesroom.html` gebruikt nu `gamesroom.css` , wat nog niet bestaat.
++ Je `gamesroom.html` gebruikt nu `gamesroom.css`, die nog niet bestaat.
     
     Maak `gamesroom.css` door op de knop pagina toevoegen **+** te klikken.
 
-+ De CSS voor **Games Room** lijkt veel op `tvroom.css` dus **kopie** en **plakt** in `gamesroom.css`.
++ De CSS voor **Speel Kamer** lijkt veel op `tvroom.css` dus **kopieer** en **plak** deze in de `gamesroom.css`.
     
     ![screenshot](images/rooms-add-games-css.png)
 
-+ Voeg een link toe vanuit de hal naar de speelkamer:
++ Voeg een link toe vanuit de hal naar de Speel kamer:
     
     ![screenshot](images/rooms-hall-games.png)
 
-+ Test uw project door op de koppeling Games Room te klikken
++ Test je project door op de koppeling Speel Kamer te klikken
     
-    De **Games Room** zou er als volgt uit moeten zien:
+    De **Speel Kamer** zou er als volgt uit moeten zien:
     
     ![screenshot](images/rooms-games-before.png)
     
