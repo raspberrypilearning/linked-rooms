@@ -1,29 +1,29 @@
-## Make the links look like doors
+## Зробіть посилання, що виглядають як двері
 
-Links don't just have to be text. Let's make a clickable door using a `<div>`.
+Посилання мають бути не просто текстовими. Давайте зробимо клікабельні двері, використовуючи `<div>`.
 
-+ Open `index.html` and add a `<div>` around the **TV Room** link text. It needs to be inside the `<a>` to make it clickable.
++ Відкрийте ` index.html ` і додайте `<div>` текст посилання **TV Кімната **. Вона повинна бути всередині `<a>`, щоб зробити її доступною для натискання.
     
-    Add `id="hall2tv"` to label it as the door from the Hall to the TV Room so that you can style the door.
+    Додати `id="hall2tv"`, щоб позначити його як двері від вестибюлю до TV кімнати, щоб ви могли стилізувати двері.
     
-    ![screenshot](images/rooms-tvroom-div.png)
+    ![скріншот](images/rooms-tvroom-div.png)
 
-+ Click on the `style.css` tab, go to the bottom and add the following CSS to change the size and colour of the door:
++ Натисніть на вкладку ` style.css `, перейдіть донизу та додайте наступний CSS, щоб змінити розмір і колір дверей:
     
-    ![screenshot](images/rooms-door-css1.png)
+    ![скріншот](images/rooms-door-css1.png)
 
-+ Test your webpage by clicking anywhere on the door, not just on the text.
++ Перевірте свою веб-сторінку, натиснувши будь-яку точку доступу, а не тільки текст.
 
-+ Now let's make it look a bit more like a door by adding a border around three sides:
++ Тепер давайте зробимо це трохи більше схожим на двері, додавши кордон з трьох сторін:
     
-    ![screenshot](images/rooms-door-css2.png)
+    ![скріншот](images/rooms-door-css2.png)
 
-+ And let's add some CSS to make the text on the door look better:
++ І давайте додамо деякі CSS, щоб текст виглядав краще:
     
-    ![screenshot](images/rooms-door-css3.png)
+    ![скріншот](images/rooms-door-css3.png)
 
-+ You've probably noticed that the door is floating in the air. Let's fix that by positioning the door inside the room.
++ Ви, напевно, помітили, що двері літають в повітрі. Давайте встановимо їх, розмістивши двері усередині кімнати.
     
-    ![screenshot](images/rooms-door-position.png)
+    ![скріншот](images/rooms-door-position.png)
 
-+ Test your webpage by clicking on the door to get to the **TV Room**.
++ Перевірте свою веб-сторінку, натиснувши двері, щоб перейти до ** TV Кімната **.
