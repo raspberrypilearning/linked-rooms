@@ -1,17 +1,17 @@
 \--- challenge \---
 
-## Challenge: Add wallpaper to the Games Room
+## Виклик: додавання шпалер в ігрову кімнату
 
-Can you decorate the games room with a background image?
+Ви можете прикрасити ігрову кімнату фоновим зображенням?
 
-You can use the `space-invader.png` background image which is included in your project.
+Ви можете використовувати фонове зображення ` space-invader.png `, яке входить до вашого проекту.
 
-You'll need to:
+Вам потрібно буде:
 
-+ Add a `background-image:` to the `.room` CSS for the Games Room. 
++ Додати ` фонове зображення: ` в CSS `.room ` для Ігрової Кімнати. 
 
-The decorated room should look like this:
+Прикрашена кімната повинна виглядати так:
 
-![screenshot](images/rooms-games-finished.png)
+![скріншот](images/rooms-games-finished.png)
 
 \--- /challenge \---
