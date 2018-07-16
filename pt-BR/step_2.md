@@ -1,31 +1,31 @@
-## Linking to another web page in the same project
+## Vinculando a outra página da Web no mesmo projeto
 
-Web projects can be made up of lots of HTML files linked together.
+Os projetos da Web podem ser compostos de vários arquivos HTML vinculados.
 
-+ Open this trinket: <a href="http://jumpto.cc/web-rooms" target="_blank">jumpto.cc/web-rooms</a>.
++ Abra este trinket: <a href="http://jumpto.cc/web-rooms" target="_blank">jumpto.cc/rps-go</a>.
     
-    The project should look like this:
+    O projeto deve ficar assim:
     
-    ![screenshot](images/rooms-starter.png)
+    ![captura de tela](images/rooms-starter.png)
 
-+ The trinket should autorun and you will find yourself in the Hall:
++ O trinket deve rodar autmaticamente e você vai encontrar-se no corredor:
     
-    ![screenshot](images/rooms-hall-start.png)
+    ![captura de tela](images/rooms-hall-start.png)
 
-+ Look at the list of file tabs for this trinket. Can you see `tvroom.html`? Click on it.
++ Veja a lista de guias de arquivos para este trinket. Você vê `tvroom.html`? Clique neste link.
     
-    ![screenshot](images/rooms-tvroom-html.png)
+    ![captura de tela](images/rooms-tvroom-html.png)
     
-    This is another html file in the same project.
+    Este é outro arquivo html no mesmo projeto.
 
-+ To get to `tvroom.html` you need to add a link in `index.html`.
++ Para chegar ao `tvroom.html` você precisa adicionar um link em `index.html`.
     
-    Add the highlighted code inside the `<div>` with the class `room`:
+    Adicione o código destacado dentro do `<div>` com a sala `cômodo `:
     
-    ![screenshot](images/rooms-link-tvroom.png)
+    ![captura de tela](images/rooms-link-tvroom.png)
 
-+ Test your trinket by clicking on the **TV Room** link to see the `tvroom.html` webpage.
++ Teste seu trinket clicando no link **Sala de TV** para ver o `tvroom.html` página da Web.
     
-    Note that `tvroom.html` also has its own `tvroom.css` style file which defines the layout for this page.
+    Perceba que `tvroom.html` também possui seu próprio arquivo de estilo css`tvroom.css` que define o layout para esta página.
     
-    ![screenshot](images/rooms-tvroom-unstyled.png)
+    ![captura de tela](images/rooms-tvroom-unstyled.png)
