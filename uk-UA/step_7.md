@@ -1,27 +1,27 @@
 \--- challenge \---
 
-## Challenge: Add more doors!
+## Виклик: Додати більше дверей!
 
-Turn the other links in your project into doors in the same way.
+Перетворіть інші посилання у вашому проекті на двері таким же чином.
 
-For each door you'll need to:
+Для кожної двері вам потрібно:
 
-+ Edit the door link to use a `<div>` with an id such as `hall2games` so that you can style it.
++ Редагувати посилання на двері, щоб використовувати `<div>` з такими ідентифікаторами, як ` hall2games `, щоб ви могли його створити.
     
-    For example:
+    Наприклад:
     
-    `<a href="gamesroom.html"><div id="hall2games">Games Room</div></a>`
+    `<a href="gamesroom.html"><div id="hall2games"> Ігрова кімната </div></a>`
 
-+ Add CSS for the door id to the `.css` file for its room. Use *copy* and *paste* to save time. You can make each door look different if you like.
++ Додайте CSS для ідентифікатора дверей у файл `.css ` для своєї кімнати. Використовуйте * копіювати * та * вставити *, щоб заощадити час. Ви можете зробити кожні двері виглядати по-іншому, якщо вам подобається.
 
-+ Position the door using `bottom:` and `left:` or `right:`.
++ Поставте двері, використовуючи ` нижню частину: ` та ` зліва: ` або ` праворуч: `.
 
-The Hall might look like this:
+Зал може виглядати так:
 
-![screenshot](images/rooms-hall-doors.png)
+![скріншот](images/rooms-hall-doors.png)
 
-The TV Room should look something like this:
+Телевізійна кімната повинна виглядати приблизно так:
 
-![screenshot](images/rooms-tvroom-door.png)
+![скріншот](images/rooms-tvroom-door.png)
 
 \--- /challenge \---
