@@ -1,27 +1,27 @@
-\--- uitdaging \---
+\--- challenge \---
 
 ## Uitdaging: voeg meer deuren toe!
 
-Zet de andere schakels in uw project op dezelfde manier in de deuren.
+Zet de andere links in je project op dezelfde manier om naar deuren.
 
 Voor elke deur moet je:
 
-+ Bewerk de link om een ​​ `<div>` te gebruiken met een id zoals `hall2games` , zodat je het kunt stylen.
++ de link bewerken door een ​​ `<div>` te gebruiken met een id zoals bij `hall2games`, zodat je het kunt vormgeven.
     
     Bijvoorbeeld:
     
-    `<a href="gamesroom.html"><div id="hall2games">Games Room</div></a>`
+    `<a href="gamesroom.html"><div id="hall2games">Speel Kamer</div></a>`
 
-+ Voeg CSS voor de deur-ID toe aan het `.css` bestand voor zijn kamer. Gebruik *kopie* en *plakken* om tijd te besparen. Je kunt elke deur er anders laten uitzien als je wilt.
++ CSS toevoegen voor de deur-ID in het `.css` bestand van die kamer. Gebruik *kopiëren* en *plakken* om tijd te besparen. Je kunt elke deur er anders laten uitzien als je wilt.
 
-+ Plaats de deur met behulp van `onder:` en `links:` of `rechts:`.
++ Plaats de deur met behulp van `bottom:` en `left:` of `right:`.
 
 De hal kan er als volgt uitzien:
 
 ![screenshot](images/rooms-hall-doors.png)
 
-De tv-ruimte zou er ongeveer zo uit moeten zien:
+De TV Kamer zou er ongeveer zo uit moeten zien:
 
 ![screenshot](images/rooms-tvroom-door.png)
 
-\--- / uitdaging \---
+\--- /challenge \---
