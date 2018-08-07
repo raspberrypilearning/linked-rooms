@@ -1,5 +1,5 @@
 ---
-title: З’єднані кімнати
+title: З'єднані кімнати
 hero_image: images/banner.png
 theme: red
 duration: 2
@@ -7,7 +7,7 @@ listed: false
 ingredient: false
 copyedit: false
 curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
-description: У цьому проекті ви створите кілька з’єднаних кімнат, кожна з яких буде іншою веб-сторінкою, яку можна прикрасити за допомогою HTML.
+description: Створіть веб-проект із кількома "кімнатами", з'єднаними між собою.
 original_url: https://codeclubprojects.org/en-GB/webdev/linked-rooms
 interests: ''
 technologies: html-css-javascript
@@ -16,5 +16,14 @@ hardware: ''
 software: html-css-javascript
 version: 3
 last_tested: 2017-01-01
-steps: 
-- title: З’єднані кімнати
+steps:
+  - title: Вступ
+  - title: Посилання на іншу веб-сторінку в цьому ж проекті
+  - title: 'Виклик: Додати ще одне посилання'
+  - title: Додати ще одну кімнату
+  - title: 'Виклик: Стиль і посилання Ігрова Кімната'
+  - title: Зробіть посилання, що виглядають як двері
+  - title: 'Виклик: Додати більше дверей!'
+  - title: Додавання фонового зображення
+  - title: 'Виклик: додавання шпалер в Ігрову Кімнату'
+  - title: 'Виклик: Зроби це своїм!'
