@@ -18,11 +18,11 @@ version: 3
 last_tested: 2017-01-01
 steps:
   - title: Inleiding
-  - title: Naar een andere webpagina in hetzelfde project koppelen
+  - title: Naar een andere webpagina in hetzelfde project (koppelen)
   - title: 'Uitdaging: voeg nog een link toe'
   - title: Voeg nog een kamer toe
   - title: 'Uitdaging: de Speel Kamer vormgeven en linken'
-  - title: Laat de links eruit zien als deuren
+  - title: Laat de links er als deuren uit zien
   - title: 'Uitdaging: voeg meer deuren toe!'
   - title: Een achtergrondafbeelding toevoegen
   - title: 'Uitdaging: achtergrond toevoegen aan de Speel Kamer'
