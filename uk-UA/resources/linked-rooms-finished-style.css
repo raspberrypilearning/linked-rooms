@@ -1,53 +1,53 @@
-body {
-  font-family: Impact;
-  background-color: linen;
+основа {
+  гарнітура шрифту: Impact;
+  фоновий колір: linen;
 }
 
-.roomname {
-  font-size: 30px;
-  text-align: center;
+.номер кімнати {
+  розмір шрифту: 30 пікселів;
+  текст-вирівнювання: центр;
 }
 
-.room {
-  position: relative;
-  height: 200px;
-  border: 1px solid black;
-  background-image: url(wallpaper.png);
+.кімната {
+  позиція: relative;
+  висота блоку: 200 пікселів;
+  рамка: solid black 1 піксель;
+  фонове зображення: url (wallpaper.png);
 }
 
-.description {
-  padding: 10px;
+.опис {
+  поля: 10 пікселів;
 }
 
 
-#hall2tv {
-  width: 50px;
-  height: 100px;
-  display: inline-block;
-  background-color: burlywood;
-  border: 10px ridge burlywood;
-  border-bottom: none;
-  padding: 10px;
-  color: black;
-  text-align: center;
-  position: absolute;
-  bottom: 0;
-  left: 10;
+#вестибюль2tv {
+  ширина блоку: 50 пікселів;
+  висота блоку: 100 пікселів;
+  дисплей: inline-block;
+  фоновий колір: burlywood;
+  рамка: ridge burlywood 10 пікселів;
+  нижня рамка: немає;
+  поля: 10 пікселів;
+  колір: чорний;
+  текст-вирівнювання: центр;
+  розміщення: absolute;
+  дно: 0;
+  ліворуч: 10;
 }
 
-#hall2games {
-  width: 50px;
-  height: 100px;
-  display: inline-block;
-  background-color: grey;
-  border: 10px ridge grey;
-  border-bottom: none;
-  padding: 10px;
-  color: chartreuse;
-  text-align: center;
-  position: absolute;
-  bottom: 0;
-  right: 10;
+#зал2ігровий {
+  ширина блоку: 50 пікселів;
+  висота блоку: 100 пікселів;
+  дисплей: inline-block;
+  фоновий колір: сірий;
+  рамка: ridge сірий 10 пікселів;
+  нижня рамка: немає;
+  поля: 10 пікселів;
+  колір: chartreuse;
+  текст-вирівнювання: центр;
+  розміщення: absolute;
+  дно: 0;
+  ліворуч: 10;
 }
 
 
