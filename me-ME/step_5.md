@@ -1,13 +1,13 @@
 \--- challenge \---
 
-## Challenge: Style and link the Games Room
+## Izazov: Stilizuj i poveži Salu za igre
 
-Edit the HTML and CSS for the **Games Room** so that the webpage looks like this:
+Uredi HTML i CSS za **Salu za igre** tako da veb-stranica izgleda ovako:
 
 ![screenshot](images/rooms-games-challenge.png)
 
-Hint: You'll need to change the background colour, font colour and border colour in `gamesroom.css`. The bright green colour is called `chartreuse`.
+Savjet: Treba da promijeniš boju pozadine, boju fonta i boju okvira u `gamesroom.css`. Naziv svijetlozelene boje je `chartreuse`.
 
-Hint: You'll need to add an `<a>` link in `gamesroom.html` which links to `hall.html`.
+Hint: You'll need to add an `<a>` link in `gamesroom.html` which links to `index.html`.
 
 \--- /challenge \---
