@@ -1,31 +1,31 @@
-## Linking to another web page in the same project
+## Linkowanie do innej strony w tym samym projekcie
 
-Web projects can be made up of lots of HTML files linked together.
+Strony intenetowe mogą być stworzone z wielu plików HTML połączonych ze sobą linkami.
 
-+ Open this trinket: <a href="http://jumpto.cc/web-rooms" target="_blank">jumpto.cc/web-rooms</a>.
++ Otwórz ten projekt: <a href="http://jumpto.cc/web-rooms" target="_blank">jumpto.cc/web-rooms</a>.
     
-    The project should look like this:
+    Projekt powinien wyglądać następująco:
     
     ![screenshot](images/rooms-starter.png)
 
-+ The trinket should autorun and you will find yourself in the Hall:
++ Trinket powinien uruchomić się automatycznie i skierować Cię do korytarza:
     
     ![screenshot](images/rooms-hall-start.png)
 
-+ Look at the list of file tabs for this trinket. Can you see `tvroom.html`? Click on it.
++ Spójrz na listę zakładek w tym trinkiecie. Czy widzisz tam plik `salon.html`? Kliknij na niego.
     
     ![screenshot](images/rooms-tvroom-html.png)
     
-    This is another html file in the same project.
+    To jest po prostu inny plik HTML w tym samym projekcie.
 
-+ To get to `tvroom.html` you need to add a link in `index.html`.
++ Aby wyświetlić `salon.html` musisz dodać link w `index.html`.
     
-    Add the highlighted code inside the `<div>` with the class `room`:
+    Dodaj podświetlony kod wewnątrz `<div>` z klasą `room`:
     
     ![screenshot](images/rooms-link-tvroom.png)
 
-+ Test your trinket by clicking on the **TV Room** link to see the `tvroom.html` webpage.
++ Przetestuj swój projekt klikając na link **Salon**, by zobaczyć stronę `salon.html`.
     
-    Note that `tvroom.html` also has its own `tvroom.css` style file which defines the layout for this page.
+    Zauważ, że plik `tvroom.html` również ma swój własny styl (`tvroom.css`), który ustala wygląd tej strony.
     
     ![screenshot](images/rooms-tvroom-unstyled.png)
