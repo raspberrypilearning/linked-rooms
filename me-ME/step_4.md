@@ -1,37 +1,37 @@
-## Add another room
+## Dodaj još jednu salu
 
-Now let's add another room, a **Games Room**.
+Dodajmo sada još jednu salu, **Salu za igre**.
 
-+ Click on the add page **+** button:
++ Klikni na dugme **+** za dodavanje stranice:
     
     ![screenshot](images/rooms-add-page.png)
     
-    Type `gamesroom.html` as the page name:
+    Upiši `gamesroom.html` kao naziv stranice:
     
     ![screenshot](images/rooms-games-html.png)
 
-+ The HTML for the **Games Room** is very similar to `tvroom.html` so **copy** that and **paste** it into `gamesroom.html`.
++ HTML za **Salu za igre** veoma je sličan `tvroom.html`, pa ga **kopiraj** i **prenesi** u `gamesroom.html`.
     
-    Edit the highlighted items so they say Games not TV:
+    Izmijeni označene elemente tako što ćeš umjesto TV upisati 'games' i 'za igre':
     
     ![screenshot](images/rooms-games-html2.png)
 
-+ Your `gamesroom.html` now uses `gamesroom.css` which doesn't exist yet.
++ Tvoj `gamesroom.html` sada koristi `gamesroom.css` koji još uvijek ne postoji.
     
-    Create `gamesroom.css` by clicking on the add page **+** button.
+    Kreiraj `gamesroom.css` tako što ćeš kliknuti na dugme **+** za dodavanje stranice.
 
-+ The CSS for the **Games Room** is very similar to `tvroom.css` so **copy** that and **paste** it into `gamesroom.css`.
++ CSS za **Salu za igre** veoma je sličan `tvroom.css`, pa ga **kopiraj** i **prenesi** u `gamesroom.css`.
     
     ![screenshot](images/rooms-add-games-css.png)
 
-+ Add a link from the Hall to the Games room:
++ U Hodnik dodaj link za Salu za igre:
     
     ![screenshot](images/rooms-hall-games.png)
 
-+ Test your project by clicking on the Games Room link
++ Isprobaj svoj projekat tako što ćeš kliknuti na link Sale za igre.
     
-    The **Games Room** should look like this:
+    **Sala za igre** treba da izgleda ovako:
     
     ![screenshot](images/rooms-games-before.png)
     
-    Not very exciting, but you can fix that in the next challenge.
+    Ne izgleda zanimljivo, ali to ćeš moći da popraviš u sljedećem izazovu.
