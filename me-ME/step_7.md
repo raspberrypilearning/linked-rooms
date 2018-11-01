@@ -1,26 +1,26 @@
 \--- challenge \---
 
-## Challenge: Add more doors!
+## Izazov: Dodaj više vrata!
 
-Turn the other links in your project into doors in the same way.
+Na isti način pretvori u vrata ostale linkove u svom projektu.
 
-For each door you'll need to:
+Za svaka vrata je potrebno da uradiš sljedeće:
 
-+ Edit the door link to use a `<div>` with an id such as `hall2games` so that you can style it.
++ Uredi link vrata koristeći `<div>` sa identifikatorom (id) kao što je `hall2games`, tako da možeš da stilizuješ vrata.
     
-    For example:
+    Na primjer:
     
-    `<a href="gamesroom.html"><div id="hall2games">Games Room</div></a>`
+    `<a href="gamesroom.html"><div id="hall2games">Sala za igre</div></a>`
 
-+ Add CSS for the door id to the `.css` file for its room. Use *copy* and *paste* to save time. You can make each door look different if you like.
++ Dodaj CSS za id vrata u `.css` datoteku prostorije u kojoj su vrata. Koristi *kopiraj* i *prenesi* zbog uštede vremena. Ako želiš, možeš napraviti da svaka vrata izgledaju različito.
 
-+ Position the door using `bottom:` and `left:` or `right:`.
++ Odredi položaj vrata koristeći `bottom:` (dolje) i `left:` (lijevo) ili `right:` (desno).
 
-The Hall might look like this:
+Hodnik može da izgleda ovako:
 
 ![screenshot](images/rooms-hall-doors.png)
 
-The TV Room should look something like this:
+TV sala bi trebalo da izgleda poput ove:
 
 ![screenshot](images/rooms-tvroom-door.png)
 
