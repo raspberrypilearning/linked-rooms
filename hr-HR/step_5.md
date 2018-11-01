@@ -8,6 +8,6 @@ Uredite HTML i CSS za **Igralište** , tako da web stranica izgleda ovako:
 
 Savjet: Morate promijeniti boju pozadine, boju fonta i boju obruba u `gamesroom.css`. Svijetla zelena boja zove se `chartreuse`.
 
-Savjet: Morate dodati `<a>` vezu u `gamesroom.html` koji povezuje na `hall.html`.
+Hint: You'll need to add an `<a>` link in `gamesroom.html` which links to `index.html`.
 
 \--- / izazov \---
