@@ -1,37 +1,37 @@
-## Add another room
+## Dodaj kolejny pokój
 
-Now let's add another room, a **Games Room**.
+Dodajmy teraz inny pokój - **Pokój Zabaw**.
 
-+ Click on the add page **+** button:
++ Kliknij na przycisk **+**, który służy do dodawania stron:
     
     ![screenshot](images/rooms-add-page.png)
     
-    Type `gamesroom.html` as the page name:
+    Jako nazwę strony wpisz `pokojzabaw.html`:
     
     ![screenshot](images/rooms-games-html.png)
 
-+ The HTML for the **Games Room** is very similar to `tvroom.html` so **copy** that and **paste** it into `gamesroom.html`.
++ Kod HTML dla **Pokoju Zabaw** jest bardzo podobny do tego z pliku `salon.html`więc możesz **skopiować go** i **wkleić**do pliku `pokojzabaw.html`.
     
-    Edit the highlighted items so they say Games not TV:
+    Zmień zaznaczone elementy, aby dotyczyły pokoju zabaw, a nie salonu:
     
     ![screenshot](images/rooms-games-html2.png)
 
-+ Your `gamesroom.html` now uses `gamesroom.css` which doesn't exist yet.
++ Twój `pokojzabaw.html` używa teraz pliku `pokojzabaw.css`, który jeszcze nie istnieje.
     
-    Create `gamesroom.css` by clicking on the add page **+** button.
+    Utwórz `pokojzabaw.css` klikając na przycisk dodawania nowej strony **+**.
 
-+ The CSS for the **Games Room** is very similar to `tvroom.css` so **copy** that and **paste** it into `gamesroom.css`.
++ Plik CSS dla **Pokoju Zabaw** jest bardzo podobny do `salon.css`, więc **skopiuj**jego zawartość i **wklej** ją do `pokojzabaw.css`.
     
     ![screenshot](images/rooms-add-games-css.png)
 
-+ Add a link from the Hall to the Games room:
++ Dodaj link z korytarza do pokoju zabaw:
     
     ![screenshot](images/rooms-hall-games.png)
 
-+ Test your project by clicking on the Games Room link
++ Przetestuj swój projekt klikająć na link do Pokoju Zabaw
     
-    The **Games Room** should look like this:
+    **Pokój Zabaw** powinien wyglądać mniej więcej tak:
     
     ![screenshot](images/rooms-games-before.png)
     
-    Not very exciting, but you can fix that in the next challenge.
+    Niezbyt ekscytująco, ale możesz zmienić to podejmując poniższe wyzwanie.
