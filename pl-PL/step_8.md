@@ -1,9 +1,9 @@
-## Adding a background image
+## Dodawanie tła
 
-Let's decorate the hall with a background image.
+Udekorujmy teraz korytarz dodając obrazek tła.
 
-+ Edit the `style.css` to add a background image to the Hall:
++ W pliku `style.css` dodaj obrazek tła do Korytarza:
     
     ![screenshot](images/rooms-hall-decorated.png)
     
-    The image will be repeated to fill the whole room.
+    Obrazek będzie powtarzany, aby wypełnić cały pokój.
