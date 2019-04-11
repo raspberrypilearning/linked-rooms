@@ -1,4 +1,4 @@
-\--- izazov \---
+\--- challenge \---
 
 ## Izazov: Dodajte još vrata!
 
@@ -18,10 +18,10 @@ Za svaku ćete vrata morati:
 
 Dvorana može izgledati ovako:
 
-![zaslona](images/rooms-hall-doors.png)
+![screenshot](images/rooms-hall-doors.png)
 
 TV soba bi trebala izgledati ovako:
 
-![zaslona](images/rooms-tvroom-door.png)
+![screenshot](images/rooms-tvroom-door.png)
 
-\--- / izazov \---
+\--- /challenge \---
