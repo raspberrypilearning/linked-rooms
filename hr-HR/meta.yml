@@ -1,7 +1,7 @@
 ---
 title: Povezane sobe
-hero_image: slike / banner.png
-theme: Crvena
+hero_image: images/banner.png
+theme: red
 duration: 2
 listed: false
 ingredient: false
@@ -11,14 +11,14 @@ description: Izradite web projekt s nekoliko 'soba' povezanih zajedno.
 original_url: https://codeclubprojects.org/en-GB/webdev/linked-rooms
 interests: ''
 technologies: html-css-javascript
-site_areas: projects
+site_areas: projekti
 hardware: ''
 software: html-css-javascript
 version: 3
 last_tested: 2017-01-01
 steps:
   - 
-    title: Uvod
+    title: Sretan rođendan
   - 
     title: Povezivanje na drugu web stranicu u istom projektu
   - 
