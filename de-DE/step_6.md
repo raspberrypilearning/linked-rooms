@@ -1,4 +1,4 @@
-## Make the links look like doors
+## Lasse diesen Link wie Türen aussehen
 
 Links don't just have to be text. Let's make a clickable door using a `<div>`.
 
@@ -6,7 +6,7 @@ Links don't just have to be text. Let's make a clickable door using a `<div>`.
     
     Add `id="hall2tv"` to label it as the door from the Hall to the TV Room so that you can style the door.
     
-    ![screenshot](images/rooms-tvroom-div.png)
+    ![Screenshot](images/rooms-tvroom-div.png)
 
 + Click on the `style.css` tab, go to the bottom and add the following CSS to change the size and colour of the door:
     
@@ -24,6 +24,6 @@ Links don't just have to be text. Let's make a clickable door using a `<div>`.
 
 + You've probably noticed that the door is floating in the air. Let's fix that by positioning the door inside the room.
     
-    ![screenshot](images/rooms-door-position.png)
+    ![Screenshot](images/rooms-door-position.png)
 
 + Test your webpage by clicking on the door to get to the **TV Room**.
