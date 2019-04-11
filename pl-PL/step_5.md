@@ -1,10 +1,10 @@
-\--- challenge \---
+\--- wyzwanie \---
 
 ## Wyzwanie: Ostyluj i podlinkuj pokój zabaw
 
 Zmień kod HTML i CSS **Pokoju Zabaw** w taki sposób, by strona wyglądała tak:
 
-![screenshot](images/rooms-games-challenge.png)
+![zrzut ekranu](images/rooms-games-challenge.png)
 
 Wskazówka: Musisz zmienić kolor tła, czcionki i ramki w pliku `pokojzabaw.css`. Jasnozielony kolor nazywa się `chartreuse`.
 
