@@ -2,19 +2,19 @@
 
 Strony intenetowe mogą być stworzone z wielu plików HTML połączonych ze sobą linkami.
 
-+ Otwórz ten projekt: <a href="http://jumpto.cc/web-rooms" target="_blank">jumpto.cc/web-rooms</a>.
++ Otwórz edytor: <a href="http://jumpto.cc/web-rooms" target="_blank">jumpto.cc/web-rooms</a>.
     
     Projekt powinien wyglądać następująco:
     
-    ![screenshot](images/rooms-starter.png)
+    ![zrzut ekranu](images/rooms-starter.png)
 
 + Trinket powinien uruchomić się automatycznie i skierować Cię do korytarza:
     
-    ![screenshot](images/rooms-hall-start.png)
+    ![zrzut ekranu](images/rooms-hall-start.png)
 
 + Spójrz na listę zakładek w tym trinkiecie. Czy widzisz tam plik `salon.html`? Kliknij na niego.
     
-    ![screenshot](images/rooms-tvroom-html.png)
+    ![zrzut ekranu](images/rooms-tvroom-html.png)
     
     To jest po prostu inny plik HTML w tym samym projekcie.
 
@@ -22,10 +22,10 @@ Strony intenetowe mogą być stworzone z wielu plików HTML połączonych ze sob
     
     Dodaj podświetlony kod wewnątrz `<div>` z klasą `room`:
     
-    ![screenshot](images/rooms-link-tvroom.png)
+    ![zrzut ekranu](images/rooms-link-tvroom.png)
 
 + Przetestuj swój projekt klikając na link **Salon**, by zobaczyć stronę `salon.html`.
     
     Zauważ, że plik `tvroom.html` również ma swój własny styl (`tvroom.css`), który ustala wygląd tej strony.
     
-    ![screenshot](images/rooms-tvroom-unstyled.png)
+    ![zrzut ekranu](images/rooms-tvroom-unstyled.png)
