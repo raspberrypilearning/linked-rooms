@@ -4,17 +4,17 @@ Dodajmy teraz inny pokój - **Pokój Zabaw**.
 
 + Kliknij na przycisk **+**, który służy do dodawania stron:
     
-    ![screenshot](images/rooms-add-page.png)
+    ![zrzut ekranu](images/rooms-add-page.png)
     
     Jako nazwę strony wpisz `pokojzabaw.html`:
     
-    ![screenshot](images/rooms-games-html.png)
+    ![zrzut ekranu](images/rooms-games-html.png)
 
 + Kod HTML dla **Pokoju Zabaw** jest bardzo podobny do tego z pliku `salon.html`więc możesz **skopiować go** i **wkleić**do pliku `pokojzabaw.html`.
     
     Zmień zaznaczone elementy, aby dotyczyły pokoju zabaw, a nie salonu:
     
-    ![screenshot](images/rooms-games-html2.png)
+    ![zrzut ekranu](images/rooms-games-html2.png)
 
 + Twój `pokojzabaw.html` używa teraz pliku `pokojzabaw.css`, który jeszcze nie istnieje.
     
@@ -32,6 +32,6 @@ Dodajmy teraz inny pokój - **Pokój Zabaw**.
     
     **Pokój Zabaw** powinien wyglądać mniej więcej tak:
     
-    ![screenshot](images/rooms-games-before.png)
+    ![zrzut ekranu](images/rooms-games-before.png)
     
     Niezbyt ekscytująco, ale możesz zmienić to podejmując poniższe wyzwanie.
