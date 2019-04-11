@@ -1,4 +1,4 @@
-\--- challenge \---
+\--- wyzwanie \---
 
 ## Wyzwanie: Jeszcze więcej drzwi!
 
@@ -18,10 +18,10 @@ Dla każdych drzwi musisz:
 
 Korytarz może wyglądać tak:
 
-![screenshot](images/rooms-hall-doors.png)
+![zrzut ekranu](images/rooms-hall-doors.png)
 
 Salon powinien wygladać mniej więcej tak:
 
-![screenshot](images/rooms-tvroom-door.png)
+![zrzut ekranu](images/rooms-tvroom-door.png)
 
 \--- /challenge \---
