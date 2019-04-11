@@ -8,6 +8,6 @@ Uredi HTML i CSS za **Salu za igre** tako da veb-stranica izgleda ovako:
 
 Savjet: Treba da promijeniš boju pozadine, boju fonta i boju okvira u `gamesroom.css`. Naziv svijetlozelene boje je `chartreuse`.
 
-Hint: You'll need to add an `<a>` link in `gamesroom.html` which links to `index.html`.
+Savjet: Treba da dodaš link `&lt;a&gt;` u `gamesroom.html` koji vodi do `index.html`.
 
 \--- /challenge \---
