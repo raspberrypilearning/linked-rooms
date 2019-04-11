@@ -12,41 +12,41 @@ U ovom projektu izradit ćete skup povezanih soba u kojima svaka soba predstavlj
 
 ### Dodatne informacije za voditelje kluba
 
-Ako trebate ispisati ovaj projekt, molimo koristite [Verzija za ispis](https://projects.raspberrypi.org/en/projects/linked-rooms/print).
+Ako želite ispisati ovaj projekt, molimo Vas da koristite [verziju koja je prilagođena za ispis](https://projects.raspberrypi.org/en/projects/linked-rooms/print).
 
-## \--- kolaps \---
+## \--- collapse \---
 
-## naslov: Bilješke voditelja kluba
+## title: Bilješke za voditelja kluba
 
 ## Uvod:
 
 U ovom projektu, djeca se upisuju na više povezanih web stranica u istom projektu s vlastitom CSS datotekom.
 
-## Online resursi
+## Online izvori
 
-Preporučujemo upotrebu [triketa](https://trinket.io/) za pisanje HTML & CSS-a na mreži. Ovaj projekt sadrži sljedeće trikove:
+Preporučamo korištenje [trinket](https://trinket.io/) za pisanje HTML & CSS online. Ovaj projekt sadrži sljedeće trikove:
 
 * [Polazna točka "Povezane sobe" - jumpto.cc/web-rooms](http://jumpto.cc/web-rooms)
 
-Djeca također mogu koristiti ovu praznu nakit [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) da napišu vlastiti HTML & CSS ili alternativno mogu koristiti ovaj predložak nakita [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
+Djeca također mogu koristiti ovu praznu trinket [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) napisati vlastiti HTML & CSS ili alternativno mogu upotrijebiti ovaj predložak trinket [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
 
-Tu je i trikota s rješenjem uzorka izazovima:
+Također je uključen i trinket koji sadrži prijedlog rješenja izazova:
 
 * ["Povezane sobe završene" - https://trinket.io/html/ba5d27ec68](https://trinket.io/html/ba5d27ec68)
 
-## Offline resursi
+## Offline izvori
 
-Ovaj projekt može biti [završen offline](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) ako je željena. Možete pristupiti resursima projekta klikom na vezu "Projekti materijali" za ovaj projekt. Ova veza sadrži odjeljak "Projektni resursi", koji uključuje resurse koje će djeca morati dovršiti ovaj projekt izvan mreže. Pazite da svako dijete ima pristup kopiji tih resursa. Ovaj odjeljak sadrži sljedeće datoteke:
+Ako želite, ovaj projekt može bit [završen offline](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/). Materijalima projekta možete pristupiti klikom na poveznicu 'Project Materials'. Poveznica sadrži odjeljak 'Resursi projekta' u kojem se nalaze materijali koji će djeci biti potrebni za izradu projekta offline. Pobrinite se da svako dijete ima pristup kopiji ovih materijala. U odjeljku se nalaze sljedeće datoteke:
 
 * povezane-sobe / index.html
 * povezane-sobe / style.css
 * povezane-sobe / script.js
 * povezane-sobe / prefixfree.js
 * povezane sobe / 4 x .png slike
-* predložak / template.html
-* predložak / style.css
+* template/template.html
+* template/style.css
 
-Također možete naći dovršenu verziju izazova ovog projekta u odjeljku "Volonterski resursi", koji sadrži:
+Dovršene verzije izazova projekta možete pronaći i u odjeljku 'Resursi za volontere' koji sadrži:
 
 * povezane-sobe-gotov / index.html
 * povezane-sobe-gotov / style.css
@@ -54,16 +54,16 @@ Također možete naći dovršenu verziju izazova ovog projekta u odjeljku "Volon
 * povezane-sobe-gotov / prefixfree.js
 * povezane sobe / 4 x .png slike
 
-(Sve gore navedene resurse također se mogu preuzeti kao projekt i dobrovoljno `.zip` datoteke.)
+(Svi spomenuti materijali nalaze se u materijalima projekta i materijalima za volontere, moguće je preuzeti kao `.zip` datoteke.)
 
-## ciljevi učenja
+## Ishodi učenja
 
 * Ovaj projekt uvodi projekte s više HTML stranica povezanih zajedno
 * Uvedene su i više CSS datoteka
 
-Ovaj projekt pokriva elemente iz sljedećih niza [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+Ovaj projekt pokriva elemente sljedećih dijelova kurikuluma [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
-* [Oblikujte osnovne 2D i 3D snimke](https://www.raspberrypi.org/curriculum/design/creator).
+* [Dizajnirajte osnovna 2D i 3D sredstva](https://www.raspberrypi.org/curriculum/design/creator).
 
 ## Izazovi
 
@@ -75,20 +75,20 @@ Ovaj projekt pokriva elemente iz sljedećih niza [Raspberry Pi Digital Making Cu
 
 div> linkovi koji se mogu kliknuti + "Dodaj pozadinu u sobi za igre" - Dodajte pozadinsku sliku + "Pripazite!" - Dodajte više soba pomoću naučenih vještina + "Dodavanje tipkovnog kursora" - Zabava dodatna opcija za one koji završavaju projekt
 
-\--- /kolaps \---
+\--- /collapse \---
 
-## \--- kolaps \---
+## \--- collapse \---
 
-## Naslov: Projektni materijali
+## title: Materijali projekta
 
 ## Resursi projekta
 
-* [.zip datoteku koja sadrži sve resurse projekta](resources/rooms-project-resources.zip)
+* [.zip datoteka koja sadrži sve materijale projekta](resources/rooms-project-resources.zip)
 * [Online Trinket koji sadrži sve resurse projekta "Povezane sobe"](http://jumpto.cc/web-rooms)
-* [Predložak Online Trinket](http://jumpto.cc/trinket-template)
-* [Online prazno trinket](http://jumpto.cc/trinket-blank)
-* [predložak / index.html](resources/template-index.html)
-* [predložak / style.css](resources/template-style.css)
+* [Online Trinket predložak](http://jumpto.cc/trinket-template)
+* [Online prazan Trinket](http://jumpto.cc/trinket-blank)
+* [template/index.html](resources/template-index.html)
+* [template/style.css](resources/template-style.css)
 * [povezane-sobe / index.html](resources/linked-rooms-index.html)
 * [povezane-sobe / style.css](resources/linked-rooms-style.css)
 * [povezane-sobe / tvroom.html](resources/linked-rooms-tvroom.html)
@@ -99,10 +99,10 @@ div> linkovi koji se mogu kliknuti + "Dodaj pozadinu u sobi za igre" - Dodajte p
 * [povezane-sobe / star.png](resources/linked-rooms-star.png)
 * [povezane-sobe / stripes.png](resources/linked-rooms-stripes.png)
 
-## Resursi za vođe kluba
+## Resursi voditelja kluba
 
-* [.zip datoteku koja sadrži sve dovršene resurse projekta](resources/rooms-volunteer-resources.zip)
-* [Online završio projekt Trinket](https://trinket.io/html/1d4d4c5ce1)
+* [.zip datoteka koja sadrži sve dovršene resurse projekta](resources/rooms-volunteer-resources.zip)
+* [Dovršeni Online Trinket projekt](https://trinket.io/html/1d4d4c5ce1)
 * [povezane-sobe-gotov / index.html](resources/linked-rooms-finished-index.html)
 * [povezane-sobe-gotov / style.css](resources/linked-rooms-finished-style.css)
 * [povezane-sobe-gotov / tvroom.html](resources/linked-rooms-finished-tvroom.html)
@@ -115,4 +115,4 @@ div> linkovi koji se mogu kliknuti + "Dodaj pozadinu u sobi za igre" - Dodajte p
 * [povezane-sobe-gotov / star.png](resources/linked-rooms-finished-star.png)
 * [povezane-sobe-gotov / stripes.png](resources/linked-rooms-finished-stripes.png)
 
-\--- /kolaps \---
+\--- /collapse \---
