@@ -16,14 +16,14 @@ Links não precisam ser apenas texto. Vamos fazer uma porta clicável usando um 
 
 + Agora vamos fazer parecer um pouco mais com uma porta, adicionando uma borda em torno de três lados:
     
-    ![captura de tela](images/rooms-door-css2.png)
+    ![screenshot](images/rooms-door-css2.png)
 
 + E vamos adicionar CSS para deixar o texto na porta com melhor aparência:
     
-    ![captura de tela](images/rooms-door-css3.png)
+    ![captura](images/rooms-door-css3.png)
 
 + Você provavelmente já percebeu que a porta está flutuando no ar. Vamos consertar isso posicionando a porta dentro da sala.
     
-    ![captura de tela](images/rooms-door-position.png)
+    ![screenshot](images/rooms-door-position.png)
 
 + Teste sua página clicando na porta para chegar à Sala de TV.
