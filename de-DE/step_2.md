@@ -1,12 +1,12 @@
-## Linking to another web page in the same project
+## Stelle eine Verknüpfung zu einer anderen Webseite im gleichen Projekt her
 
 Web projects can be made up of lots of HTML files linked together.
 
-+ Open this trinket: <a href="http://jumpto.cc/web-rooms" target="_blank">jumpto.cc/web-rooms</a>.
++ Öffne diesen Trinket: <a href="http://jumpto.cc/web-rooms" target="_blank">jumpto.cc/web-rooms</a>.
     
-    The project should look like this:
+    Das Projekt sollte so aussehen:
     
-    ![screenshot](images/rooms-starter.png)
+    ![Screenshot](images/rooms-starter.png)
 
 + The trinket should autorun and you will find yourself in the Hall:
     
@@ -14,7 +14,7 @@ Web projects can be made up of lots of HTML files linked together.
 
 + Look at the list of file tabs for this trinket. Can you see `tvroom.html`? Click on it.
     
-    ![screenshot](images/rooms-tvroom-html.png)
+    ![Screenshot](images/rooms-tvroom-html.png)
     
     This is another html file in the same project.
 
@@ -22,10 +22,10 @@ Web projects can be made up of lots of HTML files linked together.
     
     Add the highlighted code inside the `<div>` with the class `room`:
     
-    ![screenshot](images/rooms-link-tvroom.png)
+    ![Screenshot](images/rooms-link-tvroom.png)
 
 + Test your trinket by clicking on the **TV Room** link to see the `tvroom.html` webpage.
     
     Note that `tvroom.html` also has its own `tvroom.css` style file which defines the layout for this page.
     
-    ![screenshot](images/rooms-tvroom-unstyled.png)
+    ![Screenshot](images/rooms-tvroom-unstyled.png)
