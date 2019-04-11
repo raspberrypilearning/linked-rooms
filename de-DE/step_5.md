@@ -1,6 +1,6 @@
 \--- challenge \---
 
-## Challenge: Style and link the Games Room
+## Aufgabe: Gestalte das Spielzimmer und stelle einen Link hierzu her
 
 Edit the HTML and CSS for the **Games Room** so that the webpage looks like this:
 
