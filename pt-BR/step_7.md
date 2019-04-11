@@ -1,4 +1,4 @@
-\--- challenge \---
+\--- desafio \---
 
 ## Desafio: adicione mais portas!
 
@@ -18,10 +18,10 @@ Para cada porta, você vai precisar:
 
 O Salão deve aparecer assim:
 
-![captura de tela](images/rooms-hall-doors.png)
+![screenshot](images/rooms-hall-doors.png)
 
 A Sala de TV deve exibir algo do tipo:
 
-![captura de tela](images/rooms-tvroom-door.png)
+![screenshot](images/rooms-tvroom-door.png)
 
-\--- challenge \---
+\--- /challenge \---
