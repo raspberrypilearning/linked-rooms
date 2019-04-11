@@ -1,6 +1,6 @@
 \--- challenge \---
 
-## Challenge: Make it yours!
+## Aufgabe: Gestalte es so wie du es willst!
 
 Add more rooms to your project. Remember that you can use **copy** and **paste** to save time and then just change the things that need to be different.
 
@@ -12,6 +12,6 @@ For each room you will need to:
 
 You can change the `background-color:` for each room. Click on the images icon to see the background images you can choose from:
 
-![screenshot](images/rooms-images.png)
+![Screenshot](images/rooms-images.png)
 
 \--- /challenge \---
