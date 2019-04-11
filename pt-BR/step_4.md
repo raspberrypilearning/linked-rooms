@@ -4,17 +4,17 @@ Agora vamos adicionar outra sala, uma **Sala de Jogos.**.
 
 + Clique no botão adicionar página **+**:
     
-    ![captura de tela](images/rooms-add-page.png)
+    ![screenshot](images/rooms-add-page.png)
     
     Digite `saladejogos.html` como o nome da página:
     
-    ![captura de tela](images/rooms-games-html.png)
+    ![screenshot](images/rooms-games-html.png)
 
 + O HTML da **Sala de Jogos** é muito parecido com o da `saladetv.html`, então **copie** that and **cole** em `saladejogos.html`.
     
     Edite os itens destacados para que eles digam Jogos e não TV:
     
-    ![captura de tela](images/rooms-games-html2.png)
+    ![screenshot](images/rooms-games-html2.png)
 
 + Seu `saladejogos.html` agora usa o `saladejogos.css` que ainda não existe.
     
@@ -26,12 +26,12 @@ Agora vamos adicionar outra sala, uma **Sala de Jogos.**.
 
 + Adicione um link do Salão para a Sala de Jogos:
     
-    ![captura](images/rooms-hall-games.png)
+    ![screenshot](images/rooms-hall-games.png)
 
 + Teste seu projeto clicando no link da Sala de Jogos
     
     A **Sala de Jogos** deve ficar assim:
     
-    ![capturas de tela](images/rooms-games-before.png)
+    ![screenshot](images/rooms-games-before.png)
     
     Não é super emocionante, mas você pode resolver isso no próximo desafio.
