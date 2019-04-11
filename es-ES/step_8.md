@@ -1,9 +1,9 @@
-## Adding a background image
+## Añadir una imagen de fondo
 
 Let's decorate the hall with a background image.
 
 + Edit the `style.css` to add a background image to the Hall:
     
-    ![screenshot](images/rooms-hall-decorated.png)
+    ![captura de pantalla](images/rooms-hall-decorated.png)
     
     The image will be repeated to fill the whole room.
