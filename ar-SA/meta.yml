@@ -1,0 +1,39 @@
+---
+title: غرف مرتبطة
+hero_image: images/banner.png
+theme: violet
+duration: 2
+listed: false
+ingredient: false
+copyedit: false
+curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
+description: أنشئ مشروع ويب يتضمن عدة 'غرف' مرتبطة بعضها ببعض.
+original_url: https://codeclubprojects.org/en-GB/webdev/linked-rooms
+interests: ''
+technologies: html-css-javascript
+site_areas: codeclub, python
+hardware: ''
+software: html-css-javascript
+version: 3
+last_tested: 2017-01-01
+steps:
+  - 
+    title: المقدمة
+  - 
+    title: الربط بصفحة ويب أخرى في المشروع نفسه
+  - 
+    title: 'التحدي: أضف رابطًا آخر'
+  - 
+    title: إضافة غرفة أخرى
+  - 
+    title: 'التحدي: حدِّد نمط Games Room وأضف رابطًا إليها'
+  - 
+    title: إنشاء الروابط في شكل أبواب
+  - 
+    title: 'التحدي: أضف أبوابًا أخرى!'
+  - 
+    title: إضافة صورة خلفية
+  - 
+    title: 'التحدي: أضف ورق حائط إلى Games Room'
+  - 
+    title: 'التحدي: أضف إلى مشروعك!'
