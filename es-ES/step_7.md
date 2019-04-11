@@ -1,6 +1,6 @@
-\--- challenge \---
+\--- desafío \---
 
-## Challenge: Add more doors!
+## Desafío: ¡Añadir más puertas!
 
 Turn the other links in your project into doors in the same way.
 
@@ -8,7 +8,7 @@ For each door you'll need to:
 
 + Edit the door link to use a `<div>` with an id such as `hall2games` so that you can style it.
     
-    For example:
+    Por ejemplo:
     
     `<a href="gamesroom.html"><div id="hall2games">Games Room</div></a>`
 
@@ -22,6 +22,6 @@ The Hall might look like this:
 
 The TV Room should look something like this:
 
-![screenshot](images/rooms-tvroom-door.png)
+![captura de pantalla](images/rooms-tvroom-door.png)
 
 \--- /challenge \---
