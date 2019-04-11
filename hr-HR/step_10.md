@@ -1,4 +1,4 @@
-\--- izazov \---
+\--- challenge \---
 
 ## Izazov: Učinite to tvoje!
 
@@ -12,6 +12,6 @@ Za svaku sobu morat ćete:
 
 Možete promijeniti `pozadinsku boju:` za svaku sobu. Kliknite ikonu slika da biste vidjeli pozadinske slike koje možete odabrati:
 
-![zaslona](images/rooms-images.png)
+![screenshot](images/rooms-images.png)
 
-\--- / izazov \---
+\--- /challenge \---
