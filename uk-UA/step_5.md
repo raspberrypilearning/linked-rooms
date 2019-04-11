@@ -8,6 +8,6 @@
 
 Підказка: Вам потрібно буде змінити колір фону, колір шрифту та колір полів ` gamesroom.css `. Яскраво-зелений колір називається`chartreuse`.
 
-Hint: You'll need to add an `<a>` link in `gamesroom.html` which links to `index.html`.
+Підказка. Потрібно додати `<a>` посилання в ` gamesroom.html `, що посилається на ` index.html `.
 
 \--- /challenge \---
