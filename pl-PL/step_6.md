@@ -6,17 +6,17 @@ Linki nie muszą być zwykłym tekstem. Stwórzmy klikalne drzwi używając tagu
     
     Dodaj `id="kor_sal"`, aby oznaczyć link jako drzwi z korytarza do salonu i móc je ostylować.
     
-    ![screenshot](images/rooms-tvroom-div.png)
+    ![zrzut ekranu](images/rooms-tvroom-div.png)
 
 + Teraz kliknij na zakładkę `style.css` i dodaj poniższy kod CSS, aby zmienić rozmiar i kolor drzwi:
     
-    ![screenshot](images/rooms-door-css1.png)
+    ![zrzut ekranu](images/rooms-door-css1.png)
 
 + Przetestuj swoją stronę klikając drzwi w różnych miejcach, nie tylko w tekst.
 
 + Zmieńmy je tak, by wyglądały trochę bardziej jak drzwi. W tym celu dodamy ramkę z trzech stron:
     
-    ![screenshot](images/rooms-door-css2.png)
+    ![zrzut ekranu](images/rooms-door-css2.png)
 
 + Dodajmy też trochę kodu CSS, aby tekst na drzwiach wyglądał nieco lepiej:
     
@@ -24,6 +24,6 @@ Linki nie muszą być zwykłym tekstem. Stwórzmy klikalne drzwi używając tagu
 
 + Pewnie zauważyłeś, że drzwi wiszą w powietrzu. Naprawmy to ustawiając je w odpowiednim miejscu.
     
-    ![screenshot](images/rooms-door-position.png)
+    ![zrzut ekranu](images/rooms-door-position.png)
 
 + Przetestuj swoją stronę klikając drzwi do **Salonu** w różnych miejcach, nie tylko w tekst.
