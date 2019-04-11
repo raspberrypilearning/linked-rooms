@@ -1,6 +1,6 @@
 \--- challenge \---
 
-## Challenge: Add another link
+## Aufgabe: Füge einen weiteren Link hinzu
 
 Add an `<a>` link to the `tvroom.html` webpage to get you back to the Hall webpage which is called `index.html`. The link text should be 'Hall'.
 
