@@ -1,4 +1,4 @@
-\--- challenge \---
+\--- wyzwanie \---
 
 ## Wyzwanie: Dodaj kolejny link
 
@@ -6,7 +6,7 @@ Dodaj `<a>`link w pliku `salon.html`, który zabierze Cię z powrotem na stronę
 
 Salon powinien mieć link, który możesz kliknąć:
 
-![screenshot](images/rooms-hall-link.png)
+![zrzut ekranu](images/rooms-hall-link.png)
 
 Pamiętaj o przetestowaniu swojego programu. Klikanie na linki powinno umożliwiać Ci przemieszczanie się między korytarzem i salonem.
 
