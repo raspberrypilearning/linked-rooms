@@ -1,7 +1,7 @@
 ---
 title: Cômodos Interligados
-hero_image: imagens/banner.png
-theme: vermelho
+hero_image: images/banner.png
+theme: red
 duration: 2
 listed: false
 ingredient: false
@@ -15,25 +15,25 @@ site_areas: projects
 hardware: ''
 software: html-css-javascript
 version: 3
-last_tested: 2017-01-01
+last_tested: 01/01/2017
 steps:
   - 
-    title: Cômodos Interligados
+    title: Introdução
   - 
-    title: Linking to another web page in the same project
+    title: Vinculando a outra página da Web no mesmo projeto
   - 
-    title: 'Challenge: Add another link'
+    title: 'Desafio: Adicione outro link'
   - 
-    title: Add another room
+    title: Adicione outra sala
   - 
-    title: 'Challenge: Style and link the Games Room'
+    title: 'Desafio: Design e interligue a sala de jogos'
   - 
-    title: Make the links look like doors
+    title: Faça com que os links pareçam portas
   - 
-    title: 'Challenge: Add more doors!'
+    title: 'Desafio: adicione mais portas!'
   - 
-    title: Adding a background image
+    title: Adicionando imagem de fundo
   - 
-    title: 'Challenge: Add wallpaper to the Games Room'
+    title: 'Desafio: Adicione papel de parede à Sala de Jogos'
   - 
-    title: 'Challenge: Make it yours!'
+    title: 'Desafio: Personalise!'
