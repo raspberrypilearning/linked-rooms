@@ -1,4 +1,4 @@
-\--- challenge \---
+\--- wyzwanie \---
 
 ## Wyzwanie: Zrób po swojemu!
 
@@ -12,6 +12,6 @@ Dla każdego pokoju musisz:
 
 Możesz zmienić `background-color:` (kolor tła) dla każdego pokoju. Kliknij na ikonę obrazków, aby zobaczyć tła, które możesz wybrać:
 
-![screenshot](images/rooms-images.png)
+![zrzut ekranu](images/rooms-images.png)
 
 \--- /challenge \---
