@@ -10,33 +10,33 @@ Neste projeto, você criará um conjunto de cômodos interligados no qual cada c
 
 **Instruções**: Clique nas portas para se mover pelos cômodos.
 
-### Informação complementar para líderes de clube
+### Informação adicional para líderes de clubes
 
-Se você precisar imprimir este projeto, use a [Versão para impressão](https://projects.raspberrypi.org/en/projects/linked-rooms/print).
+Se você precisar imprimir este projeto, use a [Versão para Impressão](https://projects.raspberrypi.org/en/projects/linked-rooms/print).
 
 ## \--- collapse \---
 
-## título: notas do líder do clube
+## title: Notas do líder do clube
 
 ## Introdução:
 
 Neste projeto, as crianças são apresentadas a várias páginas da Web vinculadas no mesmo projeto, cada uma com seu próprio arquivo CSS.
 
-## Recursos online
+## Recursos Online
 
-Recomendamos usar o [trinket](https://trinket.io/) para escrever HTML & CSS online. Este projeto contém os seguintes Trinkets:
+Nós recomendamos usar [trinket](https://trinket.io/) para escrever HTML & CSS online. Este projeto contém o seguinte trinket:
 
 * ['Cômodos conectados' ponto de partida -- jumpto.cc/web-rooms](http://jumpto.cc/web-rooms)
 
-As crianças também podem fazer uso deste Trinket em branco [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) para escrever seu próprio HTML & CSS, ou como alternativa, eles podem usar este template Trinket [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
+As crianças também podem usar este trinket em branco [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) para escrever seu próprio HTML & CSS, ou como alternativa, eles podem usar este modelo de trinket [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
 
 Há também um Trinket contendo um exemplo de solução para os desafios:
 
 * ['Cômodos Conectados Final' -- https://trinket.io/html/ba5d27ec68](https://trinket.io/html/ba5d27ec68)
 
-## Recursos offline
+## Recursos Offline
 
-Este projeto pode ser [concluído off-line](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/), se preferir. Você pode acessar os recursos do projeto clicando no link 'Materiais do projeto' para este projeto. Este link contém uma seção "Recursos do Projeto", que inclui recursos que as crianças precisarão para concluir esse projeto off-line. Certifique-se de que cada criança tenha acesso a uma cópia desses recursos. Esta seção inclui os seguintes arquivos:
+Este projeto pode ser [concluído offline](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/), se você preferir. Você pode acessar os recursos disponíveis clicando no link 'Materiais do Projeto'. Este link contém uma seção "Recursos do Projeto", que inclui recursos que as crianças precisarão para concluir esse projeto off-line. Certifique-se de que cada criança tenha acesso a uma cópia desses recursos. Esta seção inclui os seguintes arquivos:
 
 * linked-rooms/index.html
 * linked-rooms/style.css
@@ -54,16 +54,16 @@ Você também pode encontrar uma versão completa dos desafios deste projeto na 
 * linked-rooms-finished/prefixfree.js
 * linked-rooms-finished/4 x .png images
 
-(Todos os recursos acima também podem ser baixados como arquivos `.zip` do projeto e voluntários.)
+(Todos os recursos acima também podem ser baixados como arquivos de projeto e de voluntário no formato `.zip`.)
 
-## Objetivos de Aprendizado
+## Objetivos de aprendizado
 
 * Este projeto apresenta projetos com várias páginas html ligadas entre si
 * Diversos arquivos CSS também são introduzidos
 
-Este projeto abrange elementos das seguintes vertentes do [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+Este projeto abrange elementos das seguintes vertentes do [Currículo de Criação Digital Raspberry Pi](http://rpf.io/curriculum):
 
-* [Design básico em 2D and 3D benefícios](https://www.raspberrypi.org/curriculum/design/creator).
+* [Design de ativos 2D e 3D básicos](https://www.raspberrypi.org/curriculum/design/creator).
 
 ## Desafios
 
@@ -77,7 +77,7 @@ div>s como links clicaveis + "Adicionar papel de parede à Sala de Jogos" - Adic
 
 \--- /collapse \---
 
-## \--- collapse \---
+## \--- colapso \---
 
 ## Título: Materiais do projeto
 
@@ -85,8 +85,8 @@ div>s como links clicaveis + "Adicionar papel de parede à Sala de Jogos" - Adic
 
 * [arquivo.zip contendo todos os recursos do projeto](resources/rooms-project-resources.zip)
 * [Online Trinket contendo todos os recursos do projeto 'CodeCraft'](http://jumpto.cc/web-rooms)
-* [Online Trinket modelo](http://jumpto.cc/trinket-template)
-* [Online Trinket em branco](http://jumpto.cc/trinket-blank)
+* [Template Online Trinket](http://jumpto.cc/trinket-template)
+* [Trinket online em branco](http://jumpto.cc/trinket-blank)
 * [template/index.html](resources/template-index.html)
 * [template/style.css](resources/template-style.css)
 * [linked-rooms/index.html](resources/linked-rooms-index.html)
@@ -101,8 +101,8 @@ div>s como links clicaveis + "Adicionar papel de parede à Sala de Jogos" - Adic
 
 ## Recursos do líder do clube
 
-* [arquivo.zip contendo todos os recursos do projeto concluídos](resources/rooms-volunteer-resources.zip)
-* [Projeto Trinket concluído online](https://trinket.io/html/1d4d4c5ce1)
+* [arquivo .zip contém todos os recursos do projeto](resources/rooms-volunteer-resources.zip)
+* [Projeto Trinket online e completo](https://trinket.io/html/1d4d4c5ce1)
 * [linked-rooms-finished/index.html](resources/linked-rooms-finished-index.html)
 * [linked-rooms-finished/style.css](resources/linked-rooms-finished-style.css)
 * [linked-rooms-finished/tvroom.html](resources/linked-rooms-finished-tvroom.html)
