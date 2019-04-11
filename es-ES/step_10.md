@@ -1,6 +1,6 @@
-\--- challenge \---
+\--- desafío \---
 
-## Challenge: Make it yours!
+## Desafío: ¡Hazlo tuyo!
 
 Add more rooms to your project. Remember that you can use **copy** and **paste** to save time and then just change the things that need to be different.
 
