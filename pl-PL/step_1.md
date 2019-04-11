@@ -10,15 +10,15 @@ Wykonując ten projekt zbudujemy kilka połączonych pokojów - każdy pokój b�
 
 **Instrukcja**: kliknij na drzwi, aby przemieścić się między pokojami.
 
-### Dodatkowe informacje dla liderów klubów
+### Dodatkowe informacje dla prowadzących klub
 
 Jeśli chcesz wydrukować ten projekt, użyj [wersji do druku](https://projects.raspberrypi.org/en/projects/linked-rooms/print).
 
 ## \--- collapse \---
 
-## title: Dla lidera klubu
+## title: Notatki dla liderów klubów
 
-## Wprowadzenie:
+## Wstęp:
 
 Wykonując ten projekt dzieci dowiedzą się, jak linkować wiele stron internetowych z indywidalnymi plikami CSS w tym samym projekcie.
 
@@ -36,7 +36,7 @@ Dostępny jest także projekt zawierający przykładowe rozwiązania wyzwań:
 
 ## Zasoby Offline
 
-Ten projekt można także [wykonać offline](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/). Materiały potrzebne do wykonania projektu dostępne są po kliknięciu w link "Materiały do projektu". Można znaleźć tam sekcję "Zasoby", która zawiera zasoby potrzebne dzieciom do wykonania projektu w trybie offline. Upewnij się, że każde dziecko ma dostęp do tych zasobów. Ta sekcja zawiera następujące pliki:
+Ten projekt można także [wykonać offline](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/). Materiały potrzebne do wykonania projektu dostępne są po kliknięciu linku "Materiały do projektu". Ten link zawiera sekcję "Zasoby projektu", która zawiera zasoby, których dzieci będą potrzebować, aby ukończyć ten projekt w trybie offline. Upewnij się, że każde dziecko ma dostęp do tych zasobów. Ta sekcja zawiera następujące pliki:
 
 * linked-rooms/index.html
 * linked-rooms/style.css
@@ -63,9 +63,9 @@ Ukończoną wersję zadań z tego projektu można również znaleźć w sekcji "
 
 Projekt ten obejmuje elementy z następujących wątków [Cyfrowego programu nauczania Raspberry Pi](http://rpf.io/curriculum):
 
-* [Projektowanie podstawowych zasobów 2D i 3D](https://www.raspberrypi.org/curriculum/design/creator).
+* [ Projektuj podstawowe zasoby 2D i 3D](https://www.raspberrypi.org/curriculum/design/creator).
 
-## Wyzwania
+## Zadania
 
 * "Dodaj kolejny link" - dodaj link między stronami w tym samym projekcie;
 * "Ostyluj i podlinkuj Pokój Zabaw" - dodaj link i ostyluj stronę plikiem CSS. 
@@ -91,7 +91,7 @@ klasy
   </h2>
   
   <h2>
-    Zasoby
+    Zasoby projektu
   </h2>
   
   <ul>
@@ -102,7 +102,7 @@ klasy
       <a href="http://jumpto.cc/web-rooms">Trinket zawierający wszystkie zasoby projektu</a>
     </li>
     <li>
-      <a href="http://jumpto.cc/trinket-template">Pusty szablon</a>
+      <a href="http://jumpto.cc/trinket-template">Pusty szablon Trinket</a>
     </li>
     <li>
       <a href="http://jumpto.cc/trinket-blank">Pusty Trinket</a>
@@ -151,7 +151,7 @@ klasy
       <a href="resources/rooms-volunteer-resources.zip">Plik .zip zawierający zasoby z ukończonym projektem</a>
     </li>
     <li>
-      <a href="https://trinket.io/html/1d4d4c5ce1">Ukończony projekt "Pokoje"</a>
+      <a href="https://trinket.io/html/1d4d4c5ce1">Trinket zawierający ukończony projekt</a>
     </li>
     <li>
       <a href="resources/linked-rooms-finished-index.html">linked-rooms-finished/index.html</a>
