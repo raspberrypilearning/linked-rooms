@@ -1,7 +1,7 @@
 ---
 title: Salas Enlazadas
 hero_image: images/banner.png
-theme: red
+theme: rojo
 duration: 2
 listed: false
 ingredient: false
@@ -22,7 +22,7 @@ steps:
   - 
     title: Crear un enlace a otra página web en el mismo proyecto
   - 
-    title: 'Desafío: Añadir otro enlace'
+    title: 'Desafío: Añade otro enlace'
   - 
     title: Añadir otra sala
   - 
