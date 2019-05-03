@@ -2,7 +2,7 @@
 
 Веб-проекти можуть складатися з безлічі HTML-файлів, з'єднаних між собою.
 
-+ Відкрийте цей Trinket: <a href="https://trinket.io/html/50cb5da6ca" target="_blank">jumpto.cc/web-rooms</a>.
++ Відкрийте цей Trinket: <a href="http://jumpto.cc/web-rooms" target="_blank">jumpto.cc/web-rooms</a>.
     
     Проект повинен виглядати так:
     
@@ -20,7 +20,7 @@
 
 + Щоб перейти до `tvroom.html`, потрібно додати посилання `index.html`.
     
-    Додайте виділений код всередині `<div>` з класом ` кімната `:
+    Додайте виділений код всередині `<div>` з класом `кімната`:
     
     ![скріншот](images/rooms-link-tvroom.png)
 
