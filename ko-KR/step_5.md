@@ -6,7 +6,7 @@
 
 ![스크린샷](images/rooms-games-challenge.png)
 
-힌트: `gamesroom.css` 에서 배경색 (background color), 글꼴 색 (font colour) 및 테두리 색 (border colour)을 변경해야 합니다. 밝은 초록색을 `chartreuse` 이라고 합니다.
+힌트: `gamesroom.css` 에서 배경색 (background color), 글꼴 색 (font colour) 및 테두리 색 (border colour) 을 변경해야 합니다. 밝은 초록색을 `chartreuse` 이라고 합니다.
 
 힌트 : `gamesroom.html` 에 `index.html`, 거실로 링크 된 `<a>` 링크를 추가해야 합니다.
 
