@@ -1,0 +1,29 @@
+---
+title: 연결된 방
+hero_image: images/banner.png
+theme: red
+duration: 2
+listed: false
+ingredient: false
+copyedit: false
+curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
+description: 서로 연결된 방을 만들어 봅니다.
+original_url: https://codeclubprojects.org/en-GB/webdev/linked-rooms
+interests: ''
+technologies: html-css-javascript
+site_areas: projects
+hardware: ''
+software: html-css-javascript
+version: 3
+last_tested: 2017-01-01
+steps:
+  - title: 소개
+  - title: 동일한 프로젝트의 다른 웹 페이지에 링크하기
+  - title: '과제: 새로운 링크 추가하기'
+  - title: 다른 방 만들기
+  - title: '과제: 게임 룸 스타일 및 링크 설정하기'
+  - title: 링크를 문처럼 보이게 만들기
+  - title: '과제: 더 많은 문 만들기!'
+  - title: 배경 이미지 추가
+  - title: '과제: 게임 방에 벽지 추가하기'
+  - title: '과제: 나만의 것으로 만들기!'
