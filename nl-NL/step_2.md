@@ -2,7 +2,7 @@
 
 Webprojecten kunnen bestaan ​​uit veel aan elkaar gekoppelde HTML-bestanden.
 
-+ Open deze trinket: <a href="http://jumpto.cc/web-rooms" target="_blank">jumpto.cc/web-rooms</a>.
++ Open this trinket: <a href="https://trinket.io/html/f1486ddb24" target="_blank">jumpto.cc/web-rooms</a>.
     
     Het project zou er als volgt uit moeten zien:
     
