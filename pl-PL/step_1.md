@@ -3,7 +3,7 @@
 Wykonując ten projekt zbudujemy kilka połączonych pokojów - każdy pokój będzie osobną stroną internetową, którą możesz udekorować.
 
 <div class="trinket">
-  <iframe src="https://trinket.io/embed/html/ba5d27ec68?outputOnly=true&start=result" width="600" height="450" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+  <iframe src="https://trinket.io/embed/html/eab49f4f06?outputOnly=true&start=result" width="600" height="450" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
   </iframe>
   <img src="images/rooms-hall-finished.png">
 </div>
@@ -26,13 +26,13 @@ Wykonując ten projekt dzieci dowiedzą się, jak linkować wiele stron internet
 
 Do pisania kodu HTML i CSS online rekomendujemy użytkowanie edytora [trinket](https://trinket.io/). Do tego projektu udostępnione są następujące szablony:
 
-* [“Pokoje” - początek – jumpto.cc/web-rooms](http://jumpto.cc/web-rooms)
+* [“Pokoje” - początek – jumpto.cc/web-rooms](https://trinket.io/html/f1486ddb24)
 
 Dzieci mogą też używać pustego edytora [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) do pisania swojego kodu HTML i CSS lub skorzystać z tego szablonu [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
 
 Dostępny jest także projekt zawierający przykładowe rozwiązania wyzwań:
 
-* [Ukończone “Pokoje” – https://trinket.io/html/ba5d27ec68](https://trinket.io/html/ba5d27ec68)
+* [Ukończone “Pokoje” – https://trinket.io/html/ba5d27ec68](https://trinket.io/html/eab49f4f06)
 
 ## Zasoby Offline
 
@@ -151,7 +151,7 @@ klasy
       <a href="resources/rooms-volunteer-resources.zip">Plik .zip zawierający zasoby z ukończonym projektem</a>
     </li>
     <li>
-      <a href="https://trinket.io/html/1d4d4c5ce1">Trinket zawierający ukończony projekt</a>
+      <a href="https://trinket.io/html/eab49f4f06">Trinket zawierający ukończony projekt</a>
     </li>
     <li>
       <a href="resources/linked-rooms-finished-index.html">linked-rooms-finished/index.html</a>
