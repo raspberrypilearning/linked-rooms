@@ -2,7 +2,7 @@
 
 Veb-projekti mogu da budu sačinjeni od više međusobno povezanih HTML datoteka.
 
-+ Otvori sljedeći trinket: <a href="http://jumpto.cc/web-rooms" target="_blank">jumpto.cc/web-rooms</a>.
++ Open this trinket: <a href="https://trinket.io/html/f1486ddb24" target="_blank">jumpto.cc/web-rooms</a>.
     
     Projekat treba da izgleda ovako:
     
