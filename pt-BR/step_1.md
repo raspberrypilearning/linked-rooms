@@ -3,7 +3,7 @@
 Neste projeto, você criará um conjunto de cômodos interligados no qual cada cômodo é uma página web diferente que pode ser decorada usando HTML.
 
 <div class="trinket">
-  <iframe src="https://trinket.io/embed/html/ba5d27ec68?outputOnly=true&start=result" width="600" height="450" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+  <iframe src="https://trinket.io/embed/html/eab49f4f06?outputOnly=true&start=result" width="600" height="450" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
   </iframe>
   <img src="images/rooms-hall-finished.png">
 </div>
@@ -26,13 +26,13 @@ Neste projeto, as crianças são apresentadas a várias páginas da Web vinculad
 
 Nós recomendamos usar [trinket](https://trinket.io/) para escrever HTML & CSS online. Este projeto contém o seguinte trinket:
 
-* ['Cômodos conectados' ponto de partida -- jumpto.cc/web-rooms](http://jumpto.cc/web-rooms)
+* ['Cômodos conectados' ponto de partida -- jumpto.cc/web-rooms](https://trinket.io/html/f1486ddb24)
 
 As crianças também podem usar este trinket em branco [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) para escrever seu próprio HTML & CSS, ou como alternativa, eles podem usar este modelo de trinket [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
 
 Há também um Trinket contendo um exemplo de solução para os desafios:
 
-* ['Cômodos Conectados Final' -- https://trinket.io/html/ba5d27ec68](https://trinket.io/html/ba5d27ec68)
+* ['Cômodos Conectados Final' -- https://trinket.io/html/ba5d27ec68](https://trinket.io/html/eab49f4f06)
 
 ## Recursos Offline
 
@@ -102,7 +102,7 @@ div>s como links clicaveis + "Adicionar papel de parede à Sala de Jogos" - Adic
 ## Recursos do líder do clube
 
 * [arquivo .zip contém todos os recursos do projeto](resources/rooms-volunteer-resources.zip)
-* [Projeto Trinket online e completo](https://trinket.io/html/1d4d4c5ce1)
+* [Projeto Trinket online e completo](https://trinket.io/html/eab49f4f06)
 * [linked-rooms-finished/index.html](resources/linked-rooms-finished-index.html)
 * [linked-rooms-finished/style.css](resources/linked-rooms-finished-style.css)
 * [linked-rooms-finished/tvroom.html](resources/linked-rooms-finished-tvroom.html)
