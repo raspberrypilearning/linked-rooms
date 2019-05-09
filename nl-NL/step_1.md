@@ -3,7 +3,7 @@
 In dit project maak je een reeks gekoppelde kamers waar elke kamer een andere webpagina is die je kunt aankleden met HTML.
 
 <div class="trinket">
-  <iframe src="https://trinket.io/embed/html/ba5d27ec68?outputOnly=true&start=result" width="600" height="450" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+  <iframe src="https://trinket.io/embed/html/eab49f4f06?outputOnly=true&start=result" width="600" height="450" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
   </iframe>
   <img src="images/rooms-hall-finished.png">
 </div>
@@ -26,13 +26,13 @@ In dit project maken kinderen kennis met meerdere gekoppelde webpagina's in hetz
 
 We raden aan [trinket](https://trinket.io/) te gebruiken om HTML & CSS online te schrijven. Dit project bevat de volgende trinket:
 
-* ['Gekoppelde kamers'-startpunt - jumpto.cc/web-rooms](http://jumpto.cc/web-rooms)
+* ['Gekoppelde kamers'-startpunt - jumpto.cc/web-rooms](https://trinket.io/html/f1486ddb24)
 
 Kinderen kunnen ook gebruik maken van deze lege trinket [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) om hun eigen HTML & CSS te schrijven, of ze kunnen deze sjabloontrinket [(jumpto.cc/html-template)](http://jumpto.cc/html-template) gebruiken.
 
 Er is ook een trinket met een voorbeeldoplossing voor de uitdagingen:
 
-* ['Gekoppelde kamers gereed' - https://trinket.io/html/ba5d27ec68](https://trinket.io/html/ba5d27ec68)
+* ['Gekoppelde kamers gereed' - https://trinket.io/html/ba5d27ec68](https://trinket.io/html/eab49f4f06)
 
 ## Offline bronnen
 
@@ -102,7 +102,7 @@ div>s voor klikbare links (koppelingen) + "Voeg een achtergrond toe aan de Speel
 ## Clubleider bronnen
 
 * [.zip-bestand met alle voltooide projectresources](resources/rooms-volunteer-resources.zip)
-* [Online voltooid Trinket-project](https://trinket.io/html/1d4d4c5ce1)
+* [Online voltooid Trinket-project](https://trinket.io/html/eab49f4f06)
 * [linked-rooms-finished/index.html](resources/linked-rooms-finished-index.html)
 * [linked-rooms-finished/style.css](resources/linked-rooms-finished-style.css)
 * [linked-rooms-finished/tvroom.html](resources/linked-rooms-finished-tvroom.html)
