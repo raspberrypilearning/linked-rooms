@@ -103,7 +103,7 @@ title: Матеріали проекту
 ## Ресурси лідерів клубу
 
 + [.zip file containing all completed project resources](resources/rooms-volunteer-resources.zip)
-+ [Онлайн завершений проект Trinket](https://trinket.io/html/1d4d4c5ce1)
++ [Онлайн завершений проект Trinket](https://trinket.io/html/ba5d27ec68)
 + [linked-rooms-finished/index.html](resources/linked-rooms-finished-index.html)
 + [linked-rooms-finished/style.css](resources/linked-rooms-finished-style.css)
 + [linked-rooms-finished/tvroom.html](resources/linked-rooms-finished-tvroom.html)
