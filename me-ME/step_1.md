@@ -3,7 +3,7 @@
 U ovom projektu napravićeš više povezanih prostorija, a svaka prostorija biće zasebna veb-stranica koju ćeš moći da ukrasiš koristeći HTML.
 
 <div class="trinket">
-  <iframe src="https://trinket.io/embed/html/ba5d27ec68?outputOnly=true&start=result" width="600" height="450" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+  <iframe src="https://trinket.io/embed/html/eab49f4f06?outputOnly=true&start=result" width="600" height="450" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
   </iframe>
   <img src="images/rooms-hall-finished.png">
 </div>
@@ -26,13 +26,13 @@ U ovom projektu djeca se upoznaju sa više veb-stranica povezanih u istom projek
 
 Za pisanje HTML-a i CSS-a online preporučujemo da koristite [trinket](https://trinket.io/). Ovaj projekat sadrži sljedeći trinket:
 
-* [Početak projekta 'Povezane prostorije' -- jumpto.cc/web-rooms](http://jumpto.cc/web-rooms)
+* [Početak projekta 'Povezane prostorije' -- jumpto.cc/web-rooms](https://trinket.io/html/f1486ddb24)
 
 Za pisanje sopstvenog HTML-a i CSS-a, djeca takođe mogu da koriste ovaj prazan trinket [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) ili da koriste ovaj trinket šablon [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
 
 Takođe postoji trinket koji sadrži primjer rješenja izazova:
 
-* [Završen projekat 'Povezane prostorije' -- https://trinket.io/html/ba5d27ec68](https://trinket.io/html/ba5d27ec68)
+* [Završen projekat 'Povezane prostorije' -- https://trinket.io/html/ba5d27ec68](https://trinket.io/html/eab49f4f06)
 
 ## Offline izvori
 
@@ -102,7 +102,7 @@ div>s kao klikabilne linkove + "Dodaj tapet Sali za igre" - Dodaj pozadinsku sli
 ## Izvori za vođe kluba
 
 * [.zip datoteka koja sadrži sve završene izvore projekta](resources/rooms-volunteer-resources.zip)
-* [Završen Trinket projekat online](https://trinket.io/html/1d4d4c5ce1)
+* [Završen Trinket projekat online](https://trinket.io/html/eab49f4f06)
 * [linked-rooms-finished/index.html](resources/linked-rooms-finished-index.html)
 * [linked-rooms-finished/style.css](resources/linked-rooms-finished-style.css)
 * [linked-rooms-finished/tvroom.html](resources/linked-rooms-finished-tvroom.html)
