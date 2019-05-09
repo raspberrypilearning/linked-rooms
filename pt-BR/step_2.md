@@ -2,7 +2,7 @@
 
 Os projetos da Web podem ser compostos de vários arquivos HTML vinculados.
 
-+ Abra este trinket: <a href="http://jumpto.cc/web-rooms" target="_blank">jumpto.cc/web-rooms</a>.
++ Open this trinket: <a href="https://trinket.io/html/f1486ddb24" target="_blank">jumpto.cc/web-rooms</a>.
     
     O projeto deve ficar assim:
     
