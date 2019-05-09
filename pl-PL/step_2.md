@@ -2,7 +2,7 @@
 
 Strony intenetowe mogą być stworzone z wielu plików HTML połączonych ze sobą linkami.
 
-+ Otwórz edytor: <a href="http://jumpto.cc/web-rooms" target="_blank">jumpto.cc/web-rooms</a>.
++ Open this trinket: <a href="https://trinket.io/html/f1486ddb24" target="_blank">jumpto.cc/web-rooms</a>.
     
     Projekt powinien wyglądać następująco:
     
