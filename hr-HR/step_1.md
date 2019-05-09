@@ -3,7 +3,7 @@
 U ovom projektu izradit ćete skup povezanih soba u kojima svaka soba predstavlja drugu web stranicu koju možete ukrasiti s HTML-om.
 
 <div class="trinket">
-  <iframe src="https://trinket.io/embed/html/ba5d27ec68?outputOnly=true&start=result" width="600" height="450" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+  <iframe src="https://trinket.io/embed/html/eab49f4f06?outputOnly=true&start=result" width="600" height="450" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
   </iframe>
   <img src="images/rooms-hall-finished.png">
 </div>
@@ -26,13 +26,13 @@ U ovom projektu, djeca se upisuju na više povezanih web stranica u istom projek
 
 Preporučamo korištenje [trinket](https://trinket.io/) za pisanje HTML & CSS online. Ovaj projekt sadrži sljedeće trikove:
 
-* [Polazna točka "Povezane sobe" - jumpto.cc/web-rooms](http://jumpto.cc/web-rooms)
+* [Polazna točka "Povezane sobe" - jumpto.cc/web-rooms](https://trinket.io/html/f1486ddb24)
 
 Djeca također mogu koristiti ovu praznu trinket [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) napisati vlastiti HTML & CSS ili alternativno mogu upotrijebiti ovaj predložak trinket [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
 
 Također je uključen i trinket koji sadrži prijedlog rješenja izazova:
 
-* ["Povezane sobe završene" - https://trinket.io/html/ba5d27ec68](https://trinket.io/html/ba5d27ec68)
+* ["Povezane sobe završene" - https://trinket.io/html/ba5d27ec68](https://trinket.io/html/eab49f4f06)
 
 ## Offline izvori
 
@@ -102,7 +102,7 @@ div> linkovi koji se mogu kliknuti + "Dodaj pozadinu u sobi za igre" - Dodajte p
 ## Resursi voditelja kluba
 
 * [.zip datoteka koja sadrži sve dovršene resurse projekta](resources/rooms-volunteer-resources.zip)
-* [Dovršeni Online Trinket projekt](https://trinket.io/html/1d4d4c5ce1)
+* [Dovršeni Online Trinket projekt](https://trinket.io/html/eab49f4f06)
 * [povezane-sobe-gotov / index.html](resources/linked-rooms-finished-index.html)
 * [povezane-sobe-gotov / style.css](resources/linked-rooms-finished-style.css)
 * [povezane-sobe-gotov / tvroom.html](resources/linked-rooms-finished-tvroom.html)
