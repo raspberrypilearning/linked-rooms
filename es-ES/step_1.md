@@ -3,7 +3,7 @@
 In this project, you'll create a set of linked rooms where each room is a different web page which you can decorate with HTML.
 
 <div class="trinket">
-  <iframe src="https://trinket.io/embed/html/ba5d27ec68?outputOnly=true&start=result" width="600" height="450" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+  <iframe src="https://trinket.io/embed/html/eab49f4f06?outputOnly=true&start=result" width="600" height="450" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
   </iframe>
   <img src="images/rooms-hall-finished.png">
 </div>
@@ -26,13 +26,13 @@ In this project, children are introduced to multiple linked web pages in the sam
 
 We recommend using [trinket](https://trinket.io/) to write HTML & CSS online. This project contains the following trinket:
 
-* ['Linked Rooms' starting point -- jumpto.cc/web-rooms](http://jumpto.cc/web-rooms)
+* ['Linked Rooms' starting point -- jumpto.cc/web-rooms](https://trinket.io/html/f1486ddb24)
 
 Los niños también pueden hacer uso de esta baratija en blanco [ (jumpto.cc/html-blank) ](http://jumpto.cc/html-blank) para escribir su propio HTML & CSS, o alternativamente pueden usar este trinket plantilla [ (jumpto.cc/html-template) ](http://jumpto.cc/html-template).
 
 También hay una baratija que contiene una solución de muestra para los desafíos:
 
-* ['Linked Rooms Finished' -- https://trinket.io/html/ba5d27ec68](https://trinket.io/html/ba5d27ec68)
+* ['Linked Rooms Finished' -- https://trinket.io/html/ba5d27ec68](https://trinket.io/html/eab49f4f06)
 
 ## Recursos sin conexión
 
@@ -102,7 +102,7 @@ div>s as clickable links + "Add wallpaper to the Games Room" - Add a background 
 ## Recursos para los líderes de clubes
 
 * [Archivo .zip que contiene todos los recursos de proyecto terminado](resources/rooms-volunteer-resources.zip)
-* [Proyecto Trinket terminado en línea](https://trinket.io/html/1d4d4c5ce1)
+* [Proyecto Trinket terminado en línea](https://trinket.io/html/eab49f4f06)
 * [linked-rooms-finished/index.html](resources/linked-rooms-finished-index.html)
 * [linked-rooms-finished/style.css](resources/linked-rooms-finished-style.css)
 * [linked-rooms-finished/tvroom.html](resources/linked-rooms-finished-tvroom.html)
