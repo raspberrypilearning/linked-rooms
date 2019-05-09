@@ -3,7 +3,7 @@
 У цьому проекті ви створите набір пов'язаних номерів, де кожна кімната є іншою веб-сторінкою, яку ви можете прикрасити за допомогою HTML.
 
 <div class="trinket">
-  <iframe src="https://trinket.io/embed/html/ba5d27ec68?outputOnly=true&start=result" width="600" height="450" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+  <iframe src="https://trinket.io/embed/html/eab49f4f06?outputOnly=true&start=result" width="600" height="450" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
   </iframe>
   <img src="images/rooms-hall-finished.png">
 </div>
@@ -26,13 +26,13 @@
 
 Ми рекомендуємо використовувати [ trinket](https://trinket.io/), щоб написати HTML & CSS онлайн. Цей проект містить такий trinket:
 
-* [Відправна точка "пов'язаних номерів"-- jumpto.cc/web-rooms](http://jumpto.cc/web-rooms)
+* [Відправна точка "пов'язаних номерів"-- jumpto.cc/web-rooms](https://trinket.io/html/f1486ddb24)
 
 Діти також можуть скористатися цим порожнім trinket [ (jumpto.cc / html-blank) ](http://jumpto.cc/html-blank), щоб написати свій власний HTML & CSS, або ж вони можуть використовувати цей шаблон trinket [ (jumpto.cc/html-template) ](http://jumpto.cc/html-template).
 
 Існує також trinket, що містить вибіркове рішення для вирішення проблем:
 
-* ["Пов'язані кімнати завершено"-- https://trinket.io/html/ba5d27ec68](https://trinket.io/html/ba5d27ec68)
+* ["Пов'язані кімнати завершено"-- https://trinket.io/html/ba5d27ec68](https://trinket.io/html/eab49f4f06)
 
 ## Оффлайн ресурси
 
@@ -102,7 +102,7 @@ div> s як налаштовувані посилання + "Додати шпа
 ## Ресурси лідерів клубу
 
 * [.zip file containing all completed project resources](resources/rooms-volunteer-resources.zip)
-* [Онлайн завершений проект Trinket](https://trinket.io/html/1d4d4c5ce1)
+* [Онлайн завершений проект Trinket](https://trinket.io/html/eab49f4f06)
 * [linked-rooms-finished/index.html](resources/linked-rooms-finished-index.html)
 * [linked-rooms-finished/style.css](resources/linked-rooms-finished-style.css)
 * [linked-rooms-finished/tvroom.html](resources/linked-rooms-finished-tvroom.html)
