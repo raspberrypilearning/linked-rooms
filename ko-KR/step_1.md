@@ -27,7 +27,7 @@ title: 교육자 노트
 
 이 자료에서는 [Trinket](https://trinket.io/)을 사용하여 HTML & CSS를 온라인으로 편집할 것을 권장합니다. 이 프로젝트에 포함된 Trinket은 다음과 같습니다:
 
-+ ['연결된 방' 시작점 - jumpto.cc/webrooms](http://jumpto.cc/web-rooms)
++ ['연결된 방' 시작점 - jumpto.cc/webrooms](https://trinket.io/html/63276e36a8)
 
 학생들은 새로운 Trinket[(jumpto.cc/html-black)](http://jumpto.cc/html-blank)을 사용할 수 있으며, 이를 통해 자신만의 HTML & CSS 코드를 작성하는 법을 배울 수 있습니다. 또한, 템플릿이 제공되어 있는 Trinket을 사용할 수 있습니다. [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
 
@@ -85,7 +85,7 @@ title: 프로젝트 자료
 ## 프로젝트 리소스
 
 * [프로젝트의 모든 리소스가 들어있는 .zip 파일](resources/rooms-project-resources.zip)
-* [모든 '연결된 방'프로젝트 자원을 포함하는 온라인 장신구](http://jumpto.cc/web-rooms)
+* [모든 '연결된 방'프로젝트 자원을 포함하는 온라인 장신구](https://trinket.io/html/63276e36a8)
 * [온라인 Trinket 템플릿](http://jumpto.cc/trinket-template)
 * [빈 Trinket](http://jumpto.cc/trinket-blank)
 * [template/index.html](resources/template-index.html)
