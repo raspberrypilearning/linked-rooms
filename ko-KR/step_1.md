@@ -3,7 +3,7 @@
 이 프로젝트에서는 각각의 HTML로 구성된 여러 개의 방을 만들어, 하이퍼링크로 여러 방을 연결하는 사이트를 제작해 봅니다.
 
 <div class="trinket">
-  <iframe src="https://trinket.io/embed/html/ba5d27ec68?outputOnly=true&start=result" width="600" height="450" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+  <iframe src="https://trinket.io/embed/html/eab49f4f06?outputOnly=true&start=result" width="600" height="450" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
   </iframe>
   <img src="images/rooms-hall-finished.png">
 </div>
@@ -26,13 +26,13 @@
 
 이 자료에서는 [Trinket](https://trinket.io/)을 사용하여 HTML & CSS를 온라인으로 편집할 것을 권장합니다. 이 프로젝트에 포함된 Trinket은 다음과 같습니다:
 
-* ['연결된 방' 시작점 - jumpto.cc/webrooms](http://jumpto.cc/web-rooms)
+* ['연결된 방' 시작점 - jumpto.cc/webrooms](https://trinket.io/html/f1486ddb24)
 
 학생들은 새로운 Trinket[(jumpto.cc/html-black)](http://jumpto.cc/html-blank)을 사용할 수 있으며, 이를 통해 자신만의 HTML & CSS 코드를 작성하는 법을 배울 수 있습니다. 또한, 템플릿이 제공되어 있는 Trinket을 사용할 수 있습니다. [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
 
 프로젝트의 샘플 정답이 다음 Trinket에 있습니다.
 
-* ['연결된 방' 완성된 프로젝트- https://trinket.io/html/ba5d27ec68](https://trinket.io/html/ba5d27ec68)
+* ['연결된 방' 완성된 프로젝트- https://trinket.io/html/ba5d27ec68](https://trinket.io/html/eab49f4f06)
 
 ## 오프라인 자료들
 
@@ -102,7 +102,7 @@ div> 를 클릭할 수 있는 링크로 추가하기 + "게임 내 방에 배경
 ## 교육자를 위한 자료
 
 * [완성된 모든 프로젝트 리소스가 들어있는 .zip 파일](resources/rooms-volunteer-resources.zip)
-* [완성된 온라인 Trinket 프로젝트](https://trinket.io/html/1d4d4c5ce1)
+* [완성된 온라인 Trinket 프로젝트](https://trinket.io/html/eab49f4f06)
 * [linked-rooms-finished/index.html](resources/linked-rooms-finished-index.html)
 * [linked-rooms-finished/style.css](resources/linked-rooms-finished-style.css)
 * [linked-rooms-finished/tvroom.html](resources/linked-rooms-finished-tvroom.html)
