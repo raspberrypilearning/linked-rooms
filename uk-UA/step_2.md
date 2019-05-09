@@ -2,7 +2,7 @@
 
 Веб-проекти можуть складатися з безлічі HTML-файлів, з'єднаних між собою.
 
-+ Відкрийте цей Trinket: <a href="http://jumpto.cc/web-rooms" target="_blank">jumpto.cc/web-rooms</a>.
++ Open this trinket: <a href="https://trinket.io/html/f1486ddb24" target="_blank">jumpto.cc/web-rooms</a>.
     
     Проект повинен виглядати так:
     
