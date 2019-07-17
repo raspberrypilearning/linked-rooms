@@ -4,15 +4,15 @@ Os projetos da Web podem ser compostos de vários arquivos HTML vinculados.
 
 + Open this trinket: <a href="https://trinket.io/html/f1486ddb24" target="_blank">jumpto.cc/web-rooms</a>.
     
-    O projeto deve ficar assim:
+    O projeto deverá ficar assim:
     
     ![captura de tela](images/rooms-starter.png)
 
-+ O trinket deve rodar autmaticamente e você vai encontrar-se no corredor:
++ O trinket deve rodar automaticamente e você vai encontrar-se no corredor:
     
     ![captura de tela](images/rooms-hall-start.png)
 
-+ Veja a lista de guias de arquivos para este trinket. Você vê `tvroom.html`? Clique neste link.
++ Veja a lista de guias de arquivos para este trinket. Você vê `tvroom.html`? Clique nele.
     
     ![captura de tela](images/rooms-tvroom-html.png)
     
@@ -20,12 +20,12 @@ Os projetos da Web podem ser compostos de vários arquivos HTML vinculados.
 
 + Para chegar ao `tvroom.html` você precisa adicionar um link em `index.html`.
     
-    Adicione o código destacado dentro do `<div>` com a sala `cômodo `:
+    Adicione o código destacado dentro do `<div>` com a sala `cômodo`:
     
     ![screenshot](images/rooms-link-tvroom.png)
 
-+ Teste seu trinket clicando no link **Sala de TV** para ver o `tvroom.html` página da Web.
++ Teste seu trinket clicando no link **Sala de TV** para ver a `tvroom.html` página da Web.
     
-    Perceba que `tvroom.html` também possui seu próprio arquivo de estilo css`tvroom.css` que define o layout para esta página.
+    Veja que `tvroom.html` também tem seu próprio arquivo de estilo `tvroom.css` que define o layout para esta página.
     
     ![screenshot](images/rooms-tvroom-unstyled.png)
