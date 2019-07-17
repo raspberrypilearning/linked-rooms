@@ -15,7 +15,7 @@ site_areas: projects
 hardware: ''
 software: html-css-javascript
 version: 3
-last_tested: 01/01/2017
+last_tested: 2017-01-01
 steps:
   - 
     title: Introdução
@@ -26,14 +26,14 @@ steps:
   - 
     title: Adicione outra sala
   - 
-    title: 'Desafio: Design e interligue a sala de jogos'
+    title: 'Desafio: Decore e interligue a sala de jogos'
   - 
-    title: Faça com que os links pareçam portas
+    title: Faça os links parecer como portas
   - 
     title: 'Desafio: adicione mais portas!'
   - 
-    title: Adicionando imagem de fundo
+    title: Adicionando uma imagem de fundo
   - 
     title: 'Desafio: Adicione papel de parede à Sala de Jogos'
   - 
-    title: 'Desafio: Personalise!'
+    title: 'Desafio: Personalize!'
