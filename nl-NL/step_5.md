@@ -8,6 +8,6 @@ Bewerk de HTML en CSS voor **Speel Kamer** zodat de webpagina er als volgt uitzi
 
 Tip: je moet de achtergrondkleur, letterkleur en randkleur wijzigen in `gamesroom.css`. De felle groene kleur heet `chartreuse`.
 
-Hint: You'll need to add an `<a>` link in `gamesroom.html` which links to `index.html`.
+Hint: je moet een `<a>` link toevoegen in `gamesroom.html` die linkt naar de hal `index.html`.
 
 \--- /challenge \---
