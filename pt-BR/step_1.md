@@ -84,8 +84,8 @@ div>s como links clicaveis + "Adicionar papel de parede à Sala de Jogos" - Adic
 ## Recursos do projeto
 
 * [arquivo.zip contendo todos os recursos do projeto](resources/rooms-project-resources.zip)
-* [Online Trinket contendo todos os recursos do projeto 'CodeCraft'](http://jumpto.cc/web-rooms)
-* [Template Online Trinket](http://jumpto.cc/trinket-template)
+* [Trinket online contendo todos os recursos do projeto 'Cômodos Conectados'](http://jumpto.cc/web-rooms)
+* [Modelo Online Trinket](http://jumpto.cc/trinket-template)
 * [Trinket online em branco](http://jumpto.cc/trinket-blank)
 * [template/index.html](resources/template-index.html)
 * [template/style.css](resources/template-style.css)
@@ -102,7 +102,7 @@ div>s como links clicaveis + "Adicionar papel de parede à Sala de Jogos" - Adic
 ## Recursos do líder do clube
 
 * [arquivo .zip contém todos os recursos do projeto](resources/rooms-volunteer-resources.zip)
-* [Projeto Trinket online e completo](https://trinket.io/html/eab49f4f06)
+* [Projeto Trinket online completo](https://trinket.io/html/eab49f4f06)
 * [linked-rooms-finished/index.html](resources/linked-rooms-finished-index.html)
 * [linked-rooms-finished/style.css](resources/linked-rooms-finished-style.css)
 * [linked-rooms-finished/tvroom.html](resources/linked-rooms-finished-tvroom.html)
