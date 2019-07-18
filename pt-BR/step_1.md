@@ -20,7 +20,7 @@ Se você precisar imprimir este projeto, use a [Versão para Impressão](https:/
 
 ## Introdução:
 
-Neste projeto, as crianças são apresentadas a várias páginas da Web vinculadas no mesmo projeto, cada uma com seu próprio arquivo CSS.
+Neste projeto, crianças são apresentadas a várias páginas da Web vinculadas no mesmo projeto cada uma com seu próprio arquivo CSS.
 
 ## Recursos Online
 
@@ -28,15 +28,15 @@ Nós recomendamos usar [trinket](https://trinket.io/) para escrever HTML & CSS o
 
 * ['Cômodos conectados' ponto de partida -- jumpto.cc/web-rooms](https://trinket.io/html/f1486ddb24)
 
-As crianças também podem usar este trinket em branco [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) para escrever seu próprio HTML & CSS, ou como alternativa, eles podem usar este modelo de trinket [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
+Crianças também podem usar este trinket em branco [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) para escrever seu próprio HTML & CSS, ou alternativamente eles podem usar este modelo de trinket [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
 
-Há também um Trinket contendo um exemplo de solução para os desafios:
+Há também um trinket contendo um exemplo de solução para os desafios:
 
-* ['Cômodos Conectados Final' -- https://trinket.io/html/ba5d27ec68](https://trinket.io/html/eab49f4f06)
+* ['Cômodos Conectados Terminado' -- https://trinket.io/html/ba5d27ec68](https://trinket.io/html/eab49f4f06)
 
 ## Recursos Offline
 
-Este projeto pode ser [concluído offline](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/), se você preferir. Você pode acessar os recursos disponíveis clicando no link 'Materiais do Projeto'. Este link contém uma seção "Recursos do Projeto", que inclui recursos que as crianças precisarão para concluir esse projeto off-line. Certifique-se de que cada criança tenha acesso a uma cópia desses recursos. Esta seção inclui os seguintes arquivos:
+Este projeto pode ser [concluído offline](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) se você preferir. Você pode acessar os recursos disponíveis clicando no link 'Materiais do Projeto'. Este link contém uma seção "Recursos do Projeto", que inclui recursos que crianças precisarão para concluir esse projeto offline. Certifique-se de que cada criança tenha acesso a uma cópia desses recursos. Esta seção inclui os seguintes arquivos:
 
 * linked-rooms/index.html
 * linked-rooms/style.css
@@ -46,7 +46,7 @@ Este projeto pode ser [concluído offline](https://www.codeclubprojects.org/en-G
 * template/template.html
 * template/style.css
 
-Você também pode encontrar uma versão completa dos desafios deste projeto na seção "Recursos para Voluntários", que contém:
+Você também pode encontrar uma versão resolvida dos desafios deste projeto na seção "Recursos para Voluntários", que contém:
 
 * linked-rooms-finished/index.html
 * linked-rooms-finished/style.css
@@ -67,8 +67,8 @@ Este projeto abrange elementos das seguintes vertentes do [Currículo de Criaç�
 
 ## Desafios
 
-* “Adicione outro link” - Adicione um link entre páginas do mesmo projeto;
-* “Design e conecte a Sala de Jogos” - Adicione um link e design uma página com seu próprio arquivo CSS. 
+* “Adicione outro link” - Adiciona um link entre páginas do mesmo projeto;
+* “Decore e conecte a Sala de Jogos” - Adicione um link e design uma página com seu próprio arquivo CSS. 
 * “Adicione mais portas!” - Use 
 
 <
@@ -77,7 +77,7 @@ div>s como links clicaveis + "Adicionar papel de parede à Sala de Jogos" - Adic
 
 \--- /collapse \---
 
-## \--- colapso \---
+## \--- collapse \---
 
 ## Título: Materiais do projeto
 
