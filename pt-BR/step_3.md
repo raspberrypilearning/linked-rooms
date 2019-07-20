@@ -1,6 +1,6 @@
-\--- desafio \---
+\--- challenge \---
 
-## Desafio: adicione outro link
+## Desafio: Adicione outro link
 
 Adicione um link `<a>` à página da web  tvroom.html </ 1> para voltar à página da Sala, chamada <code> index.html </ 1>. O texto do link deve ser 'Sala'.</p>
 
