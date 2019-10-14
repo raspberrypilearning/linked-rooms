@@ -1,27 +1,27 @@
-\--- challenge \---
+\--- التحدي \---
 
-## Challenge: Add more doors!
+## التحدي: أضف أبوابًا أخرى!
 
-Turn the other links in your project into doors in the same way.
+غيِّر الروابط الأخرى في مشروعك إلى أبواب بنفس الطريقة.
 
-For each door you'll need to:
+لكل غرفة تحتاج إلى عمل الآتي:
 
-+ Edit the door link to use a `<div>` with an id such as `hall2games` so that you can style it.
++ قم بتعديل رابط الباب لتستخدم `<div>` بمعرِّف مثل `hall2games` لتتمكن من تغيير النمط.
     
     مثال:
     
-    `<a href="gamesroom.html"><div id="hall2games">Games Room</div></a>`
+    `<a href="gamesroom.html"><div id="hall2games">غرفة الألعاب</div></a>`
 
-+ Add CSS for the door id to the `.css` file for its room. Use *copy* and *paste* to save time. You can make each door look different if you like.
++ أضف CSS الخاص بمعرِّف الباب إلى ملف `css`. الخاص بالغرفة. استخدم *نسخ* و *لصق* لتوفير الوقت. تستطيع عمل كل باب بشكل مختلف إذا أردت.
 
-+ Position the door using `bottom:` and `left:` or `right:`.
++ ضع الباب باستخدام `bottom:` و `left:` أو `right:`.
 
-The Hall might look like this:
+الآن يمكن أن تبدو الصالة هكذا:
 
 ![لقطة الشاشة](images/rooms-hall-doors.png)
 
-The TV Room should look something like this:
+غرفة التلفاز يمكن أن تظهر بشكل مثل ذلك:
 
 ![لقطة الشاشة](images/rooms-tvroom-door.png)
 
-\--- /challenge \---
+\--- /التحدي \---
