@@ -16,5 +16,14 @@ hardware: ''
 software: html-css-javascript
 version: 3
 last_tested: 2017-01-01
-steps: 
-- title: Pokoje
+steps:
+  - title: Wprowadzenie
+  - title: Linkowanie do innej strony w tym samym projekcie
+  - title: 'Wyzwanie: Dodaj kolejny link'
+  - title: Dodaj kolejny pokój
+  - title: 'Wyzwanie: Dodaj styl i podlinkuj Pokój Zabaw'
+  - title: Spraw, żeby linki wyglądały jak drzwi
+  - title: 'Wyzwanie: Dodaj więcej drzwi!'
+  - title: Dodawanie tła
+  - title: 'Wyzwanie: Dodaj tapetę do Pokoju Zabaw'
+  - title: 'Wyzwanie: Zrób to po swojemu!'
