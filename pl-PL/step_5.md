@@ -1,13 +1,13 @@
-\--- wyzwanie \---
+\--- challenge \---
 
-## Wyzwanie: Ostyluj i podlinkuj pokój zabaw
+## Wyzwanie: Dodaj styl i podlinkuj Pokój Zabaw
 
 Zmień kod HTML i CSS **Pokoju Zabaw** w taki sposób, by strona wyglądała tak:
 
 ![zrzut ekranu](images/rooms-games-challenge.png)
 
-Wskazówka: Musisz zmienić kolor tła, czcionki i ramki w pliku `pokojzabaw.css`. Jasnozielony kolor nazywa się `chartreuse`.
+Wskazówka: Musisz zmienić kolor tła, czcionki i ramki w pliku `gamesroom.css`. Jasnozielony kolor nazywa się `chartreuse`.
 
-Wskazówka: musisz dodać link (`<a>`) w pliku `pokojzabaw.html`, który bedzie odnośnikiem do `index.html`.
+Wskazówka: musisz dodać link `<a>` w pliku `gamesroom.html`, który będzie odnośnikiem do `index.html`.
 
 \--- /challenge \---
