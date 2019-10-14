@@ -1,29 +1,29 @@
-## Make the links look like doors
+## أنشئ الروابط على شكل أبواب
 
-Links don't just have to be text. Let's make a clickable door using a `<div>`.
+لا يجب على الروابط أن تكون كتابة فقط. دعنا ننشئ أبواب يمكن الضغط عليها عن طريق `<div>`.
 
-+ Open `index.html` and add a `<div>` around the **TV Room** link text. It needs to be inside the `<a>` to make it clickable.
++ افتح ملف `index.html` وأضف `<div>` حول رابط **غرفة التلفاز**. يجب أن يكون داخل `<a>` حتى يمكن الضغط عليه.
     
-    Add `id="hall2tv"` to label it as the door from the Hall to the TV Room so that you can style the door.
+    أضف `id="hall2tv"` وقم بتسميتها بالباب من الصالة إلى غرفة التلفاز حتى يمكنك عمل نمط الباب.
     
     ![لقطة الشاشة](images/rooms-tvroom-div.png)
 
-+ Click on the `style.css` tab, go to the bottom and add the following CSS to change the size and colour of the door:
++ اضغط على بطاقة `style.css`، أذهب إلى الأسفل وأضف كود CSS التالي لتغيير حجم ولون الباب:
     
     ![لقطة الشاشة](images/rooms-door-css1.png)
 
-+ Test your webpage by clicking anywhere on the door, not just on the text.
++ قم بتجربة الصفحة بالضغط في أي مكان على الباب، ليس فقط على الكتابة.
 
-+ Now let's make it look a bit more like a door by adding a border around three sides:
++ الآن لنقم بجعله يشبه الباب أكثر بإضافة حدود على ثلاث جوانب:
     
     ![لقطة الشاشة](images/rooms-door-css2.png)
 
-+ And let's add some CSS to make the text on the door look better:
++ لنقم الآن بإضافة كود CSS لجعل الخط على الباب يظهر بشكل أفضل:
     
     ![لقطة الشاشة](images/rooms-door-css3.png)
 
-+ You've probably noticed that the door is floating in the air. Let's fix that by positioning the door inside the room.
++ ستلاحظ أن الباب يطير في الهواء. دعنا نصلح ذلك بوضع الباب داخل الغرفة.
     
     ![لقطة الشاشة](images/rooms-door-position.png)
 
-+ Test your webpage by clicking on the door to get to the **TV Room**.
++ قم بتجربة الصفحة بالضغط على الباب للدخول إلى **غرفة التلفاز**.
