@@ -1,31 +1,31 @@
-## Linking to another web page in the same project
+## ربط بصفحة ويب أخرى في المشروع نفسه
 
-Web projects can be made up of lots of HTML files linked together.
+مشاريع الإنترنت يمكن أن تتكون من ملفات HTML مرتبطة ببعضها.
 
-+ Open this trinket: <a href="https://trinket.io/html/f1486ddb24" target="_blank">jumpto.cc/web-rooms</a>.
++ افتح مشروع trinket هذا: <a href="https://trinket.io/html/f1486ddb24" target="_blank">jumpto.cc/web-rooms</a>.
     
     الآن يجب أن يبدو الملف الخاص بك مثل هذا:
     
     ![لقطة الشاشة](images/rooms-starter.png)
 
-+ The trinket should autorun and you will find yourself in the Hall:
++ مشروع Trinket سيعمل تلقائياً وستجد نفسك في الصالة:
     
     ![لقطة الشاشة](images/rooms-hall-start.png)
 
-+ Look at the list of file tabs for this trinket. Can you see `tvroom.html`? Click on it.
++ انظر إلى قائمة الملفات لمشروع Trinket هذا. هل تستطيع رؤية `tvroom.html`؟ اضغط عليه.
     
     ![لقطة الشاشة](images/rooms-tvroom-html.png)
     
-    This is another html file in the same project.
+    هذا ملف html آخر في نفس المشروع.
 
-+ To get to `tvroom.html` you need to add a link in `index.html`.
++ لتصل إلى `tvroom.html` يجب أن تضيف رابط في ملف `index.html`.
     
-    Add the highlighted code inside the `<div>` with the class `room`:
+    أضف الكود المظلل داخل `<div>` تحت مسمى `room`:
     
     ![لقطة الشاشة](images/rooms-link-tvroom.png)
 
-+ Test your trinket by clicking on the **TV Room** link to see the `tvroom.html` webpage.
++ اختبر مشروع Trinket بالضغط على رابط **غرفة التلفاز** لترى صفحة `tvroom.html`.
     
-    Note that `tvroom.html` also has its own `tvroom.css` style file which defines the layout for this page.
+    لاحظ أن `tvroom.html` لها ملف أنماط `tvroom.css` خاص بها حيث يمكن تحديد تنسيقات الصفحة عن طريقه.
     
     ![لقطة الشاشة](images/rooms-tvroom-unstyled.png)
