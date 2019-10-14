@@ -1,6 +1,6 @@
 ## Wprowadzenie
 
-Wykonując ten projekt zbudujemy kilka połączonych pokojów - każdy pokój będzie osobną stroną internetową, którą możesz udekorować.
+Wykonując ten projekt zbudujemy kilka połączonych pokojów - każdy pokój będzie osobną stroną internetową, którą możesz udekorować za pomocą HTML.
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/html/eab49f4f06?outputOnly=true&start=result" width="600" height="450" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
@@ -8,9 +8,9 @@ Wykonując ten projekt zbudujemy kilka połączonych pokojów - każdy pokój b�
   <img src="images/rooms-hall-finished.png">
 </div>
 
-**Instrukcja**: kliknij na drzwi, aby przemieścić się między pokojami.
+**Instrukcja**: Kliknij na drzwi, aby przemieścić się między pokojami.
 
-### Dodatkowe informacje dla prowadzących klub
+### Dodatkowe informacje dla liderów klubów
 
 Jeśli chcesz wydrukować ten projekt, użyj [wersji do druku](https://projects.raspberrypi.org/en/projects/linked-rooms/print).
 
@@ -20,11 +20,11 @@ Jeśli chcesz wydrukować ten projekt, użyj [wersji do druku](https://projects.
 
 ## Wstęp:
 
-Wykonując ten projekt dzieci dowiedzą się, jak linkować wiele stron internetowych z indywidalnymi plikami CSS w tym samym projekcie.
+Wykonując ten projekt dzieci dowiedzą się, jak linkować wiele stron internetowych z indywidualnymi plikami CSS w tym samym projekcie.
 
 ## Zasoby Online
 
-Do pisania kodu HTML i CSS online rekomendujemy użytkowanie edytora [trinket](https://trinket.io/). Do tego projektu udostępnione są następujące szablony:
+Do pisania kodu HTML i CSS online rekomendujemy używanie edytora [trinket](https://trinket.io/). Do tego projektu udostępniony jest następujący szablon:
 
 * [“Pokoje” - początek – jumpto.cc/web-rooms](https://trinket.io/html/f1486ddb24)
 
@@ -36,7 +36,7 @@ Dostępny jest także projekt zawierający przykładowe rozwiązania wyzwań:
 
 ## Zasoby Offline
 
-Ten projekt można także [wykonać offline](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/). Materiały potrzebne do wykonania projektu dostępne są po kliknięciu linku "Materiały do projektu". Ten link zawiera sekcję "Zasoby projektu", która zawiera zasoby, których dzieci będą potrzebować, aby ukończyć ten projekt w trybie offline. Upewnij się, że każde dziecko ma dostęp do tych zasobów. Ta sekcja zawiera następujące pliki:
+Ten projekt można także [wykonać offline](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/). Zasoby potrzebne do wykonania projektu dostępne są po kliknięciu linku "Materiały do projektu". Ten link zawiera sekcję "Zasoby projektu", która zawiera zasoby, których dzieci będą potrzebować, aby ukończyć ten projekt w trybie offline. Upewnij się, że każde dziecko ma dostęp do kopii tych zasobów. Ta sekcja zawiera następujące pliki:
 
 * linked-rooms/index.html
 * linked-rooms/style.css
@@ -46,7 +46,7 @@ Ten projekt można także [wykonać offline](https://www.codeclubprojects.org/en
 * template/template.html
 * template/style.css
 
-Ukończoną wersję zadań z tego projektu można również znaleźć w sekcji "Zasoby dla wolontariuszy", która zawiera:
+Ukończoną wersję wyzwań z tego projektu można również znaleźć w sekcji "Zasoby dla wolontariuszy", która zawiera:
 
 * linked-rooms-finished/index.html
 * linked-rooms-finished/style.css
@@ -58,25 +58,25 @@ Ukończoną wersję zadań z tego projektu można również znaleźć w sekcji "
 
 ## Cele dydaktyczne
 
-* Ten projekt wprowadza tworzenie wielu stron html połączonych linkami
+* Ten projekt wprowadza projekty z wieloma stronami html połączonych linkami
 * Pojawia się także użycie wielu plików CSS
 
-Projekt ten obejmuje elementy z następujących wątków [Cyfrowego programu nauczania Raspberry Pi](http://rpf.io/curriculum):
+Ten projekt obejmuje elementy z następujących wątków [Programu nauczania Raspberry Pi Digital Making](http://rpf.io/curriculum):
 
 * [ Projektuj podstawowe zasoby 2D i 3D](https://www.raspberrypi.org/curriculum/design/creator).
 
-## Zadania
+## Wyzwania
 
-* "Dodaj kolejny link" - dodaj link między stronami w tym samym projekcie;
-* "Ostyluj i podlinkuj Pokój Zabaw" - dodaj link i ostyluj stronę plikiem CSS. 
-* "Jeszcze więcej drzwi!" - użyj 
+* "Dodaj kolejny link" - Dodaj link między stronami w tym samym projekcie;
+* "Dodaj styl i podlinkuj Pokój Zabaw" - Dodaj link i styl do strony z jej własnym plikiem CSS. 
+* "Dodaj więcej drzwi!" - Użyj 
 
 <
 
 klasy 
 
 <div>
-  jako klikalnego linku + "Dodaj tapetę do Pokoju zabaw" - dodaj tło + "Zrób po swojemu!" - dodaj więcej pokoi wykorzystując zdobyte umiejętności +"Dodaj kursor w kształcie klucza" - zabawny dodatek dla tych, którzy ukończyli projekt.</p> 
+  jako klikalnego linku + "Dodaj tapetę do Pokoju Zabaw" - Dodaj zdjęcie w tle + "Zrób to po swojemu!" - Dodaj więcej pokoi wykorzystując zdobyte umiejętności + "Dodaj kursor w kształcie klucza" - zabawny dodatek dla tych, którzy ukończyli projekt</p> 
   
   <p>
     --- /collapse ---
@@ -99,7 +99,7 @@ klasy
       <a href="resources/rooms-project-resources.zip">Plik .zip zawierający wszystkie zasoby potrzebne do wykonania projektu</a>
     </li>
     <li>
-      <a href="http://jumpto.cc/web-rooms">Trinket zawierający wszystkie zasoby projektu</a>
+      <a href="http://jumpto.cc/web-rooms">Szablon startowy zawierający wszystkie zasoby potrzebne do realizacji projektu "Pokoje"</a>
     </li>
     <li>
       <a href="http://jumpto.cc/trinket-template">Pusty szablon Trinket</a>
