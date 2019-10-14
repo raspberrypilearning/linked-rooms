@@ -1,17 +1,17 @@
-\--- challenge \---
+\--- التحدي \---
 
-## Challenge: Add wallpaper to the Games Room
+## التحدي: أضف ورق حائط إلى غرفة الألعاب
 
-Can you decorate the games room with a background image?
+هل تستطيع تزيين غرفة الألعاب بخلفية صورة؟
 
-You can use the `space-invader.png` background image which is included in your project.
+يمكنك استخدام الصورة الخلفية الملحقة في مشروعك `space-invader.png`.
 
 ستحتاج إلى:
 
-+ Add a `background-image:` to the `.room` CSS for the Games Room. 
++ إضافة `background-image:` إلى CSS الخاص بـ `.room` لغرفة الألعاب. 
 
-The decorated room should look like this:
+تزيين الغرفة يجب أن تظهر بالشكل التالي:
 
 ![لقطة الشاشة](images/rooms-games-finished.png)
 
-\--- /challenge \---
+\--- /التحدي \---
