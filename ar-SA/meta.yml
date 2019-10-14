@@ -1,7 +1,7 @@
 ---
 title: غرف مرتبطة
 hero_image: images/banner.png
-theme: violet
+theme: أحمر
 duration: 2
 listed: false
 ingredient: false
@@ -20,7 +20,7 @@ steps:
   - 
     title: المقدمة
   - 
-    title: الربط بصفحة ويب أخرى في المشروع نفسه
+    title: ربط بصفحة ويب أخرى في المشروع نفسه
   - 
     title: 'التحدي: أضف رابطًا آخر'
   - 
@@ -36,4 +36,4 @@ steps:
   - 
     title: 'التحدي: أضف ورق حائط إلى Games Room'
   - 
-    title: 'التحدي: أضف إلى مشروعك!'
+    title: 'التحدي: أجعله مشروعك!'
