@@ -1,9 +1,9 @@
-## Adding a background image
+## Προσθέτοντας εικόνα φόντου
 
-Let's decorate the hall with a background image.
+Ας διακοσμήσουμε το Χωλ με μια εικόνα φόντου.
 
-+ Edit the `style.css` to add a background image to the Hall:
++ Άλλαξε το `style.css` για να προσθέσεις μια εικόνα φόντου στο Χωλ:
     
     ![screenshot](images/rooms-hall-decorated.png)
     
-    The image will be repeated to fill the whole room.
+    Η εικόνα θα επαναλαμβάνεται για να γεμίσει όλο το δωμάτιο.
