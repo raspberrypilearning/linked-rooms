@@ -1,31 +1,31 @@
-## Linking to another web page in the same project
+## Δημιουργία συνδέσμου με μια άλλη ιστοσελίδα στο ίδιο έργο
 
-Web projects can be made up of lots of HTML files linked together.
+Τα web έργα μπορούν να γίνουν από πολλά HTML αρχεία συνδεδεμένα μεταξύ τους.
 
-+ Open this trinket: <a href="https://trinket.io/html/f1486ddb24" target="_blank">jumpto.cc/web-rooms</a>.
++ Άνοιξε αυτό το trinket: <a href="https://trinket.io/html/f1486ddb24" target="_blank">jumpto.cc/web-rooms</a>.
     
-    The project should look like this:
+    Το έργο/σχέδιο θα πρέπει να μοιάζει σαν αυτό:
     
     ![screenshot](images/rooms-starter.png)
 
-+ The trinket should autorun and you will find yourself in the Hall:
++ Το trinket πρέπει να τρέξει μόνο του και θα βρεθείς στο Χωλ:
     
     ![screenshot](images/rooms-hall-start.png)
 
-+ Look at the list of file tabs for this trinket. Can you see `tvroom.html`? Click on it.
++ Κοίτα τη λίστα με τις καρτέλες αρχείων που υπάρχουν σε αυτό το trinket. Μπορείς να δεις το `tvroom.html`; Πάτησέ το.
     
     ![screenshot](images/rooms-tvroom-html.png)
     
-    This is another html file in the same project.
+    Αυτό είναι άλλο ένα html αρχείο στο ίδιο έργο.
 
-+ To get to `tvroom.html` you need to add a link in `index.html`.
++ Για να πας στο `tvroom.html` θα πρέπει να προσθέσεις έναν σύνδεσμο στο `index.html`.
     
-    Add the highlighted code inside the `<div>` with the class `room`:
+    Πρόσθεσε τον κώδικα που έχει τονιστεί μέσα στο `<div>` με την class `room`:
     
     ![screenshot](images/rooms-link-tvroom.png)
 
-+ Test your trinket by clicking on the **TV Room** link to see the `tvroom.html` webpage.
++ Έλεγξε το trinket με το να πατήσεις πάνω στον σύνδεσμο **Δωμάτιο TV** για να δεις τη ιστοσελίδα `tvroom.html`.
     
-    Note that `tvroom.html` also has its own `tvroom.css` style file which defines the layout for this page.
+    Παρατήρησε ότι το `tvroom.html` επίσης έχει το δικό του αρχείο διακόσμησης `tvroom.css` που καθορίζει το σχέδιο αυτής της σελίδας.
     
     ![screenshot](images/rooms-tvroom-unstyled.png)
