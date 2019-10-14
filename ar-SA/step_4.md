@@ -1,37 +1,37 @@
-## Add another room
+## أضف غرفة أخرى
 
-Now let's add another room, a **Games Room**.
+الآن دعنا نضيف غرفة أخرى، **غرفة الألعاب**.
 
-+ Click on the add page **+** button:
++ اضغط على زر **+**:
     
     ![لقطة الشاشة](images/rooms-add-page.png)
     
-    Type `gamesroom.html` as the page name:
+    أكتب `gamesroom.html` كاسم للصفحة:
     
     ![لقطة الشاشة](images/rooms-games-html.png)
 
-+ The HTML for the **Games Room** is very similar to `tvroom.html` so **copy** that and **paste** it into `gamesroom.html`.
++ كود HTML الخاص **بغرفة الألعاب** يشابه `tvroom.html` يمكنك **نسخ** و **لصق** الكود في `gamesroom.html`.
     
-    Edit the highlighted items so they say Games not TV:
+    قم بتعديل العناوين المضللة حتى تكون "ألعاب" بدلاً من "تلفاز":
     
     ![لقطة الشاشة](images/rooms-games-html2.png)
 
-+ Your `gamesroom.html` now uses `gamesroom.css` which doesn't exist yet.
++ ملف `gamesroom.html` الآن سوف يستخدم `gamesroom.css` الغير موجود بعد.
     
-    Create `gamesroom.css` by clicking on the add page **+** button.
+    أنشئ ملف `gamesroom.css` بواسطة الضغط على زر أضف صفحة **+**.
 
-+ The CSS for the **Games Room** is very similar to `tvroom.css` so **copy** that and **paste** it into `gamesroom.css`.
++ كود CSS الخاص **بغرفة الألعاب** يشابه `tvroom.css` يمكنك **نسخ** و **لصق** الكود في `gamesroom.css`.
     
     ![لقطة الشاشة](images/rooms-add-games-css.png)
 
-+ Add a link from the Hall to the Games room:
++ أضف رابط من الصالة إلى غرفة الألعاب:
     
     ![لقطة الشاشة](images/rooms-hall-games.png)
 
-+ Test your project by clicking on the Games Room link
++ قم باختبار مشروعك بالضغط على رابط غرفة الألعاب
     
-    The **Games Room** should look like this:
+    **غرفة الألعاب** يجب أن تظهر بالشكل التالي:
     
     ![لقطة الشاشة](images/rooms-games-before.png)
     
-    Not very exciting, but you can fix that in the next challenge.
+    لم يكن بالشئ المثير جداً، لكن يمكن أن يكون مثيراً في التحدي القادم.
