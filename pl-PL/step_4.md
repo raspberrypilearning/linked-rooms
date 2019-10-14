@@ -6,29 +6,29 @@ Dodajmy teraz inny pokój - **Pokój Zabaw**.
     
     ![zrzut ekranu](images/rooms-add-page.png)
     
-    Jako nazwę strony wpisz `pokojzabaw.html`:
+    Jako nazwę strony wpisz `gamesroom.html`:
     
     ![zrzut ekranu](images/rooms-games-html.png)
 
-+ Kod HTML dla **Pokoju Zabaw** jest bardzo podobny do tego z pliku `salon.html`więc możesz **skopiować go** i **wkleić**do pliku `pokojzabaw.html`.
++ Kod HTML dla **Pokoju Zabaw** jest bardzo podobny do tego z pliku `tvroom.html`więc możesz **skopiować go** i **wkleić**do pliku `gamesroom.html`.
     
-    Zmień zaznaczone elementy, aby dotyczyły pokoju zabaw, a nie salonu:
+    Zmień zaznaczone elementy, aby dotyczyły Pokoju Zabaw, a nie Salonu:
     
     ![zrzut ekranu](images/rooms-games-html2.png)
 
-+ Twój `pokojzabaw.html` używa teraz pliku `pokojzabaw.css`, który jeszcze nie istnieje.
++ Twój `gamesroom.html` używa teraz pliku `gamesroom.css`, który jeszcze nie istnieje.
     
-    Utwórz `pokojzabaw.css` klikając na przycisk dodawania nowej strony **+**.
+    Utwórz `gamesroom.css` klikając na przycisk dodawania nowej strony **+**.
 
-+ Plik CSS dla **Pokoju Zabaw** jest bardzo podobny do `salon.css`, więc **skopiuj**jego zawartość i **wklej** ją do `pokojzabaw.css`.
++ Plik CSS dla **Pokoju Zabaw** jest bardzo podobny do `tvroom.css`, więc **skopiuj**jego zawartość i **wklej** ją do `gamesroom.css`.
     
-    ![screenshot](images/rooms-add-games-css.png)
+    ![zrzut ekranu](images/rooms-add-games-css.png)
 
-+ Dodaj link z korytarza do pokoju zabaw:
++ Dodaj link z korytarza do Pokoju Zabaw:
     
-    ![screenshot](images/rooms-hall-games.png)
+    ![zrzut ekranu](images/rooms-hall-games.png)
 
-+ Przetestuj swój projekt klikająć na link do Pokoju Zabaw
++ Przetestuj swój projekt klikając na link do Pokoju Zabaw
     
     **Pokój Zabaw** powinien wyglądać mniej więcej tak:
     
