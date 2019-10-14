@@ -1,13 +1,13 @@
-\--- challenge \---
+\--- تحدي \---
 
-## Challenge: Style and link the Games Room
+## التحدي: حدِّد نمط غرفة الألعاب وأضف رابطًا إليها
 
-Edit the HTML and CSS for the **Games Room** so that the webpage looks like this:
+قم بتعديل HTML و CSS **لغرفة الألعاب** لتظهر بالشكل التالي:
 
 ![لقطة شاشة](images/rooms-games-challenge.png)
 
-Hint: You'll need to change the background colour, font colour and border colour in `gamesroom.css`. The bright green colour is called `chartreuse`.
+ملاحظة: يجب أن تقوم بتغيير لون الخلفية، ولون الخط، ولون الحدود في `gamesroom.css`. اللون الأخضر الفاتح يسمى `chartreuse`.
 
-Hint: You'll need to add an `<a>` link in `gamesroom.html` which links to `index.html`.
+ملاحظة: يجب أن تضيف رابط `<a>` في `gamesroom.html` المتصل بـ `index.html`.
 
-\--- /challenge \---
+\--- /التحدي \---
