@@ -1,14 +1,14 @@
-\--- wyzwanie \---
+\--- challenge \---
 
 ## Wyzwanie: Dodaj tapetę do Pokoju Zabaw
 
 Czy potrafisz udekorować pokój zabaw dodając obrazek jako tło?
 
-Możesz użyć tapety z pliku `space-invader.png` będącego częścią tego projektu.
+Możesz użyć tapety z pliku `space-invader.png` który jest zawarty w Twoim projekcie.
 
-Aby to zrobić:
+Będziesz musiał:
 
-+ Dodać `background-image:` do CSS `.room` dla pokoju zabaw. 
++ Dodać `background-image:` do CSS `.room` dla Pokoju Zabaw. 
 
 Udekorowany pokój powinien wyglądać mniej więcej tak:
 
