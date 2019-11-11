@@ -70,18 +70,14 @@ Este projeto abrange elementos das seguintes vertentes do [Currículo de Criaç�
 
 * “Adicione outro link” - Adiciona um link entre páginas do mesmo projeto;
 * “Decore e conecte a Sala de Jogos” - Adicione um link e design uma página com seu próprio arquivo CSS. 
-* “Adicione mais portas!” - Use 
-
-<
-
-div>s como links clicaveis + "Adicionar papel de parede à Sala de Jogos" - Adicionar uma imagem de fundo + "Personalize!" - Adicione mais cômodos usando as habilidades aprendidas + "Adicionar um cursor de tecla" - Um extra opcional divertido para quem completar o projeto
+* “Adicione mais portas!” - Usar <div>s como links clicaveis + "Adicionar papel de parede à Sala de Jogos" - Adicionar uma imagem de fundo + "Personalize!" - Adicione mais cômodos usando as habilidades aprendidas + "Adicionar um cursor de tecla" - Um extra opcional divertido para quem completar o projeto
 
 --- /collapse ---
 
 --- collapse ---
-
-## title: Materiais do projeto
-
+---
+title: Materiais do projeto
+---
 ## Recursos do projeto
 
 * [arquivo.zip contendo todos os recursos do projeto](resources/rooms-project-resources.zip)
