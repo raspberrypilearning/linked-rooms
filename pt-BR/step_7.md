@@ -16,7 +16,7 @@ Para cada porta, você vai precisar:
 
 + Posicione a porta usando `parte inferior:` and `esquerda:` ou `direita:`.
 
-O Salão deve aparecer assim:
+O Saguão deve aparecer assim:
 
 ![screenshot](images/rooms-hall-doors.png)
 
@@ -24,4 +24,4 @@ A Sala de TV deve exibir algo do tipo:
 
 ![screenshot](images/rooms-tvroom-door.png)
 
-\--- /challenge \---
+\--- /desafio \---
