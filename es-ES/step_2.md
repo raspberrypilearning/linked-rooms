@@ -1,31 +1,31 @@
 ## Crear un enlace a otra página web en el mismo proyecto
 
-Web projects can be made up of lots of HTML files linked together.
+Los sitios web pueden estar formados por cientos de archivos HTML entrelazados.
 
-+ Open this trinket: <a href="https://trinket.io/html/f1486ddb24" target="_blank">jumpto.cc/web-rooms</a>.
++ Abre este Trinket: <a href="https://trinket.io/html/f1486ddb24" target="_blank">jumpto.cc/web-rooms</a>.
     
     El proyecto debería parecerse a esto:
     
     ![captura de pantalla](images/rooms-starter.png)
 
-+ The trinket should autorun and you will find yourself in the Hall:
++ El Trinket se ejecutará automáticamente y te encontraras en el Pasillo:
     
     ![captura de pantalla](images/rooms-hall-start.png)
 
-+ Look at the list of file tabs for this trinket. Can you see `tvroom.html`? Click on it.
++ Da un vistazo a la lista de archivos para este Trinket. ¿Puedes ver `tvroom.html`? Haz clic en el.
     
-    ![screenshot](images/rooms-tvroom-html.png)
+    ![captura de pantalla](images/rooms-tvroom-html.png)
     
-    This is another html file in the same project.
+    Este es otro archivo HTML en el mismo proyecto.
 
-+ To get to `tvroom.html` you need to add a link in `index.html`.
++ Para llegar a `tvroom.html` es necesario que agregues un enlace en `index.html`.
     
-    Add the highlighted code inside the `<div>` with the class `room`:
+    Agrega el código resaltado dentro de `<div>` con la clase `room`:
     
     ![captura de pantalla](images/rooms-link-tvroom.png)
 
-+ Test your trinket by clicking on the **TV Room** link to see the `tvroom.html` webpage.
++ Prueba tu Trinket dando clic en el enlace **Habitación de TV** para ver la pagina web `tvroom.html`.
     
-    Note that `tvroom.html` also has its own `tvroom.css` style file which defines the layout for this page.
+    Fíjate que `tvroom.html` también tiene su propio archivo de estilo `tvroom.css` el cual define el plano del sitio.
     
     ![captura de pantalla](images/rooms-tvroom-unstyled.png)
