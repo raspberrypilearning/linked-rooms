@@ -1,13 +1,13 @@
-\--- challenge \---
+\--- desafio \---
 
 ## Desafio: Adicione outro link
 
-Adicione um link `<a>` à página da web  tvroom.html </ 1> para voltar à página da Sala, chamada <code> index.html </ 1>. O texto do link deve ser 'Sala'.</p>
+Adicione um `<a>` link à página da web `tvroom.html ` para voltar à página do Saguão, chamada `index.html `. O texto do link deve ser 'Saguão'.
 
-<p>A página da Web TV Room deveria então ter um link clicável como este:</p>
+A página da Web Sala de TV deveria então ter um link clicável como este:
 
-<p><img src="images/rooms-hall-link.png" alt="screenshot" /></p>
+![screenshot](images/rooms-hall-link.png)
 
-<p>Certifique-se de testar seu código. Você deve poder se deslocar da Sala para a Sala de TV e voltar novamente clicando nos links.</p>
+Certifique-se de testar seu código. Você deve poder se deslocar do Saguão para a Sala de TV e voltar novamente clicando nos links.
 
-<p>--- / desafio ---</p>
+\--- /desafio \---
