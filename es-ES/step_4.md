@@ -1,6 +1,6 @@
 ## Añadir otra sala
 
-Now let's add another room, a **Games Room**.
+Ahora es momento de anadir una nueva habitacion, una ** Sala de Juegos **.
 
 + Click on the add page **+** button:
     
