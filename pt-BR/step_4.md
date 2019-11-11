@@ -10,7 +10,7 @@ Agora vamos adicionar outra sala, uma **Sala de Jogos.**.
     
     ![screenshot](images/rooms-games-html.png)
 
-+ O HTML da **Sala de Jogos** é muito parecido com o da `saladetv.html`, então **copie** that and **cole** em `saladejogos.html`.
++ O HTML da **Sala de Jogos** é muito parecido com o da `saladetv.html`, então **copie** aquele e **cole** em `saladejogos.html`.
     
     Edite os itens destacados para que eles digam Jogos e não TV:
     
@@ -24,7 +24,7 @@ Agora vamos adicionar outra sala, uma **Sala de Jogos.**.
     
     ![captura de tela](images/rooms-add-games-css.png)
 
-+ Adicione um link do Salão para a Sala de Jogos:
++ Adicione um link do Saguão para a Sala de Jogos:
     
     ![screenshot](images/rooms-hall-games.png)
 
