@@ -1,4 +1,4 @@
---- desafio ---
+--- challenge ---
 
 ## Desafio: desenhe e interligue a sala de jogos
 
@@ -10,4 +10,4 @@ Dica: você precisará alterar a cor de fundo, a cor da fonte e a cor da borda e
 
 Dica: você precisará adicionar um `<a>` link em `saladejogos.html` que direciona para `index.html`.
 
---- /desafio ---
+--- /challenge ---

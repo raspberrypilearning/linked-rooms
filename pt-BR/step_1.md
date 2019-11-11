@@ -3,7 +3,7 @@
 Neste projeto, você criará um conjunto de cômodos interligados no qual cada cômodo é uma página web diferente que pode ser decorada usando HTML.
 
 <div class="trinket">
-  <iframe src="https://trinket.io/embed/html/be8ca3908d?outputOnly=true&start=result" width="600" height="450" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+  <iframe src="https://trinket.io/embed/html/660867756d?outputOnly=true&start=result" width="600" height="450" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
   </iframe>
   <img src="images/rooms-hall-finished.png">
 </div>
