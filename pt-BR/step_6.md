@@ -12,9 +12,9 @@ Links não precisam ser apenas texto. Vamos fazer uma porta clicável usando um 
     
     ![captura de tela](images/rooms-door-css1.png)
 
-+ Teste sua página clicando em qualquer lugar na porta, não apenas no texto.
++ Teste sua página web clicando em qualquer lugar na porta, não apenas no texto.
 
-+ Agora vamos fazer parecer um pouco mais com uma porta, adicionando uma borda em torno de três lados:
++ Agora vamos fazer parecer um pouco mais com uma porta, adicionando uma borda ao redor de três lados:
     
     ![screenshot](images/rooms-door-css2.png)
 
@@ -26,4 +26,4 @@ Links não precisam ser apenas texto. Vamos fazer uma porta clicável usando um 
     
     ![screenshot](images/rooms-door-position.png)
 
-+ Teste sua página clicando na porta para chegar à Sala de TV.
++ Teste sua página web clicando na porta para chegar à **Sala de TV**.
