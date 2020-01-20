@@ -1,37 +1,37 @@
 ## Füge noch ein Zimmer hinzu
 
-Now let's add another room, a **Games Room**.
+Fügen wir nun einen weiteren Raum hinzu, ein **Spielzimmer**.
 
-+ Click on the add page **+** button:
++ Klicke auf die Seite hinzufügen Schaltfläche **+**:
     
     ![Screenshot](images/rooms-add-page.png)
     
-    Type `gamesroom.html` as the page name:
+    Gib `gamesroom.html` als Seitennamen ein:
     
     ![Screenshot](images/rooms-games-html.png)
 
-+ The HTML for the **Games Room** is very similar to `tvroom.html` so **copy** that and **paste** it into `gamesroom.html`.
++ Der HTML-Code für das **Spielzimmer** ist sehr ähnlich zu `tvroom.html` also **kopiere** diesen Code und **füge** ihn in `gamesroom.html` **ein**.
     
-    Edit the highlighted items so they say Games not TV:
+    Bearbeite die hervorgehobenen Elemente so, dass dort "Spiel statt Fernseh" steht:
     
     ![Screenshot](images/rooms-games-html2.png)
 
-+ Your `gamesroom.html` now uses `gamesroom.css` which doesn't exist yet.
++ Deine `gamesroom.html` nutzt jetzt `gamesroom.css` die es aber noch nicht gibt.
     
-    Create `gamesroom.css` by clicking on the add page **+** button.
+    Erstelle `gamesroom.css` indem Du auf die Schaltfläche Seite hinzufügen **+** klickst.
 
-+ The CSS for the **Games Room** is very similar to `tvroom.css` so **copy** that and **paste** it into `gamesroom.css`.
++ Das CSS für das **Spielzimmer** ist sehr ähnlich zu `tvroom.css` also **kopiere** das und **füge** es in `gamesroom.css` **ein**.
     
-    ![screenshot](images/rooms-add-games-css.png)
+    ![Screenshot](images/rooms-add-games-css.png)
 
-+ Add a link from the Hall to the Games room:
++ Füge einen Link vom Flur zum Spielzimmer hinzu:
     
-    ![screenshot](images/rooms-hall-games.png)
+    ![Screenshot](images/rooms-hall-games.png)
 
-+ Test your project by clicking on the Games Room link
++ Teste deinProjekt, indem du auf den Spielzimmer Link klickst
     
-    The **Games Room** should look like this:
+    Das **Spielzimmer** sollte so aussehen:
     
     ![Screenshot](images/rooms-games-before.png)
     
-    Not very exciting, but you can fix that in the next challenge.
+    Nicht sehr aufregend, aber das kannst du in der nächsten Herausforderung beheben.
