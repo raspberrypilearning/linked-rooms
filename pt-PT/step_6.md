@@ -1,29 +1,29 @@
-## Make the links look like doors
+## Faz com que os links se pareçam com portas
 
-Links don't just have to be text. Let's make a clickable door using a `<div>`.
+Os links não têm que ter texto apenas. Vamos fazer uma porta clicável utilizando um `<div>`.
 
-+ Open `index.html` and add a `<div>` around the **TV Room** link text. It needs to be inside the `<a>` to make it clickable.
++ Abre o `index.html` e acrescenta um `<div>` à volta do texto do link **Sala da TV**. Tem que estar dentro do `<a>` para que seja clicável.
     
-    Add `id="hall2tv"` to label it as the door from the Hall to the TV Room so that you can style the door.
+    Acrescenta `id="hall2tv"` para o classificar como a porta do Átrio para a Sala da TV de forma que consigas estilizar a porta.
     
-    ![screenshot](images/rooms-tvroom-div.png)
+    ![captura de ecrã](images/rooms-tvroom-div.png)
 
-+ Click on the `style.css` tab, go to the bottom and add the following CSS to change the size and colour of the door:
++ Clica no separador `style.css`, vais para o final e acrescenta o seguinte CSS para alterar o tamanho e a cor da Porta:
     
     ![screenshot](images/rooms-door-css1.png)
 
-+ Test your webpage by clicking anywhere on the door, not just on the text.
++ Clica em qualquer lugar da porta para testar a tua página de internet, não apenas no texto.
 
-+ Now let's make it look a bit more like a door by adding a border around three sides:
++ Agora vamos fazer com que se pareça um pouco mais com uma porta ao acrescentar um limite em torno de três lados:
     
-    ![screenshot](images/rooms-door-css2.png)
+    ![captura de ecrã](images/rooms-door-css2.png)
 
-+ And let's add some CSS to make the text on the door look better:
++ E vamos acrescentar algum CSS para fazer o texto na porta ter uma aspeto melhor:
     
-    ![screenshot](images/rooms-door-css3.png)
+    ![captura de ecrã](images/rooms-door-css3.png)
 
-+ You've probably noticed that the door is floating in the air. Let's fix that by positioning the door inside the room.
++ Terás reparado provavelmente que a porta está como que a flutuar. Vamos corrigir este efeito posicionando a porta dentro do quarto.
     
-    ![screenshot](images/rooms-door-position.png)
+    ![captura de ecrã](images/rooms-door-position.png)
 
-+ Test your webpage by clicking on the door to get to the **TV Room**.
++ Testa a tua página de internet clicando na porta para chegar à **Sala da TV**.
