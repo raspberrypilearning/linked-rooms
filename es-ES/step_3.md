@@ -4,7 +4,7 @@
 
 Añade un `<a>` enlace en la pagina web `tvroom.html` que te dirija de vuelta a la pagina web del Pasillo, la cual es llamada `index.html`. El enlace debe ser "Pasillo".
 
-La pagina web de la Habitación de TV debe tener un enlace como este:
+La pagina web de la Sala de Estar debe tener un enlace como este:
 
 ![captura de pantalla](images/rooms-hall-link.png)
 
