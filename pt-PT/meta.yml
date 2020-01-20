@@ -1,39 +1,39 @@
 ---
-title: Linked Rooms
+title: Quartos Ligados
 hero_image: images/banner.png
-theme: red
+theme: vermelho
 duration: 2
 listed: false
 ingredient: false
 copyedit: false
 curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
-description: Create a web project with several 'rooms' linked together.
+description: Criar um projeto web com diversos "quartos" ligados entre si.
 original_url: https://codeclubprojects.org/en-GB/webdev/linked-rooms
 interests: ''
 technologies: html-css-javascript
-site_areas: projects
+site_areas: projetos
 hardware: ''
 software: html-css-javascript
 version: 3
 last_tested: 2017-01-01
 steps:
   - 
-    title: Introduction
+    title: Introdução
   - 
-    title: Linking to another web page in the same project
+    title: Ligar a outra página web no mesmo projeto
   - 
-    title: 'Challenge: Add another link'
+    title: 'Desafio: Acrescenta outro link'
   - 
-    title: Add another room
+    title: Acrescentar outro quarto
   - 
-    title: 'Challenge: Style and link the Games Room'
+    title: 'Desafio: Caracteriza e liga os Quartos de Jogo'
   - 
-    title: Make the links look like doors
+    title: Faz com que os links se pareçam com portas
   - 
-    title: 'Challenge: Add more doors!'
+    title: 'Desafio: adiciona mais portas!'
   - 
-    title: Adding a background image
+    title: Acrescenta uma imagem de fundo
   - 
-    title: 'Challenge: Add wallpaper to the Games Room'
+    title: 'Desafio: Acrescenta uma imagem de fundo aos Quartos de Jogo'
   - 
-    title: 'Challenge: Make it yours!'
+    title: 'Desafio: Personaliza-o!'
