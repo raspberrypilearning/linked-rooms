@@ -7,7 +7,7 @@ listed: false
 ingredient: false
 copyedit: false
 curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
-description: Crea un nuevo proyecto web con varias “habitaciones” unidas.
+description: Crea un nuevo proyecto web con varias “habitaciones” enlazadas.
 original_url: https://codeclubprojects.org/en-GB/webdev/linked-rooms
 interests: ''
 technologies: html-css-javascript
@@ -20,20 +20,20 @@ steps:
   - 
     title: Introducción
   - 
-    title: Crear un enlace a otra página web en el mismo proyecto
+    title: Crea un enlace a otra página web en el mismo proyecto
   - 
     title: 'Desafío: Añade otro enlace'
   - 
-    title: Añadir otra sala
+    title: Añade otra sala
   - 
-    title: 'Desafío: Dar estilo y enlazar la Sala de juegos'
+    title: 'Desafío: Dale estilo y enlaza la Sala de juegos'
   - 
-    title: Haz que los enlaces parezcan puertas
+    title: Haz que los enlaces luzcan como puertas
   - 
-    title: 'Desafío: ¡Añadir más puertas!'
+    title: 'Desafío: ¡Añade más puertas!'
   - 
-    title: Añadir una imagen de fondo
+    title: Añade una imagen de fondo
   - 
-    title: 'Desafío: Empapelar la Sala de juegos'
+    title: 'Desafío: Empapela la Sala de juegos'
   - 
     title: 'Desafío: ¡Hazlo tuyo!'
