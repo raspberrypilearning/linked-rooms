@@ -2,8 +2,6 @@
 
 Links don't just have to be text. Let's make a clickable door using a `<div>`.
 
-
-
 + Open `index.html` and add a `<div>` around the __TV Room__ link text. It needs to be inside the `<a>` to make it clickable.
 
   Add `id="hall2tv"` to label it as the door from the Hall to the TV Room so that you can style the door. 

@@ -14,16 +14,14 @@ __Instructions__: Click the doors to move between rooms.
 
 If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/linked-rooms/print).
 
-
 --- collapse ---
 ---
 title: Club leader notes
 ---
 
-
 ## Introduction:
-In this project, children are introduced to multiple linked web pages in the same project each with their own CSS file. 
 
+In this project, children are introduced to multiple linked web pages in the same project each with their own CSS file. 
 
 ## Online Resources
 
@@ -38,6 +36,7 @@ There is also a trinket containing a sample solution to the challenges:
 + ['Linked Rooms Finished' -- https://trinket.io/html/ba5d27ec68](https://trinket.io/html/eab49f4f06)
 
 ## Offline Resources
+
 This project can be [completed offline](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) if preferred. You can access the project resources by clicking the 'Project Materials' link for this project. This link contains a 'Project Resources' section, which includes resources that children will need to complete this project offline. Make sure that each child has access to a copy of these resources. This section includes the following files:
 
 + linked-rooms/index.html
@@ -59,6 +58,7 @@ You can also find a completed version of this project's challenges in the 'Volun
 (All of the resources above are also downloadable as project and volunteer `.zip` files.)
 
 ## Learning Objectives
+
 + This project introduces projects with multiple html pages linked together
 + Multiple CSS files are also introduced
 
@@ -67,6 +67,7 @@ This project covers elements from the following strands of the [Raspberry Pi Dig
 + [Design basic 2D and 3D assets](https://www.raspberrypi.org/curriculum/design/creator).
 
 ## Challenges
+
 + “Add another link” - Add a link between pages in the same project;
 + “Style and link the Games Room” - Add a link and style a page with its own CSS file. 
 + “Add more doors!” - Use <div>s as clickable links
@@ -74,16 +75,15 @@ This project covers elements from the following strands of the [Raspberry Pi Dig
 + "Make it yours!" - Add more rooms using the skills learned
 + "Add a key cursor" - A fun optional extra for those who complete the project
 
-
-
 --- /collapse ---
-
 
 --- collapse ---
 ---
 title: Project materials
 ---
+
 ## Project resources
+
 * [.zip file containing all project resources](resources/rooms-project-resources.zip)
 * [Online Trinket containing all 'Linked Rooms' project resources](http://jumpto.cc/web-rooms)
 * [Online Trinket template](http://jumpto.cc/trinket-template)
@@ -101,6 +101,7 @@ title: Project materials
 * [linked-rooms/stripes.png](resources/linked-rooms-stripes.png)
 
 ## Club leader resources
+
 * [.zip file containing all completed project resources](resources/rooms-volunteer-resources.zip)
 * [Online completed Trinket project](https://trinket.io/html/eab49f4f06)
 * [linked-rooms-finished/index.html](resources/linked-rooms-finished-index.html)

@@ -1,4 +1,5 @@
 --- challenge ---
+
 ## Challenge: Add wallpaper to the Games Room
 
 Can you decorate the games room with a background image?
@@ -12,8 +13,5 @@ You'll need to:
 The decorated room should look like this:
 
 ![screenshot](images/rooms-games-finished.png)	
-
-
-
 
 --- /challenge ---

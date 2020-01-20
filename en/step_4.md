@@ -20,7 +20,6 @@ Now let's add another room, a __Games Room__.
 
 	Create `gamesroom.css` by clicking on the add page __+__ button. 
 
-
 + The CSS for the __Games Room__ is very similar to `tvroom.css` so __copy__ that and __paste__ it into `gamesroom.css`.
 
 	![screenshot](images/rooms-add-games-css.png)
