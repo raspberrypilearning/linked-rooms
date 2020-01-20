@@ -1,31 +1,31 @@
-## Linking to another web page in the same project
+## Ligar a outra página web no mesmo projeto
 
-Web projects can be made up of lots of HTML files linked together.
+Os projetos web podem ser constituídos por muitos ficheiros HTML ligados entre si.
 
-+ Open this trinket: <a href="https://trinket.io/html/f1486ddb24" target="_blank">jumpto.cc/web-rooms</a>.
++ Abre este trinket: <a href="https://trinket.io/html/f1486ddb24" target="_blank">jumpto.cc/web-rooms</a>.
     
-    The project should look like this:
+    O projeto deverá ter este aspeto:
     
-    ![screenshot](images/rooms-starter.png)
+    ![captura de ecrã](images/rooms-starter.png)
 
-+ The trinket should autorun and you will find yourself in the Hall:
++ O trinket deve autoexecutar e encontrar-te-ás no Átrio:
     
     ![screenshot](images/rooms-hall-start.png)
 
-+ Look at the list of file tabs for this trinket. Can you see `tvroom.html`? Click on it.
++ Olha para a lista separadores de ficheiros para este trinket. Consegues ver o `tvroom.html`? Clica-lhe.
     
-    ![screenshot](images/rooms-tvroom-html.png)
+    ![captura de ecrã](images/rooms-tvroom-html.png)
     
-    This is another html file in the same project.
+    Este é outro ficheiro HTML no mesmo projeto.
 
-+ To get to `tvroom.html` you need to add a link in `index.html`.
++ Para ir para o `tvroom.html` terás que acrescentar um link em `index.html`.
     
-    Add the highlighted code inside the `<div>` with the class `room`:
+    Acrescenta o código destacado dentro da `sala` `<div>`com a turma</0>:
     
-    ![screenshot](images/rooms-link-tvroom.png)
+    ![captura de ecrã](images/rooms-link-tvroom.png)
 
-+ Test your trinket by clicking on the **TV Room** link to see the `tvroom.html` webpage.
++ Experimenta o teu trinket clicando no link **Sala da TV** para ver a página `tvroom.html`.
     
-    Note that `tvroom.html` also has its own `tvroom.css` style file which defines the layout for this page.
+    Nota que a página `tvroom.html` também tem o seu próprio ficheiro de estilo `tvroom.css` que define a disposição da página.
     
-    ![screenshot](images/rooms-tvroom-unstyled.png)
+    ![captura de ecrã](images/rooms-tvroom-unstyled.png)
