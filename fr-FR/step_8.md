@@ -1,9 +1,9 @@
-## Adding a background image
+## Ajouter une image d'arrière-plan
 
-Let's decorate the hall with a background image.
+Nous allons décorer le hall avec une image d'arrière-plan.
 
-+ Edit the `style.css` to add a background image to the Hall:
++ Modifie le `style.css` pour ajouter une image d’arrière-plan à la salle :
     
-    ![screenshot](images/rooms-hall-decorated.png)
+    ![capture d'écran](images/rooms-hall-decorated.png)
     
-    The image will be repeated to fill the whole room.
+    L'image sera répétée pour remplir la salle tout entière.
