@@ -1,29 +1,29 @@
-## Make the links look like doors
+## Faire en sorte que les liens ressemblent à des portes
 
-Links don't just have to be text. Let's make a clickable door using a `<div>`.
+Les liens ne doivent pas seulement être du texte. Faisons une porte cliquable en utilisant un `<div>`.
 
-+ Open `index.html` and add a `<div>` around the **TV Room** link text. It needs to be inside the `<a>` to make it clickable.
++ Ouvre `index.html` et ajoute `<div>` autour du texte du lien **Salle de télévision**. Il doit être à l'intérieur du `<a>` pour le rendre cliquable.
     
-    Add `id="hall2tv"` to label it as the door from the Hall to the TV Room so that you can style the door.
+    Ajoute `id="hall2tv"` pour l’étiqueter en tant que porte du Hall vers la salle de télévision afin que tu puisses styliser la porte.
     
-    ![screenshot](images/rooms-tvroom-div.png)
+    ![capture d'écran](images/rooms-tvroom-div.png)
 
-+ Click on the `style.css` tab, go to the bottom and add the following CSS to change the size and colour of the door:
++ Clique sur l'onglet `style.css` , va en bas et ajoute le CSS suivant pour changer la taille et la couleur de la porte :
     
-    ![screenshot](images/rooms-door-css1.png)
+    ![capture d'écran](images/rooms-door-css1.png)
 
-+ Test your webpage by clicking anywhere on the door, not just on the text.
++ Teste ta page Web en cliquant n'importe où sur la porte, pas seulement sur le texte.
 
-+ Now let's make it look a bit more like a door by adding a border around three sides:
++ Maintenant, faisons le un peu plus ressembler à une porte en ajoutant une bordure autour de trois côtés :
     
-    ![screenshot](images/rooms-door-css2.png)
+    ![capture d'écran](images/rooms-door-css2.png)
 
-+ And let's add some CSS to make the text on the door look better:
++ Et ajoutons un peu de CSS pour que le texte de la porte soit plus beau :
     
-    ![screenshot](images/rooms-door-css3.png)
+    ![capture d'écran](images/rooms-door-css3.png)
 
-+ You've probably noticed that the door is floating in the air. Let's fix that by positioning the door inside the room.
++ Tu as probablement remarqué que la porte flotte dans les airs. Corrigeons cela en plaçant la porte à l'intérieur de la salle.
     
-    ![screenshot](images/rooms-door-position.png)
+    ![capture d'écran](images/rooms-door-position.png)
 
-+ Test your webpage by clicking on the door to get to the **TV Room**.
++ Teste ta page Web en cliquant sur la porte pour accéder à la **Salle de télévision**.
