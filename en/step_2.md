@@ -2,8 +2,6 @@
 
 Web projects can be made up of lots of HTML files linked together. 
 
-
-
 + Open this trinket: <a href="https://trinket.io/html/f1486ddb24" target="_blank">jumpto.cc/web-rooms</a>. 
 
 	The project should look like this:
@@ -20,7 +18,6 @@ Web projects can be made up of lots of HTML files linked together.
 
 	This is another html file in the same project. 
 
-
 + To get to `tvroom.html` you need to add a link in `index.html`. 
 
 	Add the highlighted code inside the `<div>` with the class `room`: 
@@ -32,5 +29,3 @@ Web projects can be made up of lots of HTML files linked together.
 	Note that `tvroom.html` also has its own `tvroom.css` style file which defines the layout for this page. 
 
 	![screenshot](images/rooms-tvroom-unstyled.png)
-
-	

@@ -1,4 +1,5 @@
 --- challenge ---
+
 ## Challenge: Add more doors!
 
 Turn the other links in your project into doors in the same way. 
@@ -22,7 +23,5 @@ The Hall might look like this:
 The TV Room should look something like this:
 
 ![screenshot](images/rooms-tvroom-door.png)	
-
-
 
 --- /challenge ---
