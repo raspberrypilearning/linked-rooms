@@ -1,6 +1,6 @@
-## Introduction
+## Introdução
 
-In this project, you'll create a set of linked rooms where each room is a different web page which you can decorate with HTML.
+Neste projeto, vais criar um conjunto de quartos ligados entre si, onde cada sala é uma página web diferente que podes decorar com HTML.
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/html/eab49f4f06?outputOnly=true&start=result" width="600" height="450" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
@@ -8,35 +8,35 @@ In this project, you'll create a set of linked rooms where each room is a differ
   <img src="images/rooms-hall-finished.png">
 </div>
 
-**Instructions**: Click the doors to move between rooms.
+**Instruções**: Clica as portas para mover entre salas.
 
-### Additional information for club leaders
+### Informações adicionais para líderes de clubes
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/linked-rooms/print).
+Se for necessário imprimir este projeto, por favor, use a [versão para impressão](https://projects.raspberrypi.org/en/projects/linked-rooms/print).
 
 ## \--- collapse \---
 
-## title: Club leader notes
+## title: Notas para o líder do clube
 
-## Introduction:
+## Introdução:
 
-In this project, children are introduced to multiple linked web pages in the same project each with their own CSS file.
+Neste projeto, é introduzido às crianças o conceito de múltiplas páginas de internet no mesmo projeto, cada uma com o seu próprio ficheiro CSS.
 
-## Online Resources
+## Recursos online
 
-We recommend using [trinket](https://trinket.io/) to write HTML & CSS online. This project contains the following trinket:
+Recomendamos utilizar o [trinket](https://trinket.io/) para escrever HTML & CSS online. Esta projeto contém o seguinte trinket:
 
-* ['Linked Rooms' starting point -- jumpto.cc/web-rooms](https://trinket.io/html/f1486ddb24)
+* ['Salas Ligadas' ponto de partida -- jumpto.cc/web-rooms](https://trinket.io/html/f1486ddb24)
 
-Children can also make use of this blank trinket [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) to write their own HTML & CSS, or alternatively they can use this template trinket [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
+As crianças também podem usar este trinket em branco [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) para escrever o seu próprio HTML & CSS, ou alternativamente usar este modelo de trinket [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
 
-There is also a trinket containing a sample solution to the challenges:
+Há também um trinket que contém uma amostra de solução para os desafios:
 
-* ['Linked Rooms Finished' -- https://trinket.io/html/ba5d27ec68](https://trinket.io/html/eab49f4f06)
+* ['Salas Ligadas Terminado' -- https://trinket.io/html/ba5d27ec68](https://trinket.io/html/eab49f4f06)
 
-## Offline Resources
+## Recursos offline
 
-This project can be [completed offline](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) if preferred. You can access the project resources by clicking the 'Project Materials' link for this project. This link contains a 'Project Resources' section, which includes resources that children will need to complete this project offline. Make sure that each child has access to a copy of these resources. This section includes the following files:
+Este projeto pode ser [ concluído offline ](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) se preferires. Podes ter acesso aos recursos do projeto clicando no link 'Materiais de Projeto' deste projeto. Este link contém uma seção 'Recursos do projeto', que inclui recursos de que as crianças necessitam para concluir este projeto offline. Certifique-se de que cada criança tem acesso a uma cópia destes recursos. Esta secção inclui os seguintes arquivos:
 
 * linked-rooms/index.html
 * linked-rooms/style.css
@@ -46,7 +46,7 @@ This project can be [completed offline](https://www.codeclubprojects.org/en-GB/r
 * template/template.html
 * template/style.css
 
-You can also find a completed version of this project's challenges in the 'Volunteer Resources' section, which contains:
+Também podes encontrar uma versão completa dos desafios deste projeto na secção 'Recursos para Voluntários', que contém:
 
 * linked-rooms-finished/index.html
 * linked-rooms-finished/style.css
@@ -54,39 +54,39 @@ You can also find a completed version of this project's challenges in the 'Volun
 * linked-rooms-finished/prefixfree.js
 * linked-rooms-finished/4 x .png images
 
-(All of the resources above are also downloadable as project and volunteer `.zip` files.)
+(Todos os recursos acima também são transferíveis como arquivos `.zip` do projeto e voluntários.)
 
-## Learning Objectives
+## Objetivos de Aprendizagem
 
-* This project introduces projects with multiple html pages linked together
-* Multiple CSS files are also introduced
+* Este projeto introduz projetos com múltiplas páginas Html ligadas entre si
+* São também introduzidos múltiplos ficheiros CSS
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+Este projeto abrange elementos das seguintes vertentes do [ Currículo Raspberry Pi Para a produção digital ](http://rpf.io/curriculum):
 
-* [Design basic 2D and 3D assets](https://www.raspberrypi.org/curriculum/design/creator).
+* [ Criar conteúdos 2D e 3D básicos ](https://www.raspberrypi.org/curriculum/design/creator).
 
-## Challenges
+## Desafios
 
-* “Add another link” - Add a link between pages in the same project;
-* “Style and link the Games Room” - Add a link and style a page with its own CSS file. 
-* “Add more doors!” - Use 
+* “Acrescenta outro link” - Acrescenta um link entre páginas no mesmo projeto;
+* "Estiliza e liga os Quartos de Jogo" - Acrescenta uma ligação e estilo a páginas com o seu próprio ficheiro CSS. 
+* "Acrescenta mais portas!" - Usa 
 
 <
 
-div>s as clickable links + "Add wallpaper to the Games Room" - Add a background image + "Make it yours!" - Add more rooms using the skills learned + "Add a key cursor" - A fun optional extra for those who complete the project
+div>s as clickable links + "Acrescenta imagens de fundo aos quartos Quartos de Jogo" - Acrescenta uma imagem de fundo + "Personaliza-o!" - Acrescenta mais quartos utilizando as competências adquiridas + "Acrescenta a tecla de cursor" - Um extra divertido optativo para quem completar o projeto
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Project materials
+## title: Materiais do projeto
 
-## Project resources
+## Recursos do projeto
 
-* [.zip file containing all project resources](resources/rooms-project-resources.zip)
-* [Online Trinket containing all 'Linked Rooms' project resources](http://jumpto.cc/web-rooms)
-* [Online Trinket template](http://jumpto.cc/trinket-template)
-* [Online blank Trinket](http://jumpto.cc/trinket-blank)
+* [Arquivo .zip contendo todos os recursos do projeto](resources/rooms-project-resources.zip)
+* [Trinket online contendo todos os recursos do projeto 'Quartos Ligados'](http://jumpto.cc/web-rooms)
+* [Modelo online Trinket](http://jumpto.cc/trinket-template)
+* [Trinket em branco online](http://jumpto.cc/trinket-blank)
 * [template/index.html](resources/template-index.html)
 * [template/style.css](resources/template-style.css)
 * [linked-rooms/index.html](resources/linked-rooms-index.html)
@@ -99,10 +99,10 @@ div>s as clickable links + "Add wallpaper to the Games Room" - Add a background 
 * [linked-rooms/star.png](resources/linked-rooms-star.png)
 * [linked-rooms/stripes.png](resources/linked-rooms-stripes.png)
 
-## Club leader resources
+## Recursos do Líder do clube
 
-* [.zip file containing all completed project resources](resources/rooms-volunteer-resources.zip)
-* [Online completed Trinket project](https://trinket.io/html/eab49f4f06)
+* [Arquivo .zip contendo todos os recursos do projeto concluído](resources/rooms-volunteer-resources.zip)
+* [Projeto Trinket online completo ](https://trinket.io/html/eab49f4f06)
 * [linked-rooms-finished/index.html](resources/linked-rooms-finished-index.html)
 * [linked-rooms-finished/style.css](resources/linked-rooms-finished-style.css)
 * [linked-rooms-finished/tvroom.html](resources/linked-rooms-finished-tvroom.html)
