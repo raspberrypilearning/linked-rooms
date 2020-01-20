@@ -1,13 +1,13 @@
 \--- challenge \---
 
-## Challenge: Add another link
+## Défi : Ajouter un autre lien
 
-Add an `<a>` link to the `tvroom.html` webpage to get you back to the Hall webpage which is called `index.html`. The link text should be 'Hall'.
+Ajoute une page web `<a>` associée à `tvroom.html` pour te ramener à la page Web Hall, appelée `index.html`. Le texte du lien doit être "Hall".
 
-The TV Room webpage should then have a clickable link like this:
+La page Web de la salle de télévision devrait alors avoir un lien cliquable comme ceci :
 
-![screenshot](images/rooms-hall-link.png)
+![capture d'écran](images/rooms-hall-link.png)
 
-Make sure you test your code. You should be able to move from the Hall to the TV Room and back again by clicking on links.
+Assure-toi de tester ton code. Tu devrais pouvoir passer du Hall à la salle de télévision et inversement en cliquant sur les liens.
 
 \--- /challenge \---
