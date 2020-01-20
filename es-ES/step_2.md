@@ -24,7 +24,7 @@ Los sitios web pueden estar formados por cientos de archivos HTML entrelazados.
     
     ![captura de pantalla](images/rooms-link-tvroom.png)
 
-+ Prueba tu Trinket dando clic en el enlace **Habitación de TV** para ver la pagina web `tvroom.html`.
++ Prueba tu Trinket haciendo clic en el enlace **Sala de Estar** para ver la pagina web `tvroom.html`.
     
     Fíjate que `tvroom.html` también tiene su propio archivo de estilo `tvroom.css` el cual define el plano del sitio.
     
