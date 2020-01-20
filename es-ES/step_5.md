@@ -1,13 +1,13 @@
-\--- desafío \---
+\--- challenge \---
 
-## Desafío: Dar estilo y enlazar la Sala de juegos
+## Desafío: Dar estilo y enlazar el Salón de Juegos
 
-Edit the HTML and CSS for the **Games Room** so that the webpage looks like this:
+Edita el archivo HTML y el CSS del **Salón de Juegos** para que la página web se vea así:
 
 ![captura de pantalla](images/rooms-games-challenge.png)
 
-Hint: You'll need to change the background colour, font colour and border colour in `gamesroom.css`. The bright green colour is called `chartreuse`.
+Pista: Necesitaras cambiar el color de fondo, el color de letra y el color del borde en `salondejuegos.css`. El color verde brillante se llama `chartreuse`.
 
-Hint: You'll need to add an `<a>` link in `gamesroom.html` which links to `index.html`.
+Pista: Necesitaras un `<a>` enlace en `salondejuegos.html` que conecta con el `pasillo.html`.
 
 \--- /challenge \---
