@@ -1,26 +1,26 @@
 \--- challenge \---
 
-## Aufgabe: Füge weitere Türen hinzu!
+## Herausforderung: Füge weitere Türen hinzu!
 
-Turn the other links in your project into doors in the same way.
+Verwandele die anderen Links in deinem Projekt auf die gleiche Weise in Türen.
 
-For each door you'll need to:
+Für jede Tür musst du:
 
-+ Edit the door link to use a `<div>` with an id such as `hall2games` so that you can style it.
++ Den Tür-Link bearbeiten, um ein `<div>` mit einer id wie `hall2games` zu verwenden, damit du sie gestalten kannst.
     
     Zum Beispiel:
     
-    `<a href="gamesroom.html"><div id="hall2games">Games Room</div></a>`
+    `<a href="gamesroom.html"><div id="hall2games">Spielzimmer</div></a>`
 
-+ Add CSS for the door id to the `.css` file for its room. Use *copy* and *paste* to save time. You can make each door look different if you like.
++ CSS für die Tür-ID zur `.css`-Datei für den Raum hinzufügen. Verwende *kopieren* und *einfügen*, um Zeit zu sparen. Du kannst jede Tür anders aussehen lassen, wenn du möchtest.
 
-+ Position the door using `bottom:` and `left:` or `right:`.
++ Die Tür positionieren, indem du `bottom:` und `left:` oder `right:` verwendest.
 
-The Hall might look like this:
+Der Flur könnte so aussehen:
 
 ![Screenshot](images/rooms-hall-doors.png)
 
-The TV Room should look something like this:
+Der Fernsehraum sollte ungefähr so aussehen:
 
 ![Screenshot](images/rooms-tvroom-door.png)
 
