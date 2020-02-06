@@ -1,37 +1,37 @@
-## Acrescentar outro quarto
+## Add another room
 
-Agora, vamos acrescentar outra sala, a **Sala dos Jogos**.
+Now let's add another room, a **Games Room**.
 
-+ Clica no botão para acrescentar página **+**:
++ Click on the add page **+** button:
     
-    ![captura de ecrã](images/rooms-add-page.png)
+    ![screenshot](images/rooms-add-page.png)
     
-    Usa `gamesroom.html` como nome da página:
+    Type `gamesroom.html` as the page name:
     
-    ![captura de ecrã](images/rooms-games-html.png)
+    ![screenshot](images/rooms-games-html.png)
 
-+ O HTML para a **Sala dos Jogos** é muito semelhante ao do `tvroom.html`, por isso **copia** e **cola** o código para o `gamesroom.html`.
++ The HTML for the **Games Room** is very similar to `tvroom.html` so **copy** that and **paste** it into `gamesroom.html`.
     
-    Edita os itens destacados de forma a que digam "Jogos" e não "TV":
+    Edit the highlighted items so they say Games not TV:
     
-    ![captura de ecrã](images/rooms-games-html2.png)
+    ![screenshot](images/rooms-games-html2.png)
 
-+ O teu `gamesroom.html` agora utiliza o `gamesroom.css` que não existe ainda.
++ Your `gamesroom.html` now uses `gamesroom.css` which doesn't exist yet.
     
-    Cria o `gamesroom.css` clicando no botão de acrescentar página **+**.
+    Create `gamesroom.css` by clicking on the add page **+** button.
 
-+ O CSS para a **Sala de Jogos** é muito semelhante ao do `tvroom.css`, por isso **copia** e depois **cola** o código para o `gamesroom.css`.
++ The CSS for the **Games Room** is very similar to `tvroom.css` so **copy** that and **paste** it into `gamesroom.css`.
     
-    ![captura de ecrã](images/rooms-add-games-css.png)
+    ![screenshot](images/rooms-add-games-css.png)
 
-+ Acrescenta um link do Átrio para a Sala de Jogos:
++ Add a link from the Hall to the Games room:
     
-    ![captura de ecrã](images/rooms-hall-games.png)
+    ![screenshot](images/rooms-hall-games.png)
 
-+ Testa o teu projeto clicando no link da Sala de Jogos
++ Test your project by clicking on the Games Room link
     
-    A **Sala de Jogos** deve ter este aspeto:
+    The **Games Room** should look like this:
     
-    ![captura de ecrã](images/rooms-games-before.png)
+    ![screenshot](images/rooms-games-before.png)
     
-    Não é muito excitante, mas podem resolver isto no próximo desafio.
+    Not very exciting, but you can fix that in the next challenge.
