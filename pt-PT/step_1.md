@@ -1,6 +1,6 @@
 ## Introdução
 
-Neste projeto, vais criar um conjunto de quartos ligados entre si, onde cada sala é uma página web diferente que podes decorar com HTML.
+Neste projeto, vais criar um conjunto de salas ligadas entre si, onde cada sala é uma página web diferente que podes decorar com HTML.
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/html/eab49f4f06?outputOnly=true&start=result" width="600" height="450" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
@@ -8,11 +8,11 @@ Neste projeto, vais criar um conjunto de quartos ligados entre si, onde cada sal
   <img src="images/rooms-hall-finished.png">
 </div>
 
-**Instruções**: Clica as portas para mover entre salas.
+**Instruções**: Clica nas portas para mudares de sala.
 
 ### Informações adicionais para líderes de clubes
 
-Se for necessário imprimir este projeto, por favor, use a [versão para impressão](https://projects.raspberrypi.org/en/projects/linked-rooms/print).
+Se for necessário imprimir este projeto, por favor, usa a [versão para impressão](https://projects.raspberrypi.org/en/projects/linked-rooms/print).
 
 ## \--- collapse \---
 
@@ -24,13 +24,13 @@ Neste projeto, é introduzido às crianças o conceito de múltiplas páginas de
 
 ## Recursos online
 
-Recomendamos utilizar o [trinket](https://trinket.io/) para escrever HTML & CSS online. Esta projeto contém o seguinte trinket:
+Recomendamos que se utilize o [trinket](https://trinket.io/) para escrever HTML & CSS online. Este projeto contém o seguinte trinket:
 
 * ['Salas Ligadas' ponto de partida -- jumpto.cc/web-rooms](https://trinket.io/html/f1486ddb24)
 
-As crianças também podem usar este trinket em branco [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) para escrever o seu próprio HTML & CSS, ou alternativamente usar este modelo de trinket [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
+As crianças podem também usar este trinket em branco [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) para escrever o seu próprio HTML & CSS ou, em alternativa, usar este modelo de trinket [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
 
-Há também um trinket que contém uma amostra de solução para os desafios:
+Há também um trinket que contém um exemplo de uma solução para os desafios:
 
 * ['Salas Ligadas Terminado' -- https://trinket.io/html/ba5d27ec68](https://trinket.io/html/eab49f4f06)
 
@@ -54,7 +54,7 @@ Também podes encontrar uma versão completa dos desafios deste projeto na secç
 * linked-rooms-finished/prefixfree.js
 * linked-rooms-finished/4 x .png images
 
-(Todos os recursos acima também são transferíveis como arquivos `.zip` do projeto e voluntários.)
+(Todos os recursos acima também podem ser transferidos como arquivos `.zip` nos "Materiais do projeto".)
 
 ## Objetivos de Aprendizagem
 
@@ -68,12 +68,12 @@ Este projeto abrange elementos das seguintes vertentes do [ Currículo Raspberry
 ## Desafios
 
 * “Acrescenta outro link” - Acrescenta um link entre páginas no mesmo projeto;
-* "Estiliza e liga os Quartos de Jogo" - Acrescenta uma ligação e estilo a páginas com o seu próprio ficheiro CSS. 
+* "Estiliza e liga a Sala de Jogo" - Acrescenta uma ligação e estilo a páginas, cada uma com o seu próprio ficheiro CSS. 
 * "Acrescenta mais portas!" - Usa 
 
 <
 
-div>s as clickable links + "Acrescenta imagens de fundo aos quartos Quartos de Jogo" - Acrescenta uma imagem de fundo + "Personaliza-o!" - Acrescenta mais quartos utilizando as competências adquiridas + "Acrescenta a tecla de cursor" - Um extra divertido optativo para quem completar o projeto
+div>s como links clicáveis + "Acrescenta imagens de fundo à Sala de Jogos" - Acrescenta uma imagem de fundo + "Personaliza-o!" - Acrescenta mais salas utilizando as competências adquiridas + "Acrescenta um cursor com uma forma de chave" - Uma ideia divertida e opcional para quem completar o projeto
 
 \--- /collapse \---
 
@@ -83,10 +83,10 @@ div>s as clickable links + "Acrescenta imagens de fundo aos quartos Quartos de J
 
 ## Recursos do projeto
 
-* [Arquivo .zip contendo todos os recursos do projeto](resources/rooms-project-resources.zip)
-* [Trinket online contendo todos os recursos do projeto 'Quartos Ligados'](http://jumpto.cc/web-rooms)
+* [Arquivo .zip com todos os recursos do projeto](resources/rooms-project-resources.zip)
+* [Trinket online com todos os recursos do projeto 'Salas Ligadas'](http://jumpto.cc/web-rooms)
 * [Modelo online Trinket](http://jumpto.cc/trinket-template)
-* [Trinket em branco online](http://jumpto.cc/trinket-blank)
+* [Trinket vazio online](http://jumpto.cc/trinket-blank)
 * [template/index.html](resources/template-index.html)
 * [template/style.css](resources/template-style.css)
 * [linked-rooms/index.html](resources/linked-rooms-index.html)
@@ -101,7 +101,7 @@ div>s as clickable links + "Acrescenta imagens de fundo aos quartos Quartos de J
 
 ## Recursos do Líder do clube
 
-* [Arquivo .zip contendo todos os recursos do projeto concluído](resources/rooms-volunteer-resources.zip)
+* [Arquivo .zip com todos os recursos do projeto concluído](resources/rooms-volunteer-resources.zip)
 * [Projeto Trinket online completo ](https://trinket.io/html/eab49f4f06)
 * [linked-rooms-finished/index.html](resources/linked-rooms-finished-index.html)
 * [linked-rooms-finished/style.css](resources/linked-rooms-finished-style.css)
