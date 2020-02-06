@@ -1,39 +1,39 @@
 ---
-title: 互连房间
+title: Linked Rooms
 hero_image: images/banner.png
-theme: violet
+theme: red
 duration: 2
 listed: false
 ingredient: false
 copyedit: false
-curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
-description: 创建一个带有多个互相链接的“房间”的 web 项目。
+curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
+description: Create a web project with several 'rooms' linked together.
 original_url: https://codeclubprojects.org/en-GB/webdev/linked-rooms
 interests: ''
-technologies: html/css
-site_areas: codeclub, webdev
+technologies: html-css-javascript
+site_areas: projects
 hardware: ''
 software: html-css-javascript
 version: 3
 last_tested: 2017-01-01
 steps:
   - 
-    title: 介绍
+    title: Introduction
   - 
-    title: 链接同一项目中的另一个网页
+    title: Linking to another web page in the same project
   - 
-    title: '挑战：添加另一个链接'
+    title: 'Challenge: Add another link'
   - 
-    title: 添加另一个房间
+    title: Add another room
   - 
-    title: '挑战：设置游戏房间样式并进行链接'
+    title: 'Challenge: Style and link the Games Room'
   - 
-    title: 使链接看起来像房门
+    title: Make the links look like doors
   - 
-    title: '挑战：添加更多房门！'
+    title: 'Challenge: Add more doors!'
   - 
-    title: 添加背景图片
+    title: Adding a background image
   - 
-    title: '挑战：向游戏房间添加壁纸'
+    title: 'Challenge: Add wallpaper to the Games Room'
   - 
-    title: '挑战：化为已有！'
+    title: 'Challenge: Make it yours!'
