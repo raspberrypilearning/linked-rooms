@@ -1,31 +1,31 @@
-## Povezivanje na drugu web stranicu u istom projektu
+## Linking to another web page in the same project
 
-Web projekti mogu biti sastavljeni od puno HTML datoteka povezanih zajedno.
+Web projects can be made up of lots of HTML files linked together.
 
 + Open this trinket: <a href="https://trinket.io/html/f1486ddb24" target="_blank">jumpto.cc/web-rooms</a>.
     
-    Projekt bi trebao izgledati ovako:
+    The project should look like this:
     
     ![screenshot](images/rooms-starter.png)
 
-+ Trinket bi trebao biti autorun i naći ćete se u dvorani:
++ The trinket should autorun and you will find yourself in the Hall:
     
     ![screenshot](images/rooms-hall-start.png)
 
-+ Pogledajte popis datoteka kartica za ovaj trik. Možete li vidjeti `tvroom.html`? Kliknite na njega.
++ Look at the list of file tabs for this trinket. Can you see `tvroom.html`? Click on it.
     
     ![screenshot](images/rooms-tvroom-html.png)
     
-    Ovo je još jedna html datoteka u istom projektu.
+    This is another html file in the same project.
 
-+ Da biste došli do stranice `tvroom.html` , morate dodati vezu u `index.html`.
++ To get to `tvroom.html` you need to add a link in `index.html`.
     
-    Dodajte označeni kôd unutar `<div>` sa sobom `klase`:
+    Add the highlighted code inside the `<div>` with the class `room`:
     
     ![screenshot](images/rooms-link-tvroom.png)
 
-+ Testirajte svoju nakit tako da kliknete vezu **TV soba** da biste vidjeli `tvroom.html` web stranicu.
++ Test your trinket by clicking on the **TV Room** link to see the `tvroom.html` webpage.
     
-    Imajte na umu da `tvroom.html` također ima svoju `tvroom.css` datoteku stila koja definira izgled ove stranice.
+    Note that `tvroom.html` also has its own `tvroom.css` style file which defines the layout for this page.
     
     ![screenshot](images/rooms-tvroom-unstyled.png)
