@@ -1,37 +1,37 @@
-## Dodaj još jednu salu
+## Add another room
 
-Dodajmo sada još jednu salu, **Salu za igre**.
+Now let's add another room, a **Games Room**.
 
-+ Klikni na dugme **+** za dodavanje stranice:
++ Click on the add page **+** button:
     
     ![screenshot](images/rooms-add-page.png)
     
-    Upiši `gamesroom.html` kao naziv stranice:
+    Type `gamesroom.html` as the page name:
     
     ![screenshot](images/rooms-games-html.png)
 
-+ HTML za **Salu za igre** veoma je sličan `tvroom.html`, pa ga **kopiraj** i **prenesi** u `gamesroom.html`.
++ The HTML for the **Games Room** is very similar to `tvroom.html` so **copy** that and **paste** it into `gamesroom.html`.
     
-    Izmijeni označene elemente tako što ćeš umjesto TV upisati 'games' i 'za igre':
+    Edit the highlighted items so they say Games not TV:
     
     ![screenshot](images/rooms-games-html2.png)
 
-+ Tvoj `gamesroom.html` sada koristi `gamesroom.css` koji još uvijek ne postoji.
++ Your `gamesroom.html` now uses `gamesroom.css` which doesn't exist yet.
     
-    Kreiraj `gamesroom.css` tako što ćeš kliknuti na dugme **+** za dodavanje stranice.
+    Create `gamesroom.css` by clicking on the add page **+** button.
 
-+ CSS za **Salu za igre** veoma je sličan `tvroom.css`, pa ga **kopiraj** i **prenesi** u `gamesroom.css`.
++ The CSS for the **Games Room** is very similar to `tvroom.css` so **copy** that and **paste** it into `gamesroom.css`.
     
     ![screenshot](images/rooms-add-games-css.png)
 
-+ U Hodnik dodaj link za Salu za igre:
++ Add a link from the Hall to the Games room:
     
     ![screenshot](images/rooms-hall-games.png)
 
-+ Isprobaj svoj projekat tako što ćeš kliknuti na link Sale za igre.
++ Test your project by clicking on the Games Room link
     
-    **Sala za igre** treba da izgleda ovako:
+    The **Games Room** should look like this:
     
     ![screenshot](images/rooms-games-before.png)
     
-    Ne izgleda zanimljivo, ali to ćeš moći da popraviš u sljedećem izazovu.
+    Not very exciting, but you can fix that in the next challenge.
