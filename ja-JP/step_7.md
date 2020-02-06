@@ -8,7 +8,7 @@ For each door you'll need to:
 
 + Edit the door link to use a `<div>` with an id such as `hall2games` so that you can style it.
     
-    例えば:
+    For example:
     
     `<a href="gamesroom.html"><div id="hall2games">Games Room</div></a>`
 
@@ -22,6 +22,6 @@ The Hall might look like this:
 
 The TV Room should look something like this:
 
-![スクリーンショット](images/rooms-tvroom-door.png)
+![screenshot](images/rooms-tvroom-door.png)
 
 \--- /challenge \---
