@@ -1,9 +1,9 @@
-## Acrescentar uma imagem de fundo
+## Adding a background image
 
-Vamos decorar o Átrio com uma imagem de fundo.
+Let's decorate the hall with a background image.
 
-+ Edita o `style.css` para acrescentar uma imagem de fundo ao Átrio:
++ Edit the `style.css` to add a background image to the Hall:
     
-    ![captura de ecrã](images/rooms-hall-decorated.png)
+    ![screenshot](images/rooms-hall-decorated.png)
     
-    A imagem será repetida para preencher toda a Sala.
+    The image will be repeated to fill the whole room.
