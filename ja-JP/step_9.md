@@ -12,6 +12,6 @@ You'll need to:
 
 The decorated room should look like this:
 
-![スクリーンショット](images/rooms-games-finished.png)
+![screenshot](images/rooms-games-finished.png)
 
 \--- /challenge \---
