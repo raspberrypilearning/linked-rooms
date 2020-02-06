@@ -1,41 +1,37 @@
-## إضافة غرفة أخرى
+## أضف غرفة أخرى
 
-لنضِف الآن غرفة أخرى، وهي __Games Room__. 
+الآن دعنا نضيف غرفة أخرى، **غرفة الألعاب**.
 
-+ انقر فوق الزر __+__ لإضافة صفحة:
++ اضغط على زر **+**:
+    
+    ![لقطة الشاشة](images/rooms-add-page.png)
+    
+    أكتب `gamesroom.html` كاسم للصفحة:
+    
+    ![لقطة الشاشة](images/rooms-games-html.png)
 
-	![screenshot](images/rooms-add-page.png)
++ كود HTML الخاص **بغرفة الألعاب** يشابه `tvroom.html` يمكنك **نسخ** و **لصق** الكود في `gamesroom.html`.
+    
+    قم بتعديل العناوين المضللة حتى تكون "ألعاب" بدلاً من "تلفاز":
+    
+    ![لقطة الشاشة](images/rooms-games-html2.png)
 
-	اكتب `gamesroom.html` لتحديد اسم الصفحة:
++ ملف `gamesroom.html` الآن سوف يستخدم `gamesroom.css` الغير موجود بعد.
+    
+    أنشئ ملف `gamesroom.css` بواسطة الضغط على زر أضف صفحة **+**.
 
-  ![screenshot](images/rooms-games-html.png)
++ كود CSS الخاص **بغرفة الألعاب** يشابه `tvroom.css` يمكنك **نسخ** و **لصق** الكود في `gamesroom.css`.
+    
+    ![لقطة الشاشة](images/rooms-add-games-css.png)
 
-+ تُشبه تعليمات HTML البرمجية لـ __Games Room__ التعليمات البرمجية لـ `tvroom.html` إلى حد كبير، لذا يمكنك __نسخ__ هذه التعليمات و __لصقها__ في ملف `gamesroom.html`.
-	
-	قم بتحرير كل العناصر المظللة TV لتغييرها إلى Games:
++ أضف رابط من الصالة إلى غرفة الألعاب:
+    
+    ![لقطة الشاشة](images/rooms-hall-games.png)
 
-	![screenshot](images/rooms-games-html2.png)	
-
-+ ستستخدم صفحة `gamesroom.html` الآن صفحة `gamesroom.css` التي لم يتم إنشاؤها بعد. 
-
-	أنشئ صفحة `gamesroom.css` بالنقر فوق الزر __+__ لإضافة صفحة. 
-
-
-+ تُشبه تعليمات CSS البرمجية لـ __Games Room__ التعليمات البرمجية لـ `tvroom.css` إلى حد كبير، لذا يمكنك __نسخ__ هذه التعليمات و __لصقها__ في ملف `gamesroom.css`.
-
-	![screenshot](images/rooms-add-games-css.png)
-
-+ أضف رابطًا من الصفحة Hall إلى صفحة Games Room:
-
-	![screenshot](images/rooms-hall-games.png)
-
-+ اختبر مشروعك بالنقر فوق الرابط Games Room.
-
-	ستكون __Games Room__ بالشكل التالي:
-
-	![screenshot](images/rooms-games-before.png)
-
-	لا تبدو الصفحة مشوِّقة، لكن يمكنك إصلاح ذلك في التحدي التالي. 
-
-
-
++ قم باختبار مشروعك بالضغط على رابط غرفة الألعاب
+    
+    **غرفة الألعاب** يجب أن تظهر بالشكل التالي:
+    
+    ![لقطة الشاشة](images/rooms-games-before.png)
+    
+    لم يكن بالشئ المثير جداً، لكن يمكن أن يكون مثيراً في التحدي القادم.
