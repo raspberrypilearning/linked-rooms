@@ -1,27 +1,27 @@
 \--- challenge \---
 
-## Πρόκληση: Πρόσθεσε περισσότερες πόρτες!
+## Challenge: Add more doors!
 
-Μετάτρεψε και τους υπόλοιπους συνδέσμους στο έργο σου σε πόρτες με τον ίδιο τρόπο.
+Turn the other links in your project into doors in the same way.
 
-Για κάθε πόρτα θα χρειαστεί να:
+For each door you'll need to:
 
-+ Τροποποιήσεις τον σύνδεσμο της πόρτα να χρησιμοποιεί ένα `<div>` με ένα id όπως `hall2games`, ώστε να μπορεί να το μορφοποιήσεις.
++ Edit the door link to use a `<div>` with an id such as `hall2games` so that you can style it.
     
-    Για παράδειγμα:
+    For example:
     
-    `<a href="gamesroom.html"><div id="hall2games">Δωμάτιο Παιχνιδιών</div></a>`
+    `<a href="gamesroom.html"><div id="hall2games">Games Room</div></a>`
 
-+ Και να προσθέσεις κώδικα CSS για το id της πόρτας στο αρχείο `.css` για το συγκεκριμένο δωμάτιο. Χρησιμοποίησε *αντιγραφή* και *επικόλληση* για να κερδίσεις χρόνο. Μπορείς να κάνεις κάθε πόρτα διαφορετική αν θέλεις.
++ Add CSS for the door id to the `.css` file for its room. Use *copy* and *paste* to save time. You can make each door look different if you like.
 
-+ Να τοποθετήσεις την πόρτα χρησιμοποιώντας `bottom:` και `left:` ή `right:`.
++ Position the door using `bottom:` and `left:` or `right:`.
 
-Το Χωλ μπορεί να μοιάζει έτσι:
+The Hall might look like this:
 
-![στιγμιότυπο οθόνης](images/rooms-hall-doors.png)
+![screenshot](images/rooms-hall-doors.png)
 
-Το Δωμάτιο Τηλεόρασης θα μοιάζει έτσι:
+The TV Room should look something like this:
 
-![στιγμιότυπο οθόνης](images/rooms-tvroom-door.png)
+![screenshot](images/rooms-tvroom-door.png)
 
 \--- /challenge \---
