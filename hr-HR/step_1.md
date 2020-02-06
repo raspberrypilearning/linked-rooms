@@ -1,6 +1,6 @@
-## Uvod
+## Introduction
 
-U ovom projektu izradit ćete skup povezanih soba u kojima svaka soba predstavlja drugu web stranicu koju možete ukrasiti s HTML-om.
+In this project, you'll create a set of linked rooms where each room is a different web page which you can decorate with HTML.
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/html/eab49f4f06?outputOnly=true&start=result" width="600" height="450" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
@@ -8,111 +8,111 @@ U ovom projektu izradit ćete skup povezanih soba u kojima svaka soba predstavlj
   <img src="images/rooms-hall-finished.png">
 </div>
 
-**Upute**: Kliknite vrata za kretanje između soba.
+**Instructions**: Click the doors to move between rooms.
 
-### Dodatne informacije za voditelje kluba
+### Additional information for club leaders
 
-Ako želite ispisati ovaj projekt, molimo Vas da koristite [verziju koja je prilagođena za ispis](https://projects.raspberrypi.org/en/projects/linked-rooms/print).
+If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/linked-rooms/print).
 
 ## \--- collapse \---
 
-## title: Bilješke za voditelja kluba
+## title: Club leader notes
 
-## Uvod:
+## Introduction:
 
-U ovom projektu, djeca se upisuju na više povezanih web stranica u istom projektu s vlastitom CSS datotekom.
+In this project, children are introduced to multiple linked web pages in the same project each with their own CSS file.
 
-## Online izvori
+## Online Resources
 
-Preporučamo korištenje [trinket](https://trinket.io/) za pisanje HTML & CSS online. Ovaj projekt sadrži sljedeće trikove:
+We recommend using [trinket](https://trinket.io/) to write HTML & CSS online. This project contains the following trinket:
 
-* [Polazna točka "Povezane sobe" - jumpto.cc/web-rooms](https://trinket.io/html/f1486ddb24)
+* ['Linked Rooms' starting point -- jumpto.cc/web-rooms](https://trinket.io/html/f1486ddb24)
 
-Djeca također mogu koristiti ovu praznu trinket [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) napisati vlastiti HTML & CSS ili alternativno mogu upotrijebiti ovaj predložak trinket [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
+Children can also make use of this blank trinket [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) to write their own HTML & CSS, or alternatively they can use this template trinket [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
 
-Također je uključen i trinket koji sadrži prijedlog rješenja izazova:
+There is also a trinket containing a sample solution to the challenges:
 
-* ["Povezane sobe završene" - https://trinket.io/html/ba5d27ec68](https://trinket.io/html/eab49f4f06)
+* ['Linked Rooms Finished' -- https://trinket.io/html/ba5d27ec68](https://trinket.io/html/eab49f4f06)
 
-## Offline izvori
+## Offline Resources
 
-Ako želite, ovaj projekt može bit [završen offline](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/). Materijalima projekta možete pristupiti klikom na poveznicu 'Project Materials'. Poveznica sadrži odjeljak 'Resursi projekta' u kojem se nalaze materijali koji će djeci biti potrebni za izradu projekta offline. Pobrinite se da svako dijete ima pristup kopiji ovih materijala. U odjeljku se nalaze sljedeće datoteke:
+This project can be [completed offline](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) if preferred. You can access the project resources by clicking the 'Project Materials' link for this project. This link contains a 'Project Resources' section, which includes resources that children will need to complete this project offline. Make sure that each child has access to a copy of these resources. This section includes the following files:
 
-* povezane-sobe / index.html
-* povezane-sobe / style.css
-* povezane-sobe / script.js
-* povezane-sobe / prefixfree.js
-* povezane sobe / 4 x .png slike
+* linked-rooms/index.html
+* linked-rooms/style.css
+* linked-rooms/script.js
+* linked-rooms/prefixfree.js
+* linked-rooms/4 x .png images
 * template/template.html
 * template/style.css
 
-Dovršene verzije izazova projekta možete pronaći i u odjeljku 'Resursi za volontere' koji sadrži:
+You can also find a completed version of this project's challenges in the 'Volunteer Resources' section, which contains:
 
-* povezane-sobe-gotov / index.html
-* povezane-sobe-gotov / style.css
-* povezane-sobe-gotov / script.js
-* povezane-sobe-gotov / prefixfree.js
-* povezane sobe / 4 x .png slike
+* linked-rooms-finished/index.html
+* linked-rooms-finished/style.css
+* linked-rooms-finished/script.js
+* linked-rooms-finished/prefixfree.js
+* linked-rooms-finished/4 x .png images
 
-(Svi spomenuti materijali nalaze se u materijalima projekta i materijalima za volontere, moguće je preuzeti kao `.zip` datoteke.)
+(All of the resources above are also downloadable as project and volunteer `.zip` files.)
 
-## Ishodi učenja
+## Learning Objectives
 
-* Ovaj projekt uvodi projekte s više HTML stranica povezanih zajedno
-* Uvedene su i više CSS datoteka
+* This project introduces projects with multiple html pages linked together
+* Multiple CSS files are also introduced
 
-Ovaj projekt pokriva elemente sljedećih dijelova kurikuluma [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
-* [Dizajnirajte osnovna 2D i 3D sredstva](https://www.raspberrypi.org/curriculum/design/creator).
+* [Design basic 2D and 3D assets](https://www.raspberrypi.org/curriculum/design/creator).
 
-## Izazovi
+## Challenges
 
-* "Dodaj drugu vezu" - dodajte vezu između stranica u istom projektu;
-* "Stil i povezivanje sobi za igru" - dodajte vezu i stil stranicu s vlastitom CSS datotekom. 
-* "Dodaj još vrata!" - Koristite 
+* “Add another link” - Add a link between pages in the same project;
+* “Style and link the Games Room” - Add a link and style a page with its own CSS file. 
+* “Add more doors!” - Use 
 
 <
 
-div> linkovi koji se mogu kliknuti + "Dodaj pozadinu u sobi za igre" - Dodajte pozadinsku sliku + "Pripazite!" - Dodajte više soba pomoću naučenih vještina + "Dodavanje tipkovnog kursora" - Zabava dodatna opcija za one koji završavaju projekt
+div>s as clickable links + "Add wallpaper to the Games Room" - Add a background image + "Make it yours!" - Add more rooms using the skills learned + "Add a key cursor" - A fun optional extra for those who complete the project
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Materijali projekta
+## title: Project materials
 
-## Resursi projekta
+## Project resources
 
-* [.zip datoteka koja sadrži sve materijale projekta](resources/rooms-project-resources.zip)
-* [Online Trinket koji sadrži sve resurse projekta "Povezane sobe"](http://jumpto.cc/web-rooms)
-* [Online Trinket predložak](http://jumpto.cc/trinket-template)
-* [Online prazan Trinket](http://jumpto.cc/trinket-blank)
+* [.zip file containing all project resources](resources/rooms-project-resources.zip)
+* [Online Trinket containing all 'Linked Rooms' project resources](http://jumpto.cc/web-rooms)
+* [Online Trinket template](http://jumpto.cc/trinket-template)
+* [Online blank Trinket](http://jumpto.cc/trinket-blank)
 * [template/index.html](resources/template-index.html)
 * [template/style.css](resources/template-style.css)
-* [povezane-sobe / index.html](resources/linked-rooms-index.html)
-* [povezane-sobe / style.css](resources/linked-rooms-style.css)
-* [povezane-sobe / tvroom.html](resources/linked-rooms-tvroom.html)
-* [povezane-sobe / tvroom.css](resources/linked-rooms-tvroom.css)
-* [povezane-sobe / wallpaper.png](resources/linked-rooms-wallpaper.png)
-* [povezane sobe na / prostor-invader.png](resources/linked-rooms-space-invader.png)
-* [povezane-sobe / tiles.png](resources/linked-rooms-tiles.png)
-* [povezane-sobe / star.png](resources/linked-rooms-star.png)
-* [povezane-sobe / stripes.png](resources/linked-rooms-stripes.png)
+* [linked-rooms/index.html](resources/linked-rooms-index.html)
+* [linked-rooms/style.css](resources/linked-rooms-style.css)
+* [linked-rooms/tvroom.html](resources/linked-rooms-tvroom.html)
+* [linked-rooms/tvroom.css](resources/linked-rooms-tvroom.css)
+* [linked-rooms/wallpaper.png](resources/linked-rooms-wallpaper.png)
+* [linked-rooms/space-invader.png](resources/linked-rooms-space-invader.png)
+* [linked-rooms/tiles.png](resources/linked-rooms-tiles.png)
+* [linked-rooms/star.png](resources/linked-rooms-star.png)
+* [linked-rooms/stripes.png](resources/linked-rooms-stripes.png)
 
-## Resursi voditelja kluba
+## Club leader resources
 
-* [.zip datoteka koja sadrži sve dovršene resurse projekta](resources/rooms-volunteer-resources.zip)
-* [Dovršeni Online Trinket projekt](https://trinket.io/html/eab49f4f06)
-* [povezane-sobe-gotov / index.html](resources/linked-rooms-finished-index.html)
-* [povezane-sobe-gotov / style.css](resources/linked-rooms-finished-style.css)
-* [povezane-sobe-gotov / tvroom.html](resources/linked-rooms-finished-tvroom.html)
-* [povezane-sobe-gotov / tvroom.css](resources/linked-rooms-finished-tvroom.css)
-* [povezane-sobe-gotov / gamesroom.html](resources/linked-rooms-finished-gamesroom.html)
-* [povezane-sobe-gotov / gamesroom.css](resources/linked-rooms-finished-gamesroom.css)
-* [povezane-sobe-gotov / wallpaper.png](resources/linked-rooms-finished-wallpaper.png)
-* [povezane sobe na dovršenim / prostor-invader.png](resources/linked-rooms-finished-space-invader.png)
-* [povezane-sobe-gotov / tiles.png](resources/linked-rooms-finished-tiles.png)
-* [povezane-sobe-gotov / star.png](resources/linked-rooms-finished-star.png)
-* [povezane-sobe-gotov / stripes.png](resources/linked-rooms-finished-stripes.png)
+* [.zip file containing all completed project resources](resources/rooms-volunteer-resources.zip)
+* [Online completed Trinket project](https://trinket.io/html/eab49f4f06)
+* [linked-rooms-finished/index.html](resources/linked-rooms-finished-index.html)
+* [linked-rooms-finished/style.css](resources/linked-rooms-finished-style.css)
+* [linked-rooms-finished/tvroom.html](resources/linked-rooms-finished-tvroom.html)
+* [linked-rooms-finished/tvroom.css](resources/linked-rooms-finished-tvroom.css)
+* [linked-rooms-finished/gamesroom.html](resources/linked-rooms-finished-gamesroom.html)
+* [linked-rooms-finished/gamesroom.css](resources/linked-rooms-finished-gamesroom.css)
+* [linked-rooms-finished/wallpaper.png](resources/linked-rooms-finished-wallpaper.png)
+* [linked-rooms-finished/space-invader.png](resources/linked-rooms-finished-space-invader.png)
+* [linked-rooms-finished/tiles.png](resources/linked-rooms-finished-tiles.png)
+* [linked-rooms-finished/star.png](resources/linked-rooms-finished-star.png)
+* [linked-rooms-finished/stripes.png](resources/linked-rooms-finished-stripes.png)
 
 \--- /collapse \---
