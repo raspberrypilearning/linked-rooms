@@ -1,27 +1,27 @@
 \--- challenge \---
 
-## Desafio: adiciona mais portas!
+## Challenge: Add more doors!
 
-Converte os outros links do teu projeto em portas da mesma maneira.
+Turn the other links in your project into doors in the same way.
 
-Para cada porta vais necessitar de:
+For each door you'll need to:
 
-+ Edita o link da porta para usar um `<div>` como uma identificação do género `hall2games` de forma que consigas estilizar-la.
++ Edit the door link to use a `<div>` with an id such as `hall2games` so that you can style it.
     
-    Por exemplo:
+    For example:
     
-    `<a href="gamesroom.html"><div id="hall2games">Quarto de Jogos</div></a>`
+    `<a href="gamesroom.html"><div id="hall2games">Games Room</div></a>`
 
-+ Acrescenta CSS para a identificação da porta ao ficheiro `.css` para este quarto. Usa *copiar* e *colar* para poupar tempo. Podes fazer com que as portas sejam todas diferentes, se quiseres.
++ Add CSS for the door id to the `.css` file for its room. Use *copy* and *paste* to save time. You can make each door look different if you like.
 
-+ Posiciona a porta utilizando `Fundo:` e `esquerda:` ou `direita:`.
++ Position the door using `bottom:` and `left:` or `right:`.
 
-O Átrio poderá ter o seguinte aspeto:
+The Hall might look like this:
 
-![captura de ecrã](images/rooms-hall-doors.png)
+![screenshot](images/rooms-hall-doors.png)
 
-A Sala da TV deverá ter o seguinte aspeto:
+The TV Room should look something like this:
 
-![captura de ecrã](images/rooms-tvroom-door.png)
+![screenshot](images/rooms-tvroom-door.png)
 
 \--- /challenge \---
