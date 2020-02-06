@@ -1,16 +1,16 @@
 \--- challenge \---
 
-## Izazov: dodajte pozadinu u Sobu za igre
+## Challenge: Add wallpaper to the Games Room
 
-Možete li ukrasiti sobu za igru ​​s pozadinskom slikom?
+Can you decorate the games room with a background image?
 
-Možete koristiti pozadinsku sliku `space-invader.png` koja je uključena u vaš projekt.
+You can use the `space-invader.png` background image which is included in your project.
 
-Trebaš učiniti sljedeće:
+You'll need to:
 
-+ Dodajte `pozadinu:` u `. Room` CSS za Sobu za igre. 
++ Add a `background-image:` to the `.room` CSS for the Games Room. 
 
-Uređena soba bi trebala izgledati ovako:
+The decorated room should look like this:
 
 ![screenshot](images/rooms-games-finished.png)
 
