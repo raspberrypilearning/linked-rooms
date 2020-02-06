@@ -1,16 +1,16 @@
 \--- challenge \---
 
-## Izazov: Uradi to na svoj način!
+## Challenge: Make it yours!
 
-Dodaj još prostorija u svoj projekat. Ne zaboravi da možeš da koristiš **kopiraj** i **prenesi** da uštediš vrijeme, a zatim samo promijeni elemente koji treba da budu različiti.
+Add more rooms to your project. Remember that you can use **copy** and **paste** to save time and then just change the things that need to be different.
 
-Za svaku prostoriju biće potrebno da:
+For each room you will need to:
 
-+ Kreiraš `.html` datoteku
-+ Dodaš linkove u obliku vrata za ulazak u novu 'prostoriju' i izlazak iz nje
-+ Kreiraš `.css` datoteku sa stilovima za svoju novu prostoriju i njena vrata
++ Create a `.html` file
++ Add door links to and from the new 'room'
++ Create a `.css` file with the styles for your new room and its doors
 
-Možeš da promijeniš `background-color:` (boju pozadine) za svaku prostoriju. Klikni na ikonu za slike da pregledaš pozadinske slike koje možeš da odabereš:
+You can change the `background-color:` for each room. Click on the images icon to see the background images you can choose from:
 
 ![screenshot](images/rooms-images.png)
 
