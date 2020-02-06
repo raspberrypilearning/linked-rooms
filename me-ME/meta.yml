@@ -1,5 +1,5 @@
 ---
-title: Povezane prostorije
+title: Linked Rooms
 hero_image: images/banner.png
 theme: red
 duration: 2
@@ -7,7 +7,7 @@ listed: false
 ingredient: false
 copyedit: false
 curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
-description: Izradi veb-projekat sa nekoliko međusobno povezanih 'prostorija'.
+description: Create a web project with several 'rooms' linked together.
 original_url: https://codeclubprojects.org/en-GB/webdev/linked-rooms
 interests: ''
 technologies: html-css-javascript
@@ -18,22 +18,22 @@ version: 3
 last_tested: 2017-01-01
 steps:
   - 
-    title: Uvod
+    title: Introduction
   - 
-    title: Povezivanje sa drugom veb-stranicom u istom projektu
+    title: Linking to another web page in the same project
   - 
-    title: 'Izazov: Dodaj još jedan link'
+    title: 'Challenge: Add another link'
   - 
-    title: Dodaj još jednu salu
+    title: Add another room
   - 
-    title: 'Izazov: Stilizuj i poveži Salu za igre'
+    title: 'Challenge: Style and link the Games Room'
   - 
-    title: Napravi da linkovi izgledaju kao vrata
+    title: Make the links look like doors
   - 
-    title: 'Izazov: Dodaj više vrata!'
+    title: 'Challenge: Add more doors!'
   - 
-    title: Dodavanje pozadinske slike
+    title: Adding a background image
   - 
-    title: 'Izazov: Dodaj tapet Sali za igre'
+    title: 'Challenge: Add wallpaper to the Games Room'
   - 
-    title: 'Izazov: Uradi to na svoj način!'
+    title: 'Challenge: Make it yours!'
