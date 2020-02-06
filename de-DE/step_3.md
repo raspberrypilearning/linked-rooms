@@ -1,13 +1,13 @@
 \--- challenge \---
 
-## Herausforderung: Füge einen weiteren Link hinzu
+## Challenge: Add another link
 
-Füge einen `<a>` Link zur `tvroom.html` Webseite hinzu, um zur Flur-Webseite mit dem Namen `index.html` zurückzukehren. Der Linktext sollte "Flur" sein.
+Add an `<a>` link to the `tvroom.html` webpage to get you back to the Hall webpage which is called `index.html`. The link text should be 'Hall'.
 
-Die Fernsehzimmer-Webseite sollte dann einen anklickbaren Link wie diesen haben:
+The TV Room webpage should then have a clickable link like this:
 
 ![screenshot](images/rooms-hall-link.png)
 
-Vergiss nicht, deinen Code zu testen. Du solltest in der Lage sein, vom Flur ins Fernsehzimmer und wieder zurück zu gelangen, indem du auf die Links klickst.
+Make sure you test your code. You should be able to move from the Hall to the TV Room and back again by clicking on links.
 
 \--- /challenge \---
