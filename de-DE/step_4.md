@@ -1,37 +1,37 @@
-## Füge noch ein Zimmer hinzu
+## Add another room
 
-Fügen wir nun einen weiteren Raum hinzu, ein **Spielzimmer**.
+Now let's add another room, a **Games Room**.
 
-+ Klicke auf die Seite hinzufügen Schaltfläche **+**:
++ Click on the add page **+** button:
     
-    ![Screenshot](images/rooms-add-page.png)
+    ![screenshot](images/rooms-add-page.png)
     
-    Gib `gamesroom.html` als Seitennamen ein:
+    Type `gamesroom.html` as the page name:
     
-    ![Screenshot](images/rooms-games-html.png)
+    ![screenshot](images/rooms-games-html.png)
 
-+ Der HTML-Code für das **Spielzimmer** ist sehr ähnlich zu `tvroom.html` also **kopiere** diesen Code und **füge** ihn in `gamesroom.html` **ein**.
++ The HTML for the **Games Room** is very similar to `tvroom.html` so **copy** that and **paste** it into `gamesroom.html`.
     
-    Bearbeite die hervorgehobenen Elemente so, dass dort "Spiel statt Fernseh" steht:
+    Edit the highlighted items so they say Games not TV:
     
-    ![Screenshot](images/rooms-games-html2.png)
+    ![screenshot](images/rooms-games-html2.png)
 
-+ Deine `gamesroom.html` nutzt jetzt `gamesroom.css` die es aber noch nicht gibt.
++ Your `gamesroom.html` now uses `gamesroom.css` which doesn't exist yet.
     
-    Erstelle `gamesroom.css` indem Du auf die Schaltfläche Seite hinzufügen **+** klickst.
+    Create `gamesroom.css` by clicking on the add page **+** button.
 
-+ Das CSS für das **Spielzimmer** ist sehr ähnlich zu `tvroom.css` also **kopiere** das und **füge** es in `gamesroom.css` **ein**.
++ The CSS for the **Games Room** is very similar to `tvroom.css` so **copy** that and **paste** it into `gamesroom.css`.
     
-    ![Screenshot](images/rooms-add-games-css.png)
+    ![screenshot](images/rooms-add-games-css.png)
 
-+ Füge einen Link vom Flur zum Spielzimmer hinzu:
++ Add a link from the Hall to the Games room:
     
-    ![Screenshot](images/rooms-hall-games.png)
+    ![screenshot](images/rooms-hall-games.png)
 
-+ Teste deinProjekt, indem du auf den Spielzimmer Link klickst
++ Test your project by clicking on the Games Room link
     
-    Das **Spielzimmer** sollte so aussehen:
+    The **Games Room** should look like this:
     
-    ![Screenshot](images/rooms-games-before.png)
+    ![screenshot](images/rooms-games-before.png)
     
-    Nicht sehr aufregend, aber das kannst du in der nächsten Herausforderung beheben.
+    Not very exciting, but you can fix that in the next challenge.
