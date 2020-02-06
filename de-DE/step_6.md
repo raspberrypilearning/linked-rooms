@@ -1,29 +1,29 @@
-## Lasse die Links wie Türen aussehen
+## Make the links look like doors
 
-Links müssen nicht nur Text sein. Machen wir eine anklickbare Tür, indem wir ein `<div>` verwenden.
+Links don't just have to be text. Let's make a clickable door using a `<div>`.
 
-+ Öffne `index.html` und füge ein `<div>` um den **Fernsehraum** Linktext hinzu. Es muss sich innerhalb des `<a>` Tags sein, damit es angeklickt werden kann.
++ Open `index.html` and add a `<div>` around the **TV Room** link text. It needs to be inside the `<a>` to make it clickable.
     
-    Füge `id="hall2tv"` ("hall2tv" ist eine anglische Abkürzung und meint soviel wie "FlurZuFernseh"), um es als die Tür von der Halle zum Fernsehzimmer zu kennzeichnen, damit du die Tür gestalten kannst.
+    Add `id="hall2tv"` to label it as the door from the Hall to the TV Room so that you can style the door.
     
-    ![Screenshot](images/rooms-tvroom-div.png)
+    ![screenshot](images/rooms-tvroom-div.png)
 
-+ Klicke auf die Registerkarte `style.css`, gehe nach unten und füge das folgende CSS hinzu, um die Größe und Farbe der Tür zu ändern:
++ Click on the `style.css` tab, go to the bottom and add the following CSS to change the size and colour of the door:
     
     ![screenshot](images/rooms-door-css1.png)
 
-+ Teste deine Webseite, indem du irgendwo auf die Tür klickst, nicht nur auf den Text. (Vielleicht musst du den Linktext ein wenig ändern, damit er auf die Tür passt.).
++ Test your webpage by clicking anywhere on the door, not just on the text.
 
-+ Lass es jetzt noch ein bisschen mehr wie eine Tür aussehen, indem Du einen Rand um drei Seiten hinzufügst:
++ Now let's make it look a bit more like a door by adding a border around three sides:
     
     ![screenshot](images/rooms-door-css2.png)
 
-+ Und lass uns CSS hinzufügen, damit der Text an der Tür besser aussieht:
++ And let's add some CSS to make the text on the door look better:
     
     ![screenshot](images/rooms-door-css3.png)
 
-+ Du hast wahrscheinlich bemerkt, dass die Tür in der Luft schwebt. Lass uns das beheben, indem du die Tür im Raum positionierst.
++ You've probably noticed that the door is floating in the air. Let's fix that by positioning the door inside the room.
     
-    ![Screenshot](images/rooms-door-position.png)
+    ![screenshot](images/rooms-door-position.png)
 
-+ Teste deine Webseite, indem du auf die Tür klickst, um zum **Fernsehzimmer** zu gelangen.
++ Test your webpage by clicking on the door to get to the **TV Room**.
