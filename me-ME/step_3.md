@@ -1,13 +1,13 @@
 \--- challenge \---
 
-## Izazov: Dodaj još jedan link
+## Challenge: Add another link
 
-Dodaj link `<a>` veb-stranici `tvroom.html` da bi mogao/mogla da se vratiš na veb-stranicu hodnika pod nazivom `index.html`. Tekst linka treba da bude 'Hodnik'.
+Add an `<a>` link to the `tvroom.html` webpage to get you back to the Hall webpage which is called `index.html`. The link text should be 'Hall'.
 
-Na veb-stranici TV sale trebalo bi da se pojavi link na koji se može kliknuti, kao što je ovaj:
+The TV Room webpage should then have a clickable link like this:
 
 ![screenshot](images/rooms-hall-link.png)
 
-Ne zaboravi da isprobaš svoj kôd. Trebalo bi da možeš da pređeš iz hodnika u TV salu i nazad kada klikneš na linkove.
+Make sure you test your code. You should be able to move from the Hall to the TV Room and back again by clicking on links.
 
 \--- /challenge \---
