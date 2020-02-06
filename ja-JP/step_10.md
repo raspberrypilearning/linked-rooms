@@ -14,4 +14,4 @@ You can change the `background-color:` for each room. Click on the images icon t
 
 ![screenshot](images/rooms-images.png)
 
-\--- challenge \---
+\--- /challenge \---
