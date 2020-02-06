@@ -1,7 +1,7 @@
 ---
 title: Salas Ligadas
 hero_image: images/banner.png
-theme: red
+theme: vermelho
 duration: 2
 listed: false
 ingredient: false
@@ -11,7 +11,7 @@ description: Criar um projeto web com diversas "salas" ligadas entre si.
 original_url: https://codeclubprojects.org/en-GB/webdev/linked-rooms
 interests: ''
 technologies: html-css-javascript
-site_areas: projects
+site_areas: projetos
 hardware: ''
 software: html-css-javascript
 version: 3
@@ -20,9 +20,9 @@ steps:
   - 
     title: Introdução
   - 
-    title: Linking to another web page in the same project
+    title: Ligar a outra página web no mesmo projeto
   - 
-    title: 'Challenge: Add another link'
+    title: 'Desafio: Acrescenta outro link'
   - 
     title: Acrescentar outra sala
   - 
