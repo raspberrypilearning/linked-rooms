@@ -1,13 +1,13 @@
 \--- challenge \---
 
-## Izazov: dodajte drugu vezu
+## Challenge: Add another link
 
-Dodajte `<a>` vezu na `tvroom.html` web stranicu da biste se vratili na stranicu web-lokacije Hall koja se zove `index.html`. Tekst veze trebao bi biti "Hall".
+Add an `<a>` link to the `tvroom.html` webpage to get you back to the Hall webpage which is called `index.html`. The link text should be 'Hall'.
 
-Stranica TV sobi trebala bi imati vezu koja se može kliknuti ovako:
+The TV Room webpage should then have a clickable link like this:
 
 ![screenshot](images/rooms-hall-link.png)
 
-Provjerite jeste li testirali kôd. Trebali biste se moći preseliti iz dvorane u TV salu i natrag klikom na veze.
+Make sure you test your code. You should be able to move from the Hall to the TV Room and back again by clicking on links.
 
 \--- /challenge \---
