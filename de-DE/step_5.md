@@ -1,13 +1,13 @@
 \--- challenge \---
 
-## Herausforderung: Gestalte und verknüpfe das Spielzimmer
+## Challenge: Style and link the Games Room
 
-Bearbeite den HTML- und CSS-Code für das **Spielzimmer** so, dass die Webseite wie folgt aussieht:
+Edit the HTML and CSS for the **Games Room** so that the webpage looks like this:
 
 ![screenshot](images/rooms-games-challenge.png)
 
-Tipp: In `gamesroom.css` wirst du die Hintergrundfarbe (engl.: background-color), die Schriftfarbe und die Rahmenfarbe ändern müssen. Die hellgrüne Farbe heißt `Chartreuse`.
+Hint: You'll need to change the background colour, font colour and border colour in `gamesroom.css`. The bright green colour is called `chartreuse`.
 
-Hinweis: Du wirst einen `<a>` Link in `gamesroom.html` hinzufügen, der auf `index.html` verweist.
+Hint: You'll need to add an `<a>` link in `gamesroom.html` which links to `index.html`.
 
 \--- /challenge \---
