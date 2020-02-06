@@ -4,7 +4,7 @@
 
 Edit the HTML and CSS for the **Games Room** so that the webpage looks like this:
 
-![captura de pantalla](images/rooms-games-challenge.png)
+![screenshot](images/rooms-games-challenge.png)
 
 Hint: You'll need to change the background colour, font colour and border colour in `gamesroom.css`. The bright green colour is called `chartreuse`.
 
