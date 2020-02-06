@@ -8,7 +8,7 @@ For each door you'll need to:
 
 + Edit the door link to use a `<div>` with an id such as `hall2games` so that you can style it.
     
-    उदाहरण के लिए:
+    For example:
     
     `<a href="gamesroom.html"><div id="hall2games">Games Room</div></a>`
 
@@ -18,10 +18,10 @@ For each door you'll need to:
 
 The Hall might look like this:
 
-![स्क्रीनशॉट](images/rooms-hall-doors.png)
+![screenshot](images/rooms-hall-doors.png)
 
 The TV Room should look something like this:
 
-![स्क्रीनशॉट](images/rooms-tvroom-door.png)
+![screenshot](images/rooms-tvroom-door.png)
 
 \--- /challenge \---
