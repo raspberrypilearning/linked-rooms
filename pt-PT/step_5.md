@@ -2,12 +2,12 @@
 
 ## Desafio: Estiliza e liga a Sala de Jogos
 
-Edit the HTML and CSS for the **Games Room** so that the webpage looks like this:
+Edita do HTML e o CS da **Sala de Jogos** de forma a que a página tenha este aspeto:
 
-![screenshot](images/rooms-games-challenge.png)
+![captura de ecrã](images/rooms-games-challenge.png)
 
-Hint: You'll need to change the background colour, font colour and border colour in `gamesroom.css`. The bright green colour is called `chartreuse`.
+Dica: Vais ter que alterar as cores de fundo, a cor do tipo de letra e a cor do rebordo no `gamesroom.css`. A cor verde brilhante chama-se `chartreuse`.
 
-Hint: You'll need to add an `<a>` link in `gamesroom.html` which links to `index.html`.
+Dica: Vais necessitar acrescentar um `<a>` link no `gamesroom.html` que ligue ao `index.html`.
 
 \--- /challenge \---
