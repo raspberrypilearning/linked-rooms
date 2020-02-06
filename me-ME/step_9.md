@@ -1,16 +1,16 @@
 \--- challenge \---
 
-## Izazov: Dodaj tapet Sali za igre
+## Challenge: Add wallpaper to the Games Room
 
-Možeš li da ukrasiš salu za igre pozadinskom slikom?
+Can you decorate the games room with a background image?
 
-Možeš da koristiš pozadinsku sliku `space-invader.png` koju tvoj projekat već sadrži.
+You can use the `space-invader.png` background image which is included in your project.
 
-Biće potrebno da:
+You'll need to:
 
-+ Dodaš `background-image:` u `.room` CSS za Salu za igre. 
++ Add a `background-image:` to the `.room` CSS for the Games Room. 
 
-Ukrašena sala treba da izgleda ovako:
+The decorated room should look like this:
 
 ![screenshot](images/rooms-games-finished.png)
 
