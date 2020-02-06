@@ -1,17 +1,17 @@
 \--- challenge \---
 
-## Herausforderung: Füge eine Tapete zum Spielzimmer hinzu
+## Challenge: Add wallpaper to the Games Room
 
-Kannst du das Spielzimmer mit einem Hintergrundbild dekorieren?
+Can you decorate the games room with a background image?
 
-Du kannst das Hintergrundbild `space-invader.png` nutzen, das in deinem Projekt enthalten ist.
+You can use the `space-invader.png` background image which is included in your project.
 
-Dazu musst du:
+You'll need to:
 
-+ Ein Hintergrundbild (`background-image:`) zum `.room` CSS für das Spielzimmer hinzufügen. 
++ Add a `background-image:` to the `.room` CSS for the Games Room. 
 
-Das dekorierte Zimmer sollte so aussehen:
+The decorated room should look like this:
 
-![Screenshot](images/rooms-games-finished.png)
+![screenshot](images/rooms-games-finished.png)
 
 \--- /challenge \---
