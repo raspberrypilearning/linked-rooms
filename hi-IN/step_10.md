@@ -12,6 +12,6 @@ For each room you will need to:
 
 You can change the `background-color:` for each room. Click on the images icon to see the background images you can choose from:
 
-![स्क्रीनशॉट](images/rooms-images.png)
+![screenshot](images/rooms-images.png)
 
 \--- /challenge \---
