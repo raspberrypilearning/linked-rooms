@@ -1,36 +1,31 @@
-## الربط بصفحة ويب أخرى في المشروع نفسه
+## ربط بصفحة ويب أخرى في المشروع نفسه
 
-يمكن أن تتكون مشاريع الويب من ملفات HTML كثيرة مرتبطة بعضها ببعض. 
+مشاريع الإنترنت يمكن أن تتكون من ملفات HTML مرتبطة ببعضها.
 
++ افتح مشروع trinket هذا: <a href="https://trinket.io/html/4d4c7d9a27" target="_blank">trinket.io/html/4d4c7d9a27</a>.
+    
+    الآن يجب أن يبدو الملف الخاص بك مثل هذا:
+    
+    ![لقطة الشاشة](images/rooms-starter.png)
 
++ مشروع Trinket سيعمل تلقائياً وستجد نفسك في الصالة:
+    
+    ![لقطة الشاشة](images/rooms-hall-start.png)
 
-+ افتح مشروع trinket هذا: <a href="http://jumpto.cc/web-rooms" target="_blank">jumpto.cc/web-rooms</a>. 
++ انظر إلى قائمة الملفات لمشروع Trinket هذا. هل تستطيع رؤية `tvroom.html`؟ اضغط عليه.
+    
+    ![لقطة الشاشة](images/rooms-tvroom-html.png)
+    
+    هذا ملف html آخر في نفس المشروع.
 
-	سيكون المشروع بالشكل التالي:
++ لتصل إلى `tvroom.html` يجب أن تضيف رابط في ملف `index.html`.
+    
+    أضف الكود المظلل داخل `<div>` تحت مسمى `room`:
+    
+    ![لقطة الشاشة](images/rooms-link-tvroom.png)
 
-	![screenshot](images/rooms-starter.png)
-
-+ سيتم تشغيل trinket تلقائيًا وستجد نفسك في صفحة الويب Hall:
-
-	![screenshot](images/rooms-hall-start.png)
-
-+ انظر إلى قائمة علامات تبويب ملفات مشروع trinket هذا. هل ترى علامة التبويب `tvroom.html`؟ انقر عليها.
-
-	![screenshot](images/rooms-tvroom-html.png)
-
-	هذا ملف html آخر في المشروع نفسه. 
-
-
-+ للربط بملف `tvroom.html`، ستحتاج إلى إضافة رابط في ملف `index.html`. 
-
-	أضف التعليمة البرمجية المظللة داخل الوسم `<div>` الذي يحتوي على الفئة `room`: 
-
-	![screenshot](images/rooms-link-tvroom.png)
-
-+ اختبر مشروع trinket بالنقر فوق رابط __TV Room__ لترى صفحة الويب `tvroom.html`.
-
-	لاحظ أن لملف `tvroom.html` أيضًا ملف تحديد النمط`tvroom.css` الخاص به، والذي يحدِّد تخطيط هذه الصفحة. 
-
-	![screenshot](images/rooms-tvroom-unstyled.png)
-
-	
++ اختبر مشروع Trinket بالضغط على رابط **غرفة التلفاز** لترى صفحة `tvroom.html`.
+    
+    لاحظ أن `tvroom.html` لها ملف أنماط `tvroom.css` خاص بها حيث يمكن تحديد تنسيقات الصفحة عن طريقه.
+    
+    ![لقطة الشاشة](images/rooms-tvroom-unstyled.png)
