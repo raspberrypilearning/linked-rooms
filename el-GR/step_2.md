@@ -1,31 +1,31 @@
-## Δημιουργία συνδέσμου με μια άλλη ιστοσελίδα στο ίδιο έργο
+## Linking to another web page in the same project
 
-Τα web έργα μπορούν να αποτελούνται από πολλά HTML αρχεία συνδεδεμένα μεταξύ τους.
+Web projects can be made up of lots of HTML files linked together.
 
-+ Άνοιξε αυτό το trinket: <a href="https://trinket.io/html/f1486ddb24" target="_blank">jumpto.cc/web-rooms</a>.
++ Open this trinket: <a href="https://trinket.io/html/f1486ddb24" target="_blank">jumpto.cc/web-rooms</a>.
     
-    Το έργο θα πρέπει να μοιάζει με το παρακάτω:
+    The project should look like this:
     
-    ![στιγμιότυπο οθόνης](images/rooms-starter.png)
+    ![screenshot](images/rooms-starter.png)
 
-+ Το trinket θα τρέξει αυτόματα στην αρχή και θα βρεθείς στο Χωλ:
++ The trinket should autorun and you will find yourself in the Hall:
     
-    ![στιγμιότυπο οθόνης](images/rooms-hall-start.png)
+    ![screenshot](images/rooms-hall-start.png)
 
-+ Κοίτα τη λίστα με τις καρτέλες αρχείων που υπάρχουν σε αυτό το trinket. Μπορείς να δεις το `tvroom.html`; Πάτησέ το.
++ Look at the list of file tabs for this trinket. Can you see `tvroom.html`? Click on it.
     
-    ![στιγμιότυπο οθόνης](images/rooms-tvroom-html.png)
+    ![screenshot](images/rooms-tvroom-html.png)
     
-    Αυτό είναι άλλο ένα html αρχείο στο ίδιο έργο.
+    This is another html file in the same project.
 
-+ Για να πας στο `tvroom.html` θα πρέπει να προσθέσεις έναν σύνδεσμο στο `index.html`.
++ To get to `tvroom.html` you need to add a link in `index.html`.
     
-    Πρόσθεσε τον κώδικα που έχει τονιστεί μέσα στο `<div>` με την κλάση `room`:
+    Add the highlighted code inside the `<div>` with the class `room`:
     
-    ![στιγμιότυπο οθόνης](images/rooms-link-tvroom.png)
+    ![screenshot](images/rooms-link-tvroom.png)
 
-+ Έλεγξε το trinket με το να πατήσεις πάνω στον σύνδεσμο **Δωμάτιο Τηλεόρασης** για να δεις τη ιστοσελίδα `tvroom.html`.
++ Test your trinket by clicking on the **TV Room** link to see the `tvroom.html` webpage.
     
-    Παρατήρησε ότι το `tvroom.html` επίσης έχει το δικό του αρχείο μορφοποίησης `tvroom.css` που καθορίζει τη μορφή αυτής της σελίδας.
+    Note that `tvroom.html` also has its own `tvroom.css` style file which defines the layout for this page.
     
-    ![στιγμιότυπο οθόνης](images/rooms-tvroom-unstyled.png)
+    ![screenshot](images/rooms-tvroom-unstyled.png)
