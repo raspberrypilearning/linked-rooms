@@ -18,10 +18,10 @@ For each door you'll need to:
 
 The Hall might look like this:
 
-![captura de pantalla](images/rooms-hall-doors.png)
+![screenshot](images/rooms-hall-doors.png)
 
 The TV Room should look something like this:
 
-![captura de pantalla](images/rooms-tvroom-door.png)
+![screenshot](images/rooms-tvroom-door.png)
 
 \--- /challenge \---
