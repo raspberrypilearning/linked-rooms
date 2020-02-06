@@ -1,9 +1,9 @@
-## Dodavanje pozadinske slike
+## Adding a background image
 
-Koristimo dvoranu pozadinskom slikom.
+Let's decorate the hall with a background image.
 
-+ Uredite `style.css` da biste dodali pozadinsku sliku u dvoranu:
++ Edit the `style.css` to add a background image to the Hall:
     
     ![screenshot](images/rooms-hall-decorated.png)
     
-    Slika će se ponoviti kako bi se ispunila cijela soba.
+    The image will be repeated to fill the whole room.
