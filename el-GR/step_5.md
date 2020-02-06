@@ -1,13 +1,13 @@
 \--- challenge \---
 
-## Πρόκληση: Διακόσμησε και σύνδεσε το Δωμάτιο Παιχνιδιών
+## Challenge: Style and link the Games Room
 
-Άλλαξε την HTML και την CSS για το **Δωμάτιο Παιχνιδιών** έτσι ώστε να δείχνει η ιστοσελίδα όπως παρακάτω:
+Edit the HTML and CSS for the **Games Room** so that the webpage looks like this:
 
-![στιγμιότυπο οθόνης](images/rooms-games-challenge.png)
+![screenshot](images/rooms-games-challenge.png)
 
-Συμβουλή: Θα χρειαστεί να αλλάξεις το χρώμα του φόντου, το χρώμα των γραμμάτων και το χρώμα του πλαισίου στο `gamesroom.css`. Το φωτεινό πράσινο χρώμα ονομάζεται `chartreuse`.
+Hint: You'll need to change the background colour, font colour and border colour in `gamesroom.css`. The bright green colour is called `chartreuse`.
 
-Συμβουλή: Θα χρειαστεί να προσθέσεις έναν σύνδεσμο `<a>` στο `gamesroom.html` ο οποίος θα οδηγεί στο `index.html`.
+Hint: You'll need to add an `<a>` link in `gamesroom.html` which links to `index.html`.
 
 \--- /challenge \---
