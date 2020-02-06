@@ -1,4 +1,4 @@
-## Introducción
+## Introduction
 
 In this project, you'll create a set of linked rooms where each room is a different web page which you can decorate with HTML.
 
@@ -10,15 +10,15 @@ In this project, you'll create a set of linked rooms where each room is a differ
 
 **Instructions**: Click the doors to move between rooms.
 
-### Información adicional para los líderes del club
+### Additional information for club leaders
 
-Si necesita imprimir este proyecto, use la [versión para imprimir](https://projects.raspberrypi.org/en/projects/linked-rooms/print).
+If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/linked-rooms/print).
 
 ## \--- collapse \---
 
-## title: Notas para el líder del club
+## title: Club leader notes
 
-## Introducción:
+## Introduction:
 
 In this project, children are introduced to multiple linked web pages in the same project each with their own CSS file.
 
@@ -56,16 +56,16 @@ You can also find a completed version of this project's challenges in the 'Volun
 
 (All of the resources above are also downloadable as project and volunteer `.zip` files.)
 
-## Objetivos del Aprendizaje
+## Learning Objectives
 
 * This project introduces projects with multiple html pages linked together
 * Multiple CSS files are also introduced
 
-Este proyecto incluye elementos de los siguientes aspectos del [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
 * [Design basic 2D and 3D assets](https://www.raspberrypi.org/curriculum/design/creator).
 
-## Desafíos
+## Challenges
 
 * “Add another link” - Add a link between pages in the same project;
 * “Style and link the Games Room” - Add a link and style a page with its own CSS file. 
@@ -79,7 +79,7 @@ div>s as clickable links + "Add wallpaper to the Games Room" - Add a background 
 
 ## \--- collapse \---
 
-## title: Materiales del proyecto
+## title: Project materials
 
 ## Project resources
 
@@ -99,7 +99,7 @@ div>s as clickable links + "Add wallpaper to the Games Room" - Add a background 
 * [linked-rooms/star.png](resources/linked-rooms-star.png)
 * [linked-rooms/stripes.png](resources/linked-rooms-stripes.png)
 
-## Recursos del líder del club
+## Club leader resources
 
 * [.zip file containing all completed project resources](resources/rooms-volunteer-resources.zip)
 * [Online completed Trinket project](https://trinket.io/html/eab49f4f06)
