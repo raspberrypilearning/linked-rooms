@@ -1,37 +1,37 @@
-## Dodaj još jednu sobu
+## Add another room
 
-Sada dodajmo još jednu sobu, **Igralište**.
+Now let's add another room, a **Games Room**.
 
-+ Kliknite gumb za dodavanje stranice **+**:
++ Click on the add page **+** button:
     
     ![screenshot](images/rooms-add-page.png)
     
-    Upišite `gamesroom.html` kao naziv stranice:
+    Type `gamesroom.html` as the page name:
     
     ![screenshot](images/rooms-games-html.png)
 
-+ HTML za **Games Room** vrlo je sličan `tvroom.html` pa **kopira** da i **zalijepi** u `gamesroom.html`.
++ The HTML for the **Games Room** is very similar to `tvroom.html` so **copy** that and **paste** it into `gamesroom.html`.
     
-    Uredite istaknute stavke tako da kažu Igre ne TV:
+    Edit the highlighted items so they say Games not TV:
     
     ![screenshot](images/rooms-games-html2.png)
 
-+ Vaš `gamesroom.html` sada koristi `gamesroom.css` koji još ne postoji.
++ Your `gamesroom.html` now uses `gamesroom.css` which doesn't exist yet.
     
-    Stvorite `gamesroom.css` klikom na gumb Dodaj stranicu **+**.
+    Create `gamesroom.css` by clicking on the add page **+** button.
 
-+ CSS za **Games Room** je vrlo sličan `tvroom.css` pa **kopira** da i **zalijepiti** u `gamesroom.css`.
++ The CSS for the **Games Room** is very similar to `tvroom.css` so **copy** that and **paste** it into `gamesroom.css`.
     
     ![screenshot](images/rooms-add-games-css.png)
 
-+ Dodajte vezu s Dvorane u sobi za igre:
++ Add a link from the Hall to the Games room:
     
     ![screenshot](images/rooms-hall-games.png)
 
-+ Isprobajte svoj projekt klikom na vezu Games Room
++ Test your project by clicking on the Games Room link
     
-    **Igraonica** treba izgledati ovako:
+    The **Games Room** should look like this:
     
     ![screenshot](images/rooms-games-before.png)
     
-    Nije baš uzbudljivo, ali to možete riješiti u sljedećem izazovu.
+    Not very exciting, but you can fix that in the next challenge.
