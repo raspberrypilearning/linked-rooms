@@ -8,9 +8,9 @@ Os projetos web podem ser constituídos por muitos ficheiros HTML ligados entre 
     
     ![captura de ecrã](images/rooms-starter.png)
 
-+ O trinket deve autoexecutar e encontrar-te-ás no Átrio:
++ O trinket deverá executar-se automaticamente e encontrar-te-ás de novo no Átrio:
     
-    ![screenshot](images/rooms-hall-start.png)
+    ![captura de ecrã](images/rooms-hall-start.png)
 
 + Olha para a lista separadores de ficheiros para este trinket. Consegues ver o `tvroom.html`? Clica-lhe.
     
