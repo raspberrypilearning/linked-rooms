@@ -1,6 +1,6 @@
 \--- challenge \---
 
-## Challenge: Style and link the Games Room
+## Desafio: Estiliza e liga a Sala de Jogos
 
 Edit the HTML and CSS for the **Games Room** so that the webpage looks like this:
 
