@@ -2,7 +2,7 @@
 
 웹 프로젝트는 서로 연결된 많은 HTML 파일로 구성됩니다.
 
-+ Open this trinket: <a href="https://trinket.io/html/f1486ddb24" target="_blank">jumpto.cc/web-rooms</a>.
++ 다음 Trinket 파일을 열어주세요. <a href="https://trinket.io/html/f1486ddb24" target="_blank">jumpto.cc/web-rooms</a>.
     
     Trinket을 열면 아래와 같은 프로젝트가 보일 것입니다.
     
