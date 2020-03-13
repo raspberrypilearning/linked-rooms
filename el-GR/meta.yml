@@ -17,7 +17,7 @@ software: html-css-javascript
 version: 3
 last_tested: 2017-01-01
 steps:
-  - title: Εισαγωγή
+  -title: Εισαγωγή
   -title: Δημιουργία συνδέσμου με μια άλλη ιστοσελίδα στο ίδιο έργο
   -title: 'Πρόκληση: Πρόσθεσε άλλον ένα σύνδεσμο'
   -title: Πρόσθεσε άλλο ένα δωμάτιο
