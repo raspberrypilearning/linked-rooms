@@ -1,13 +1,13 @@
 \--- challenge \---
 
-## Challenge: Add another link
+## Πρόκληση: Πρόσθεσε άλλον ένα σύνδεσμο
 
-Add an `<a>` link to the `tvroom.html` webpage to get you back to the Hall webpage which is called `index.html`. The link text should be 'Hall'.
+Πρόσθεσε έναν `<a>` σύνδεσμο στην ιστοσελίδα `tvroom.html` για να μπορείς να πας πίσω στην ιστοσελίδα Χωλ που ονομάζεται `index.html`. Το όνομα του συνδέσμου θα πρέπει να είναι 'Χωλ'.
 
-The TV Room webpage should then have a clickable link like this:
+Η ιστοσελίδα το Δωματίου Τηλεόρασης θα πρέπει να έχει έναν ενεργό σύνδεσμο σαν αυτόν:
 
-![screenshot](images/rooms-hall-link.png)
+![στιγμιότυπο οθόνης](images/rooms-hall-link.png)
 
-Make sure you test your code. You should be able to move from the Hall to the TV Room and back again by clicking on links.
+Σιγουρέψου πως έλεγξες το νέο σου κώδικα. Θα πρέπει να μπορείς να μετακινηθείς από το Χωλ στο Δωμάτιο Τηλεόρασης και πίσω πάλι πατώντας στους συνδέσμους.
 
 \--- /challenge \---
