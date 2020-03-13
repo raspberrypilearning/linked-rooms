@@ -1,17 +1,17 @@
 \--- challenge \---
 
-## Challenge: Add wallpaper to the Games Room
+## Πρόκληση: Πρόσθεσε ταπετσαρία στο Δωμάτιο Παιχνιδιών
 
-Can you decorate the games room with a background image?
+Μπορείς να διακοσμήσεις το δωμάτιο παιχνιδιών με μια εικόνα φόντου;
 
-You can use the `space-invader.png` background image which is included in your project.
+Μπορείς να χρησιμοποιήσεις την εικόνα φόντου `space-invader.png` που συμπεριλαμβάνεται στο έργο.
 
-You'll need to:
+Θα χρειαστεί να:
 
-+ Add a `background-image:` to the `.room` CSS for the Games Room. 
++ Προσθέσεις ένα `background-image:` στο στοιχείο `.room` του CSS για το Δωμάτιο Παιχνιδιών. 
 
-The decorated room should look like this:
+Το διακοσμημένο δωμάτιο θα μοιάζει με αυτό:
 
-![screenshot](images/rooms-games-finished.png)
+![στιγμιότυπο οθόνης](images/rooms-games-finished.png)
 
 \--- /challenge \---
