@@ -69,127 +69,50 @@ Ce projet couvre les éléments suivants du [Programme Raspberry Pi de Créativi
 
 * “Ajouter un autre lien” - Ajoute un lien entre les pages du même projet;
 * "Styliser et relier la salle de jeux" - Ajoute un lien et stylise une page avec son propre fichier CSS. 
-* “Ajoute plus de portes !” - Utilise <div>
-      s en tant que liens cliquables </li> </ul> 
-      
-      <p>
-        <
-      </p>
-      
-      <p>
-        + "Ajouter un fond d'écran à la salle de jeux" - Ajouter une image d'arrière-plan + "Personnalise-le !" - Ajouter plus de salles en utilisant les compétences acquises + "Ajouter un curseur clé" - Un extra optionnel amusant pour ceux qui terminent le projet
-      </p>
-      
-      <p>
-        --- /collapse ---
-      </p>
-      
-      <h2>
-        --- collapse ---
-      </h2>
-      
-      <h2>
-        title: Matériaux du projet
-      </h2>
-      
-      <h2>
-        Ressources pour le projet
-      </h2>
-      
-      <ul>
-        <li>
-          <a href="resources/rooms-project-resources.zip">Fichier .zip contenant toutes les ressources du projet</a>
-        </li>
-        <li>
-          <a href="http://jumpto.cc/web-rooms">Trinket en ligne contenant toutes les ressources du projet "Salles reliées"</a>
-        </li>
-        <li>
-          <a href="http://jumpto.cc/trinket-template">Modèle de Trinket en ligne</a>
-        </li>
-        <li>
-          <a href="http://jumpto.cc/trinket-blank">Trinket en ligne vierge</a>
-        </li>
-        <li>
-          <a href="resources/template-index.html">template/index.html</a>
-        </li>
-        <li>
-          <a href="resources/template-style.css">template/style.css</a>
-        </li>
-        <li>
-          <a href="resources/linked-rooms-index.html">linked-rooms/index.html</a>
-        </li>
-        <li>
-          <a href="resources/linked-rooms-style.css">linked-rooms/style.css</a>
-        </li>
-        <li>
-          <a href="resources/linked-rooms-tvroom.html">linked-rooms/tvroom.html</a>
-        </li>
-        <li>
-          <a href="resources/linked-rooms-tvroom.css">linked-rooms/tvroom.css</a>
-        </li>
-        <li>
-          <a href="resources/linked-rooms-wallpaper.png">linked-rooms/wallpaper.png</a>
-        </li>
-        <li>
-          <a href="resources/linked-rooms-space-invader.png">linked-rooms/space-invader.png</a>
-        </li>
-        <li>
-          <a href="resources/linked-rooms-tiles.png">linked-rooms/tiles.png</a>
-        </li>
-        <li>
-          <a href="resources/linked-rooms-star.png">linked-rooms/star.png</a>
-        </li>
-        <li>
-          <a href="resources/linked-rooms-stripes.png">linked-rooms/stripes.png</a>
-        </li>
-      </ul>
-      
-      <h2>
-        Ressources pour le responsable de club
-      </h2>
-      
-      <ul>
-        <li>
-          <a href="resources/rooms-volunteer-resources.zip">Fichier .zip contenant toutes les ressources du projet terminé</a>
-        </li>
-        <li>
-          <a href="https://trinket.io/html/d4e6379b3a">Projet Trinket en ligne terminé</a>
-        </li>
-        <li>
-          <a href="resources/linked-rooms-finished-index.html">linked-rooms-finished/index.html</a>
-        </li>
-        <li>
-          <a href="resources/linked-rooms-finished-style.css">linked-rooms-finished/style.css</a>
-        </li>
-        <li>
-          <a href="resources/linked-rooms-finished-tvroom.html">linked-rooms-finished/tvroom.html</a>
-        </li>
-        <li>
-          <a href="resources/linked-rooms-finished-tvroom.css">linked-rooms-finished/tvroom.css</a>
-        </li>
-        <li>
-          <a href="resources/linked-rooms-finished-gamesroom.html">linked-rooms-finished/gamesroom.html</a>
-        </li>
-        <li>
-          <a href="resources/linked-rooms-finished-gamesroom.css">linked-rooms-finished/gamesroom.css</a>
-        </li>
-        <li>
-          <a href="resources/linked-rooms-finished-wallpaper.png">linked-rooms-finished/wallpaper.png</a>
-        </li>
-        <li>
-          <a href="resources/linked-rooms-finished-space-invader.png">linked-rooms-finished/space-invader.png</a>
-        </li>
-        <li>
-          <a href="resources/linked-rooms-finished-tiles.png">linked-rooms-finished/tiles.png</a>
-        </li>
-        <li>
-          <a href="resources/linked-rooms-finished-star.png">linked-rooms-finished/star.png</a>
-        </li>
-        <li>
-          <a href="resources/linked-rooms-finished-stripes.png">linked-rooms-finished/stripes.png</a>
-        </li>
-      </ul>
-      
-      <p>
-        --- /collapse ---
-      </p>
+* “Ajoute plus de portes !” - Utilise <div>s en tant que liens cliquables
+* "Ajouter un fond d'écran à la salle de jeux" - Ajouter une image d'arrière-plan 
+* "Personnalise-le !" - Ajouter plus de salles en utilisant les compétences acquises 
+* "Ajouter un curseur clé" - Un extra optionnel amusant pour ceux qui terminent le projet
+
+--- /collapse ---
+
+--- collapse ---
+---
+title: Matériaux du projet
+---
+
+## Ressources pour le projet
+
+* <a href="resources/rooms-project-resources.zip">Fichier .zip contenant toutes les ressources du projet</a>
+* <a href="http://jumpto.cc/web-rooms">Trinket en ligne contenant toutes les ressources du projet "Salles reliées"</a>
+* <a href="http://jumpto.cc/trinket-template">Modèle de Trinket en ligne</a>
+* <a href="http://jumpto.cc/trinket-blank">Trinket en ligne vierge</a>
+* <a href="resources/template-index.html">template/index.html</a>
+* <a href="resources/template-style.css">template/style.css</a>
+* <a href="resources/linked-rooms-index.html">linked-rooms/index.html</a>
+* <a href="resources/linked-rooms-style.css">linked-rooms/style.css</a>
+* <a href="resources/linked-rooms-tvroom.html">linked-rooms/tvroom.html</a>
+* <a href="resources/linked-rooms-tvroom.css">linked-rooms/tvroom.css</a>
+* <a href="resources/linked-rooms-wallpaper.png">linked-rooms/wallpaper.png</a>
+* <a href="resources/linked-rooms-space-invader.png">linked-rooms/space-invader.png</a>
+* <a href="resources/linked-rooms-tiles.png">linked-rooms/tiles.png</a>
+* <a href="resources/linked-rooms-star.png">linked-rooms/star.png</a>
+* <a href="resources/linked-rooms-stripes.png">linked-rooms/stripes.png</a>
+
+## Ressources pour le responsable de club
+
+* <a href="resources/rooms-volunteer-resources.zip">Fichier .zip contenant toutes les ressources du projet terminé</a>
+* <a href="https://trinket.io/html/d4e6379b3a">Projet Trinket en ligne terminé</a>
+* [linked-rooms-finished/index.html](resources/linked-rooms-finished-index.html)
+* [linked-rooms-finished/style.css](resources/linked-rooms-finished-style.css)
+* [linked-rooms-finished/tvroom.html](resources/linked-rooms-finished-tvroom.html)
+* [linked-rooms-finished/tvroom.css](resources/linked-rooms-finished-tvroom.css)
+* [linked-rooms-finished/gamesroom.html](resources/linked-rooms-finished-gamesroom.html)
+* [linked-rooms-finished/gamesroom.css](resources/linked-rooms-finished-gamesroom.css)
+* [linked-rooms-finished/wallpaper.png](resources/linked-rooms-finished-wallpaper.png)
+* [linked-rooms-finished/space-invader.png](resources/linked-rooms-finished-space-invader.png)
+* [linked-rooms-finished/tiles.png](resources/linked-rooms-finished-tiles.png)
+* [linked-rooms-finished/star.png](resources/linked-rooms-finished-star.png)
+* [linked-rooms-finished/stripes.png](resources/linked-rooms-finished-stripes.png)
+
+--- /collapse ---
