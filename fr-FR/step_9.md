@@ -1,19 +1,17 @@
 --- challenge ---
-## Défi : Ajouter un fond d'écran au Salon de jeux
 
-Pouvez-vous décorer le salon de jeux avec une image d'arrière-plan ?
+## Défi : Ajouter un fond d'écran à la Salle de jeux
 
-Vous pouvez utiliser l'image d'arrière-plan `space-invader.png` qui est incluse dans votre projet. 
+Peux-tu décorer la salle de jeux avec une image d'arrière-plan ?
 
-Pour ce faire :
+Tu peux utiliser l'image d'arrière-plan `space-invader.png` incluse dans ton projet.
 
-+ Ajoutez une `background-image:` au CSS `.room` pour le Salon de jeux. 
+Tu auras besoin d' :
 
-Le salon décoré devrait ressembler à ça :
++ Ajouter un `background-image:` au CSS `.salle` de la salle de jeux. 
 
-![screenshot](images/rooms-games-finished.png)	
+La salle décorée devrait ressembler à ceci :
 
-
-
+![capture d'écran](images/rooms-games-finished.png)
 
 --- /challenge ---

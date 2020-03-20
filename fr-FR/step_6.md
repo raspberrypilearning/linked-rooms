@@ -1,32 +1,29 @@
 ## Faire en sorte que les liens ressemblent à des portes
 
-Les liens ne doivent pas être simplement du texte. Faites une porte cliquable en utilisant une balise `<div>`.
+Les liens ne doivent pas seulement être du texte. Faisons une porte cliquable en utilisant un `<div>`.
 
-+ Ouvrez `index.html` et ajoutez une balise `<div>` autour du lien textuel __Salon TV__. Cela doit être fait à l'intérieur de la balise `<a>` pour qu'il soit cliquable.
++ Ouvre `index.html` et ajoute `<div>` autour du texte du lien **Salle de télévision**. Il doit être à l'intérieur du `<a>` pour le rendre cliquable.
+    
+    Ajoute `id="hall2tv"` pour l’étiqueter en tant que porte du Hall vers la salle de télévision afin que tu puisses styliser la porte.
+    
+    ![capture d'écran](images/rooms-tvroom-div.png)
 
-  Ajoutez `id="hall2tv"` pour l'étiqueter comme la porte depuis le Hall vers le Salon TV pour pouvoir appliquer un style à la porte. 
++ Clique sur l'onglet `style.css` , va en bas et ajoute le CSS suivant pour changer la taille et la couleur de la porte :
+    
+    ![capture d'écran](images/rooms-door-css1.png)
 
-  ![screenshot](images/rooms-tvroom-div.png)  
++ Teste ta page Web en cliquant n'importe où sur la porte, pas seulement sur le texte.
 
-+ Cliquez sur l'onglet `style.css`, allez au bas de la page et ajoutez le CSS suivant pour modifier la taille et la couleur de la porte :
++ Maintenant, faisons le un peu plus ressembler à une porte en ajoutant une bordure autour de trois côtés :
+    
+    ![capture d'écran](images/rooms-door-css2.png)
 
-	![screenshot](images/rooms-door-css1.png)
++ Et ajoutons un peu de CSS pour que le texte de la porte soit plus beau :
+    
+    ![capture d'écran](images/rooms-door-css3.png)
 
-+ Testez votre page Web en cliquant n'importe où sur la porte, pas seulement sur le texte.
++ Tu as probablement remarqué que la porte flotte dans les airs. Corrigeons cela en plaçant la porte à l'intérieur de la salle.
+    
+    ![capture d'écran](images/rooms-door-position.png)
 
-+ Maintenons, essayons d'améliorer l'apparence de porte en ajoutant une bordure autour de trois côtés :
-
-	![screenshot](images/rooms-door-css2.png)
-
-+ Puis ajoutons du CSS pour que le texte sur la porte ait un meilleur rendu :
-
-	![screenshot](images/rooms-door-css3.png)
-
-+ Vous avez probablement remarqué que la porte flotte dans les airs. Corrigeons cela en positionnant la porte à l'intérieur du salon.
-
-	![screenshot](images/rooms-door-position.png)	
-
-+ Testez votre page Web en cliquant sur la porte pour aller dans le __Salon TV__.
-
-
-
++ Teste ta page Web en cliquant sur la porte pour accéder à la **Salle de télévision**.

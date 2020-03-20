@@ -1,28 +1,27 @@
 --- challenge ---
-## Défi : Ajouter plus de portes !
 
-Transformez les autres liens de votre projet en portes de la même manière. 
+## Défi : Ajouter plus de portes !
 
-Pour chaque porte :
+Transforme les autres liens de ton projet en portes de la même manière.
 
-+ Modifiez le lien de la porte pour utiliser une balise `<div>` avec un id comme `hall2games` pour pouvoir y appliquer un style. 
+Pour chaque porte, tu devras :
 
-	Par exemple : 
++ Modifier le lien de porte pour utiliser `<div>` avec un identifiant tel que `hall2games` afin de pouvoir le styliser.
+    
+    Par exemple :
+    
+    `<a href="gamesroom.html"><div id="hall2games">Salle de jeux</div></a>`
 
-	`<a href="gamesroom.html"><div id="hall2games">Games Room</div></a>`
++ Ajoute le CSS pour l’identifiant de la porte au fichier `.css` correspondant à sa salle. Utilise *copier* et *coller* pour gagner du temps. Tu peux rendre chaque porte différente si tu le souhaites.
 
-+ Ajoutez du CSS pour l'id de la porte au fichier `.css` pour son salon. Utilisez _copier_ et _coller_ pour gagner du temps. Vous pouvez faire en sorte que chaque porte ait l'air différente si vous le souhaitez. 
++ Positionne la porte en utilisant `bottom:` et `left:` ou `right:`.
 
-+ Positionnez la porte en utilisant `bottom:` et `left:` ou `right:`.
+Le Hall pourrait ressembler à ceci :
 
-Le Hall peut ressembler à ça :
+![capture d'écran](images/rooms-hall-doors.png)
 
-![screenshot](images/rooms-hall-doors.png)
+La salle de télévision devrait ressembler à ceci :
 
-Le Salon TV devrait ressembler à quelque chose comme ça :
-
-![screenshot](images/rooms-tvroom-door.png)	
-
-
+![capture d'écran](images/rooms-tvroom-door.png)
 
 --- /challenge ---
