@@ -2,7 +2,7 @@
 
 Os projetos web podem ser constituídos por muitos ficheiros HTML ligados entre si.
 
-+ Abre este trinket: <a href="https://trinket.io/html/1625d7c4cf" target="_blank">jumpto.cc/web-rooms</a>.
++ Abre este trinket: <a href="https://trinket.io/html/1625d7c4cf" target="_blank">trinket.io/html/1625d7c4cf</a>.
     
     O projeto deverá ter este aspeto:
     

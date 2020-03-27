@@ -69,11 +69,7 @@ Este projeto abrange elementos das seguintes vertentes do [Currículo Raspberry 
 
 * “Acrescenta outro link” - Acrescenta um link entre páginas no mesmo projeto;
 * "Estiliza e liga a Sala de Jogo" - Acrescenta uma ligação e estilo a páginas, cada uma com o seu próprio ficheiro CSS. 
-* "Acrescenta mais portas!" - Usa 
-
-<
-
-div>s como links clicáveis + "Acrescenta imagens de fundo à Sala de Jogos" - Acrescenta uma imagem de fundo + "Personaliza-o!" - Acrescenta mais salas utilizando as competências adquiridas + "Acrescenta um cursor com uma forma de chave" - Uma ideia divertida e opcional para quem completar o projeto
+* "Acrescenta mais portas!" - Usa <div>s como links clicáveis + "Acrescenta imagens de fundo à Sala de Jogos" - Acrescenta uma imagem de fundo + "Personaliza-o!" - Acrescenta mais salas utilizando as competências adquiridas + "Acrescenta um cursor com uma forma de chave" - Uma ideia divertida e opcional para quem completar o projeto
 
 --- /collapse ---
 
