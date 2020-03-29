@@ -24,7 +24,7 @@ In this project, children are introduced to multiple linked web pages in the sam
 
 ## Online Resources
 
-We recommend using [trinket](https://trinket.io/) to write HTML & CSS online. This project contains the following trinket:
+我们建议使用[trinket](https://trinket.io/)来在线编写 HTML & CSS This project contains the following trinket:
 
 * ['Linked Rooms' starting point -- jumpto.cc/web-rooms](https://trinket.io/html/f1486ddb24)
 
