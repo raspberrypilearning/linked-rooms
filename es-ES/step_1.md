@@ -98,7 +98,7 @@ Este proyecto incluye elementos desde los siguientes aspectos del [Curríulo Dig
       
       <ul>
         <li>
-          <a href="resources/rooms-project-resources.zip">Archivo .zip que contiene todos los recursos del proyecto</a>
+          <a href="https://rpf.io/p/en/linked-rooms-go">Archivo .zip que contiene todos los recursos del proyecto</a>
         </li>
         <li>
           <a href="http://jumpto.cc/web-rooms">Trinket en linea que contiene todos los recursos del proyecto 'Habitaciones Enlazadas'</a>
@@ -150,7 +150,7 @@ Este proyecto incluye elementos desde los siguientes aspectos del [Curríulo Dig
       
       <ul>
         <li>
-          <a href="resources/rooms-volunteer-resources.zip">Archivo .zip que contiene todos los recursos de proyecto terminado</a>
+          <a href="https://rpf.io/p/en/linked-rooms-go">Archivo .zip que contiene todos los recursos de proyecto terminado</a>
         </li>
         <li>
           <a href="https://trinket.io/html/eab49f4f06">Proyecto Trinket terminado en línea</a>
