@@ -84,7 +84,7 @@ title: Project materials
 
 ## Project resources
 
-* [.zip file containing all project resources](resources/rooms-project-resources.zip)
+* [.zip file containing all project resources](https://rpf.io/p/en/linked-rooms-go)
 * [Online Trinket containing all 'Linked Rooms' project resources](http://jumpto.cc/web-rooms)
 * [Online Trinket template](http://jumpto.cc/trinket-template)
 * [Online blank Trinket](http://jumpto.cc/trinket-blank)
@@ -102,7 +102,7 @@ title: Project materials
 
 ## Club leader resources
 
-* [.zip file containing all completed project resources](resources/rooms-volunteer-resources.zip)
+* [.zip file containing all completed project resources](https://rpf.io/p/en/linked-rooms-go)
 * [Online completed Trinket project](https://trinket.io/html/eab49f4f06)
 * [linked-rooms-finished/index.html](resources/linked-rooms-finished-index.html)
 * [linked-rooms-finished/style.css](resources/linked-rooms-finished-style.css)
