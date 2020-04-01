@@ -98,7 +98,7 @@ Ce projet couvre les éléments suivants du [Programme Raspberry Pi de Créativi
       
       <ul>
         <li>
-          <a href="resources/rooms-project-resources.zip">Fichier .zip contenant toutes les ressources du projet</a>
+          <a href="https://rpf.io/p/en/linked-rooms-go">Fichier .zip contenant toutes les ressources du projet</a>
         </li>
         <li>
           <a href="http://jumpto.cc/web-rooms">Trinket en ligne contenant toutes les ressources du projet "Salles reliées"</a>
@@ -150,7 +150,7 @@ Ce projet couvre les éléments suivants du [Programme Raspberry Pi de Créativi
       
       <ul>
         <li>
-          <a href="resources/rooms-volunteer-resources.zip">Fichier .zip contenant toutes les ressources du projet terminé</a>
+          <a href="https://rpf.io/p/en/linked-rooms-go">Fichier .zip contenant toutes les ressources du projet terminé</a>
         </li>
         <li>
           <a href="https://trinket.io/html/eab49f4f06">Projet Trinket en ligne terminé</a>
