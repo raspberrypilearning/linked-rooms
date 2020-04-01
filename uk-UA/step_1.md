@@ -83,7 +83,7 @@ div> s як налаштовувані посилання + "Додати шпа
 
 ## Ресурси проекту
 
-* [.zip-файл, що містить всі ресурси проекту](resources/rooms-project-resources.zip)
+* [.zip-файл, що містить всі ресурси проекту](https://rpf.io/p/en/linked-rooms-go)
 * [Інтернет-брелок з усіма ресурсами проекту "Зв'язані кімнати"](http://jumpto.cc/web-rooms)
 * [Шаблон онлайн-брелок](http://jumpto.cc/trinket-template)
 * [Онлайн чистий брелок](http://jumpto.cc/trinket-blank)
@@ -101,7 +101,7 @@ div> s як налаштовувані посилання + "Додати шпа
 
 ## Ресурси лідерів клубу
 
-* [.zip file containing all completed project resources](resources/rooms-volunteer-resources.zip)
+* [.zip file containing all completed project resources](https://rpf.io/p/en/linked-rooms-go)
 * [Онлайн завершений проект Trinket](https://trinket.io/html/eab49f4f06)
 * [linked-rooms-finished/index.html](resources/linked-rooms-finished-index.html)
 * [linked-rooms-finished/style.css](resources/linked-rooms-finished-style.css)
