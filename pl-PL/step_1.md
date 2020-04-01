@@ -96,7 +96,7 @@ klasy
   
   <ul>
     <li>
-      <a href="resources/rooms-project-resources.zip">Plik .zip zawierający wszystkie zasoby potrzebne do wykonania projektu</a>
+      <a href="https://rpf.io/p/en/linked-rooms-go">Plik .zip zawierający wszystkie zasoby potrzebne do wykonania projektu</a>
     </li>
     <li>
       <a href="http://jumpto.cc/web-rooms">Szablon startowy zawierający wszystkie zasoby potrzebne do realizacji projektu "Pokoje"</a>
@@ -148,7 +148,7 @@ klasy
   
   <ul>
     <li>
-      <a href="resources/rooms-volunteer-resources.zip">Plik .zip zawierający zasoby z ukończonym projektem</a>
+      <a href="https://rpf.io/p/en/linked-rooms-go">Plik .zip zawierający zasoby z ukończonym projektem</a>
     </li>
     <li>
       <a href="https://trinket.io/html/eab49f4f06">Trinket zawierający ukończony projekt</a>
