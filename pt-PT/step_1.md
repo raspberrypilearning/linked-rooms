@@ -83,7 +83,7 @@ div>s como links clicáveis + "Acrescenta imagens de fundo à Sala de Jogos" - A
 
 ## Recursos do projeto
 
-* [Arquivo .zip com todos os recursos do projeto](resources/rooms-project-resources.zip)
+* [Arquivo .zip com todos os recursos do projeto](https://rpf.io/p/en/linked-rooms-go)
 * [Trinket online com todos os recursos do projeto 'Salas Ligadas'](http://jumpto.cc/web-rooms)
 * [Modelo online Trinket](http://jumpto.cc/trinket-template)
 * [Trinket vazio online](http://jumpto.cc/trinket-blank)
@@ -101,7 +101,7 @@ div>s como links clicáveis + "Acrescenta imagens de fundo à Sala de Jogos" - A
 
 ## Recursos do Líder do clube
 
-* [Arquivo .zip com todos os recursos do projeto concluído](resources/rooms-volunteer-resources.zip)
+* [Arquivo .zip com todos os recursos do projeto concluído](https://rpf.io/p/en/linked-rooms-go)
 * [Projeto Trinket online completo ](https://trinket.io/html/eab49f4f06)
 * [linked-rooms-finished/index.html](resources/linked-rooms-finished-index.html)
 * [linked-rooms-finished/style.css](resources/linked-rooms-finished-style.css)
