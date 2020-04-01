@@ -83,7 +83,7 @@ div>s voor klikbare links (koppelingen) + "Voeg een achtergrond toe aan de Speel
 
 ## Projectbronnen
 
-* [.zip-bestand met alle projectbronnen](resources/rooms-project-resources.zip)
+* [.zip-bestand met alle projectbronnen](https://rpf.io/p/en/linked-rooms-go)
 * [Online Trinket met alle projectbronnen van 'Gekoppelde Kamers'](http://jumpto.cc/web-rooms)
 * [Online Trinket-sjabloon](http://jumpto.cc/trinket-template)
 * [Online lege Trinket](http://jumpto.cc/trinket-blank)
@@ -101,7 +101,7 @@ div>s voor klikbare links (koppelingen) + "Voeg een achtergrond toe aan de Speel
 
 ## Clubleider bronnen
 
-* [.zip-bestand met alle voltooide projectresources](resources/rooms-volunteer-resources.zip)
+* [.zip-bestand met alle voltooide projectresources](https://rpf.io/p/en/linked-rooms-go)
 * [Online voltooid Trinket-project](https://trinket.io/html/eab49f4f06)
 * [linked-rooms-finished/index.html](resources/linked-rooms-finished-index.html)
 * [linked-rooms-finished/style.css](resources/linked-rooms-finished-style.css)
