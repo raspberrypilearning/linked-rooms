@@ -83,7 +83,7 @@ div>s كروابط قابلة للنقر + "أضف خلفية لغرفة الأ�
 
 ## موارد المشروع
 
-* [ملف.zip يحتوي على جميع موارد المشروع](resources/rooms-project-resources.zip)
+* [ملف.zip يحتوي على جميع موارد المشروع](https://rpf.io/p/en/linked-rooms-go)
 * [ملف Trinket عبر الإنترنت يحتوي على كل موارد المشروع 'المطلوبة!'](http://jumpto.cc/web-rooms)
 * [قالب Trinket عبر الإنترنت](http://jumpto.cc/trinket-template)
 * [Trinket فارغ عبر الإنترنت](http://jumpto.cc/trinket-blank)
@@ -101,7 +101,7 @@ div>s كروابط قابلة للنقر + "أضف خلفية لغرفة الأ�
 
 ## موارد قادة النادي
 
-* [ملف.zip يحتوي على جميع موارد المشروع المكتملة](resources/rooms-volunteer-resources.zip)
+* [ملف.zip يحتوي على جميع موارد المشروع المكتملة](https://rpf.io/p/en/linked-rooms-go)
 * [مشروع Trinket المكتمل على الإنترنت](https://trinket.io/html/eab49f4f06)
 * [linked-rooms-finished/index.html](resources/linked-rooms-finished-index.html)
 * [linked-rooms-finished/style.css](resources/linked-rooms-finished-style.css)
