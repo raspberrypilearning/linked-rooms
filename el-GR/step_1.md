@@ -83,7 +83,7 @@ div> ως ενεργοί σύνδεσμοι + "Πρόσθεσε ταπετσαρ
 
 ## Πόροι έργου
 
-* [αρχείο .zip που περιέχει όλους τους πόρους του έργου](resources/rooms-project-resources.zip)
+* [αρχείο .zip που περιέχει όλους τους πόρους του έργου](https://rpf.io/p/en/linked-rooms-go)
 * [Online Trinket που περιέχει όλους τους πόρους του έργου 'Συνδεδεμένα Δωμάτια'](http://jumpto.cc/web-rooms)
 * [Online πρότυπο Trinket](http://jumpto.cc/trinket-template)
 * [Online κενό Trinket](http://jumpto.cc/trinket-blank)
@@ -101,7 +101,7 @@ div> ως ενεργοί σύνδεσμοι + "Πρόσθεσε ταπετσαρ
 
 ## Πόροι για τον συντονιστή της ομάδας
 
-* [αρχείο .zip που περιέχει όλους τους πόρους του έργου](resources/rooms-volunteer-resources.zip)
+* [αρχείο .zip που περιέχει όλους τους πόρους του έργου](https://rpf.io/p/en/linked-rooms-go)
 * [Το ολοκληρωμένο έργο online στο Τrinket](https://trinket.io/html/eab49f4f06)
 * [linked-rooms-finished/index.html](resources/linked-rooms-finished-index.html)
 * [linked-rooms-finished/style.css](resources/linked-rooms-finished-style.css)
