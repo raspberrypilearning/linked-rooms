@@ -83,7 +83,7 @@ div> 를 클릭할 수 있는 링크로 추가하기 + "게임 내 방에 배경
 
 ## 프로젝트 리소스
 
-* [프로젝트의 모든 리소스가 들어있는 .zip 파일](resources/rooms-project-resources.zip)
+* [프로젝트의 모든 리소스가 들어있는 .zip 파일](https://rpf.io/p/en/linked-rooms-go)
 * [모든 '연결된 방'프로젝트 자원을 포함하는 온라인 장신구](http://jumpto.cc/web-rooms)
 * [온라인 Trinket 템플릿](http://jumpto.cc/trinket-template)
 * [빈 Trinket](http://jumpto.cc/trinket-blank)
@@ -101,7 +101,7 @@ div> 를 클릭할 수 있는 링크로 추가하기 + "게임 내 방에 배경
 
 ## 교육자를 위한 자료
 
-* [완성된 모든 프로젝트 리소스가 들어있는 .zip 파일](resources/rooms-volunteer-resources.zip)
+* [완성된 모든 프로젝트 리소스가 들어있는 .zip 파일](https://rpf.io/p/en/linked-rooms-go)
 * [완성된 온라인 Trinket 프로젝트](https://trinket.io/html/eab49f4f06)
 * [linked-rooms-finished/index.html](resources/linked-rooms-finished-index.html)
 * [linked-rooms-finished/style.css](resources/linked-rooms-finished-style.css)
