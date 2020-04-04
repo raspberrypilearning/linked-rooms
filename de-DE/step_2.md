@@ -1,31 +1,31 @@
-## Linking to another web page in the same project
+## Stelle eine Verknüpfung zu einer anderen Webseite im gleichen Projekt her
 
-Web projects can be made up of lots of HTML files linked together.
+Webprojekte können aus vielen miteinander verknüpften HTML-Dateien bestehen.
 
-+ Open this trinket: <a href="https://trinket.io/html/f1486ddb24" target="_blank">jumpto.cc/web-rooms</a>.
++ Öffne dieses Trinket: <a href="https://trinket.io/html/f1486ddb24" target="_blank">jumpto.cc/web-rooms</a>.
     
-    The project should look like this:
+    Das Projekt sollte so aussehen:
     
-    ![screenshot](images/rooms-starter.png)
+    ![Screenshot](images/rooms-starter.png)
 
-+ The trinket should autorun and you will find yourself in the Hall:
++ Das Trinket sollte automatisch ausgeführt werden und du wirst dich im Flur befinden:
     
     ![screenshot](images/rooms-hall-start.png)
 
-+ Look at the list of file tabs for this trinket. Can you see `tvroom.html`? Click on it.
++ Sieh dir die Liste der Datei-Reiter für dieses Trinket an. Kannst du `tvroom.html` sehen? Klick es an.
     
-    ![screenshot](images/rooms-tvroom-html.png)
+    ![Screenshot](images/rooms-tvroom-html.png)
     
-    This is another html file in the same project.
+    Dies ist eine weitere HTML-Datei im selben Projekt.
 
-+ To get to `tvroom.html` you need to add a link in `index.html`.
++ Um zu `tvroom.html` zu gelangen, musst du eine Verknüpfung (in der Regel wird in der Webentwicklung das englische Wort "Link" verwendet) zu `index.html` hinzufügen.
     
-    Add the highlighted code inside the `<div>` with the class `room`:
+    Füge den markierten Code innerhalb des `<div>` mit der Klasse (engl.: class) `room` hinzu:
     
-    ![screenshot](images/rooms-link-tvroom.png)
+    ![Screenshot](images/rooms-link-tvroom.png)
 
-+ Test your trinket by clicking on the **TV Room** link to see the `tvroom.html` webpage.
++ Teste dein Trinket, indem du auf den **Fernsehzimmer** Link klickst, um die Webseite `tvroom.html` aufzurufen.
     
-    Note that `tvroom.html` also has its own `tvroom.css` style file which defines the layout for this page.
+    Beachte, dass `tvroom.html` auch eine eigene `tvroom.css` Style-Datei hat, die das Layout für diese Seite definiert.
     
-    ![screenshot](images/rooms-tvroom-unstyled.png)
+    ![Screenshot](images/rooms-tvroom-unstyled.png)
