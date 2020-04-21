@@ -1,13 +1,9 @@
 ## Ein Hintergrundbild hinzufügen
 
-Lass uns den Flur mit einem Hintergrundbild dekorieren.
+Verschönern wir den Flur mit einem Hintergrundbild.
 
-+ Bearbeite den `style.css` Code, um ein Hintergrundbild zum Flur hinzuzufügen:
-
-	![screenshot](images/rooms-hall-decorated.png)	
-
-	Das Bild wird wiederholt, um das ganze Zimmer damit zu füllen. 
-
-
-
-
++ Bearbeite die `style.css` Datei, um dem Flur ein Hintergrundbild (engl.: background-image) hinzuzufügen:
+    
+    ![Screenshot](images/rooms-hall-decorated.png)
+    
+    Das Bild wird wiederholt, um den gesamten Raum zu füllen.

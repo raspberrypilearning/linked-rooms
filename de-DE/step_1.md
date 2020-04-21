@@ -1,73 +1,116 @@
-## Einführung
+## Einleitung
 
-In diesem Projekt wirst du ein Set an verknüpften Zimmern erstellen, bei denen jedes Zimmer eine andere Webseite darstellt und du kannst jedes Zimmer, bzw. jede Seite, mit HTML dekorieren. 
+In diesem Projekt erstellst du eine Reihe verknüpfter Räume, wobei jeder Raum eine andere Webseite ist, die du mit HTML dekorieren kannst.
 
 <div class="trinket">
-  <iframe src="https://trinket.io/embed/html/ba5d27ec68?outputOnly=true&start=result" width="600" height="450" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+  <iframe src="https://trinket.io/embed/html/dc2ec01b44?outputOnly=true&start=result" width="600" height="450" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
   </iframe>
   <img src="images/rooms-hall-finished.png">
 </div>
 
-__Anweisungen__: Klicke auf die Türen, um zwischen den einzelnen Zimmern hin- und hergehen zu können.
+**Anleitung**: Klicke auf die Türen, um sich zwischen den Räumen zu bewegen.
+
+### Zusätzliche Information für Clubleiter
+
+Falls du dieses Projekt ausdrucken musst, verwende bitte die [druckfreundliche Version](https://projects.raspberrypi.org/de-DE/projects/linked-rooms/print).
 
 --- collapse ---
 ---
-title: Notizen für den Club-Leiter
+title: Anmerkungen für Clubleiter
 ---
 
+## Einleitung:
 
-## Einführung:
-In diesem Projekt erhalten die Kinder eine Einführung in mehrere, miteinander verknüpfte Webseiten im gleichen Projekt und jede davon besitzt ihre eigene CSS-Datei. 
+In diesem Projekt werden Kinder an das Konzept von mehreren verknüpften Webseiten im selben Projekt herangeführt, welche jeweils eine eigene CSS-Datei haben.
 
+## Online-Ressourcen
 
-## Online Ressourcen
+Wir empfehlen [Trinket](https://trinket.io/) als Online-Editor für HTML & CSS. Dieses Projekt enthält das folgende Trinket:
 
-Wir empfehlen [Trinket](https://trinket.io/) zu benutzen, um HTML und CSS online zu schreiben. Dieses Projekt enthält das folgende Trinket:
+* [Startpunktpunkt 'Linked Rooms' - trinket.io/html/f79f792cda](https://trinket.io/html/f79f792cda)
 
-+ ['Linked Rooms' starting point  -- jumpto.cc/web-rooms](http://jumpto.cc/web-rooms)
+Die Kinder können auch dieses leere Trinket [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) verwenden um ihr eigenes HTML & CSS zu schreiben, oder sie können als Alternative dazu dieses Trinket als Vorlage verwenden [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
 
-Die Kinder können auch von diesem leeren Trinket [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) Gebrauch machen, um ihren eigenen HTML und CSS Code zu schreiben, bzw. alternativ können sie dieses Vorlage-Trinket [(jumpto.cc/html-template)](http://jumpto.cc/html-template) benutzen.
+Es gibt auch ein Trinket mit einer Beispiellösung für die Herausforderungen:
 
-Es gibt auch ein Trinket, dass eine Lösungsvorlage für die Aufgaben enthält:
+* ['Verknüpfte Räume fertiggestellt' - https://trinket.io/html/dc2ec01b44](https://trinket.io/html/dc2ec01b44)
 
-+ ['Linked Rooms Finished' -- https://trinket.io/html/ba5d27ec68](https://trinket.io/html/ba5d27ec68)
+## Offline-Ressourcen
 
-## Offline Ressourcen
-Dieses Projekt kann [offline fertig gestellt werden](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/), falls bevorzugt. Zugang zu den Projekt-Ressourcen ist durch das Klicken auf den „Projekt-Materialien“ Link für dieses Projekt möglich. Dieser Link enthält einen Abschnitt über „Projekt-Ressourcen“, die u.a. auch Ressourcen beinhalten, welche die Kinder benötigen, um dieses Projekt offline beenden zu können. Achten Sie darauf, dass jedes Kind Zugang zu einer Kopie dieser Ressourcen hat. Dieser Abschnitt enthält die folgenden Dateien:
+Dieses Projekt kann wahlweise auch [offline](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) durchgeführt werden. Du kannst auf die Projektressourcen zugreifen, indem du auf den Link "Projektmaterial" für dieses Projekt klickst. Dieser Link enthält einen Abschnitt "Projektressourcen" mit Ressourcen, die die Kinder benötigen, um das Projekt offline abschließen zu können. Stelle sicher, dass jedes Kind Zugriff auf eine Kopie dieser Ressourcen hat. Dieser Abschnitt enthält die folgenden Dateien:
 
-+ linked-rooms/index.html
-+ linked-rooms/style.css
-+ linked-rooms/script.js
-+ linked-rooms/prefixfree.js
-+ linked-rooms/4 x .png images
-+ template/template.html
-+ template/style.css
+* linked-rooms/index.html
+* linked-rooms/style.css
+* linked-rooms/script.js
+* linked-rooms/prefixfree.js
+* linked-rooms/ 4 x .png Bilder
+* template/template.html
+* template/style.css
 
-Sie können eine fertig gestellte Version dieses Projekts im Abschnitt „Helfer Ressourcen“ finden, welcher u.a. Folgendes enthält:
+Eine vollständige Version dieses Projekts findest du auch im Abschnitt "Ressourcen für Freiwillige". Diese enthält:
 
-+ linked-rooms-finished/index.html
-+ linked-rooms-finished/style.css
-+ linked-rooms-finished/script.js
-+ linked-rooms-finished/prefixfree.js
-+ linked-rooms-finished/4 x .png images
+* linked-rooms-finished/index.html
+* linked-rooms-finished/style.css
+* linked-rooms-finished/script.js
+* linked-rooms-finished/prefixfree.js
+* linked-rooms-finished/ 4 x .png Bilder
 
-(Alle der o.g. Ressourcen können auch als Projekt und Helfer `.zip` Dateien heruntergeladen werden.)
+(Alle oben genannten Ressourcen können auch als `.zip`-Dateien für Projekte und für Freiwillige heruntergeladen werden.)
 
 ## Lernziele
-+ Dieses Projekt führt Projekte mit mehreren HTML-Seiten ein, die alle miteinander verknüpft sind.
-+ Multiple CSS-Dateien werden ebenfalls eingeführt.
 
-Dieses Projekt deckt Elemente aus den folgenden Bereichen des [Raspberry Pi Lehrplans zur digitalen Produktion](http://rpf.io/curriculum):
+* In diesem Projekt werden Projekte vorgestellt, bei denen mehrere HTML-Seiten miteinander verknüpft sind
+* Es werden auch mehrere CSS-Dateien eingeführt
 
- + [Design Grundlagen: 2D und 3D Assets](https://www.raspberrypi.org/curriculum/design/creator).
+Dieses Projekt deckt die folgenden Kernbereiche des [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum) ab:
 
-## Aufgaben
-+ „Füge einen weiteren Link hinzu“: Füge einen Link zwischen den Seiten im gleichen Projekt hinzu;
-+ „Gestalte und verknüpfe das Spielzimmer (Games Room)“: Füge einen Link sowie eine Stil-Seite mit ihrer eigenen CSS-Datei ein. 
-+ „Füge noch mehr Türen hinzu!“: Benutze das <div> als klickbare Links.
-+ „Füge die Tapete in deinem Spielzimmer hinzu“: Füge das Hintergrundbild hinzu.
-+ „Gestalte es so wie du es willst!“ - Füge weitere Zimmer hinzu und wende hierbei die Fertigkeiten, die du gelernt hast, an.
-+ „Füge eine Cursor-Taste hinzu“: Ein lustiges Extra für all jene, die das Projekt fertig gestellt haben.
+* [Entwurf von grundlegenden 2D- and 3D-Konstruktionen](https://www.raspberrypi.org/curriculum/design/creator).
 
+## Herausforderungen
+
+* „Weitere Verknüpfung hinzufügen“ - Fügt eine Verknüpfung zwischen Seiten im selben Projekt hinzu.
+* „Gestalte und verknüpfe das Spielzimmer“ - Füge eine Verknüpfung hinzu und gestalte eine Seite mit einer eigenen CSS-Datei. 
+* "Füge weitere Türen hinzu!" - Verwende <div>s als anklickbare Verknüpfungen
+* "Füge eine Tapete zum Spielzimmer hinzu" - Ein Hintergrundbild hinzufügen 
+* "Mach es zu deinem!" - Füge mit den erlernten Fähigkeiten weitere Räume hinzu. 
+* "Füge einen Schlüsselcursor hinzu" - Ein lustiges optionales Extra für diejenigen, die das Projekt abschließen
+
+--- /collapse ---
+--- collapse ---
+---
+title: Projektmaterial
+---
+
+## Projektressourcen
+* [.zip-Datei mit allen Projektressourcen](https://rpf.io/p/de-DE/linked-rooms-go)
+* [Online-Trinket mit allen Projektressourcen für "verknüpfte Räume"](https://trinket.io/html/f79f792cda)
+* [Online Trinket-Vorlage](http://jumpto.cc/trinket-template)
+* [Leeres online-Trinket](http://jumpto.cc/trinket-blank)
+* [template/index.html](resources/template-index.html)
+* [template/style.css](resources/template-style.css)
+* [linked-rooms/index.html](resources/linked-rooms-index.html)
+* [linked-rooms/style.css](resources/linked-rooms-style.css)
+* [linked-rooms/tvroom.html](resources/linked-rooms-tvroom.html)
+* [linked-rooms/tvroom.css](resources/linked-rooms-tvroom.css)
+* [linked-rooms/wallpaper.png](resources/linked-rooms-wallpaper.png)
+* [linked-rooms/space-invader.png](resources/linked-rooms-space-invader.png)
+* [linked-rooms/tiles.png](resources/linked-rooms-tiles.png)
+* [linked-rooms/star.png](resources/linked-rooms-star.png)
+* [linked-rooms/stripes.png](resources/linked-rooms-stripes.png)
+      
+## Ressourcen für Clubleiter
+* [.zip-Datei mit allen fertig gestellten Projektressourcen](https://rpf.io/p/de-DE/linked-rooms-go)
+* [Vollständiges Trinket-Projekt (online)](https://trinket.io/html/dc2ec01b44)
+* [linked-rooms-finished/index.html](resources/linked-rooms-finished-index.html)
+* [linked-rooms-finished/style.css](resources/linked-rooms-finished-style.css)
+* [linked-rooms-finished/tvroom.html](resources/linked-rooms-finished-tvroom.html)
+* [linked-rooms-finished/tvroom.css](resources/linked-rooms-finished-tvroom.css)
+* [linked-rooms-finished/gamesroom.html](resources/linked-rooms-finished-gamesroom.html)
+* [linked-rooms-finished/gamesroom.css](resources/linked-rooms-finished-gamesroom.css)
+* [linked-rooms-finished/wallpaper.png](resources/linked-rooms-finished-wallpaper.png)
+* [linked-rooms-finished/space-invader.png](resources/linked-rooms-finished-space-invader.png)
+* [linked-rooms-finished/tiles.png](resources/linked-rooms-finished-tiles.png)
+* [linked-rooms-finished/star.png](resources/linked-rooms-finished-star.png)
+* [linked-rooms-finished/stripes.png](resources/linked-rooms-finished-stripes.png)
 
 --- /collapse ---
