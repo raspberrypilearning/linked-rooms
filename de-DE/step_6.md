@@ -2,9 +2,9 @@
 
 Links müssen nicht nur Text sein. Machen wir eine anklickbare Tür, indem wir ein `<div>` verwenden.
 
-+ Öffne `index.html` und füge ein `<div>` um den **Fernsehraum** Linktext hinzu. Es muss sich innerhalb des `<a>` Tags sein, damit es angeklickt werden kann.
++ Öffne `index.html` und füge ein `<div>` um den **Fernsehzimmer** Linktext hinzu. Es muss innerhalb des `<a>` Tags sein, damit es angeklickt werden kann.
     
-    Füge `id="hall2tv"` ("hall2tv" ist eine anglische Abkürzung und meint soviel wie "FlurZuFernseh"), um es als die Tür von der Halle zum Fernsehzimmer zu kennzeichnen, damit du die Tür gestalten kannst.
+    Add `id="hall2tv"` to label it as the door from the Hall to the TV Room so that you can style the door.
     
     ![Screenshot](images/rooms-tvroom-div.png)
 
