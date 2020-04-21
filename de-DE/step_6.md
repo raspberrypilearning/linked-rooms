@@ -1,30 +1,29 @@
-## Lasse diesen Link wie Türen aussehen
+## Lasse die Links wie Türen aussehen
 
-Links müssen nicht unbedingt immer nur Text sein. Lass uns eine klickbare Tür mit Hilfe eines `<div>` einrichten.
+Links müssen nicht nur Text sein. Machen wir eine anklickbare Tür, indem wir ein `<div>` verwenden.
 
-+ Öffne das `index.html` (Inhaltsverzeichnis) und füge ein `<div>` rund um den __Fernsehzimmer__ Link-Text hinzu. Dies muss in dem `<a>` stehen, damit es klickbar wird.
++ Öffne `index.html` und füge ein `<div>` um den **Fernsehraum** Linktext hinzu. Es muss sich innerhalb des `<a>` Tags sein, damit es angeklickt werden kann.
+    
+    Füge `id="hall2tv"` ("hall2tv" ist eine anglische Abkürzung und meint soviel wie "FlurZuFernseh"), um es als die Tür von der Halle zum Fernsehzimmer zu kennzeichnen, damit du die Tür gestalten kannst.
+    
+    ![Screenshot](images/rooms-tvroom-div.png)
 
-  Füge `id="hall2tv"` hinzu, um es als die Tür zu bezeichnen, die vom Flur aus in das Fernsehzimmer geht, damit du die Tür stylen kannst. 
++ Klicke auf die Registerkarte `style.css`, gehe nach unten und füge das folgende CSS hinzu, um die Größe und Farbe der Tür zu ändern:
+    
+    ![screenshot](images/rooms-door-css1.png)
 
-  ![screenshot](images/rooms-tvroom-div.png)  
++ Teste deine Webseite, indem du irgendwo auf die Tür klickst, nicht nur auf den Text. (Vielleicht musst du den Linktext ein wenig ändern, damit er auf die Tür passt.).
 
-+ Klicke auf den `style.css` Reiter, gehe nach unten und füge den folgenden CSS-Code hinzu, um die Größe und Farbe der Tür zu ändern:
++ Lass es jetzt noch ein bisschen mehr wie eine Tür aussehen, indem Du einen Rand um drei Seiten hinzufügst:
+    
+    ![screenshot](images/rooms-door-css2.png)
 
-	![screenshot](images/rooms-door-css1.png)
++ Und lass uns CSS hinzufügen, damit der Text an der Tür besser aussieht:
+    
+    ![screenshot](images/rooms-door-css3.png)
 
-+ Teste deine Webseite, indem du irgendwo auf die Tür und nicht nur auf den Text klickst.
++ Du hast wahrscheinlich bemerkt, dass die Tür in der Luft schwebt. Lass uns das beheben, indem du die Tür im Raum positionierst.
+    
+    ![Screenshot](images/rooms-door-position.png)
 
-+ Lass es uns jetzt noch ein bischen mehr wie eine Tür aussehen, indem wir einen Rahmen rund um die drei Seiten hinzufügen:
-
-	![screenshot](images/rooms-door-css2.png)
-
-+ Wir wollen auch noch weiteren CSS-Code hinzufügen, damit der Text auf der Tür besser aussieht:
-
-	![screenshot](images/rooms-door-css3.png)
-
-+ Du hast wahrscheinlich schon gemerkt, dass die Tür frei in der Luft schwebt. Lass uns das jetzt reparieren, indem wir die Tür innerhalb des Zimmers positionieren.
-
-	![screenshot](images/rooms-door-position.png)	
-
-+ Teste deine Webseite, indem du auf die Tür klickst, um ins __Fernsehzimmer__ zu gelangen.
-
++ Teste deine Webseite, indem du auf die Tür klickst, um zum **Fernsehzimmer** zu gelangen.

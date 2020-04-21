@@ -1,40 +1,37 @@
-## Füge noch ein Zimmer hinzu
+## Füge ein weiteres Zimmer hinzu
 
-Lass uns jetzt ein weiteres Zimmer, einen __Games Room__ (Spielzimmer) hinzufügung. 
+Fügen wir nun einen weiteren Raum hinzu, ein **Spielzimmer**.
 
-+ Klick auf der Hinzufügen Seite, die __+__ Taste:
++ Klicke auf die Seite hinzufügen Schaltfläche **+**:
+    
+    ![Screenshot](images/rooms-add-page.png)
+    
+    Gib `gamesroom.html` als Seitennamen ein:
+    
+    ![Screenshot](images/rooms-games-html.png)
 
-	![screenshot](images/rooms-add-page.png)
++ Der HTML-Code für das **Spielzimmer** ist sehr ähnlich zu `tvroom.html` also **kopiere** diesen Code und **füge** ihn in `gamesroom.html` **ein**.
+    
+    Bearbeite die hervorgehobenen Elemente so, dass dort "Spiel statt Fernseh" steht:
+    
+    ![Screenshot](images/rooms-games-html2.png)
 
-	Tippe `gamesroom.html` (Spielzimmer) als deinen Seitennamen ein:
++ Deine `gamesroom.html` nutzt jetzt `gamesroom.css` die es aber noch nicht gibt.
+    
+    Erstelle `gamesroom.css` indem Du auf die Schaltfläche Seite hinzufügen **+** klickst.
 
- 	![screenshot](images/rooms-games-html.png)
-
-+ Das HTML für den __Games Room__ ist sehr ähnlich wie zum `tvroom.html`, __kopiere__ dies daher und __füge__ es in `gamesroom.html` ein.
-	
-	Bearbeite die markierten Posten, damit es sich wie „Games“ (Spielzimmer) und nicht „TV“ (Fernsehzimmer) liest:
-
-	![screenshot](images/rooms-games-html2.png)	
-
-+ Dein `gamesroom.html` benutzt jetzt `gamesroom.css`, was bislang noch nicht exisitert. 
-
-	Erstelle `gamesroom.css`, indem du auf die __+__ Taste auf der Hinzufügen-Seite klickst. 
-
-
-+ Der CSS Code für das __Spielzimmer__ ist sehr ähnlich wie zum `tvroom.css`, __kopiere__ dies daher und __füge__ es in `gamesroom.css` ein.
-
-	![screenshot](images/rooms-add-games-css.png)
++ Das CSS für das **Spielzimmer** ist sehr ähnlich zu `tvroom.css` also **kopiere** das und **füge** es in `gamesroom.css` **ein**.
+    
+    ![Screenshot](images/rooms-add-games-css.png)
 
 + Füge einen Link vom Flur zum Spielzimmer hinzu:
+    
+    ![Screenshot](images/rooms-hall-games.png)
 
-	![screenshot](images/rooms-hall-games.png)
-
-+ Teste dein Projekt, indem du auf den Spielzimmer-Link klickst
-
-	Das __Spielzimmer__ sollte so aussehen:
-
-	![screenshot](images/rooms-games-before.png)
-
-	Nicht gerade sehr spannend, aber du kannst das in der nächsten Aufgabe beheben. 
-
-
++ Teste deinProjekt, indem du auf den Spielzimmer Link klickst
+    
+    Das **Spielzimmer** sollte so aussehen:
+    
+    ![Screenshot](images/rooms-games-before.png)
+    
+    Nicht sehr aufregend, aber das kannst du in der nächsten Herausforderung beheben.

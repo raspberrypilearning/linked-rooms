@@ -1,32 +1,31 @@
 ## Stelle eine Verknüpfung zu einer anderen Webseite im gleichen Projekt her
 
-Die Webprojekte können aus vielen einzelnen HTML-Dateien hergestellt werden, welche alle miteinander verknüpft werden. 
+Webprojekte können aus vielen miteinander verknüpften HTML-Dateien bestehen.
 
-+ Dieses Trinket öffnen: <a href="http://jumpto.cc/web-rooms" target="_blank">jumpto.cc/web-rooms</a>. 
++ Öffne dieses Trinket: <a href="https://trinket.io/html/f79f792cda" target="_blank">trinket.io/html/f79f792cda</a>.
+    
+    Das Projekt sollte so aussehen:
+    
+    ![Screenshot](images/rooms-starter.png)
 
-	Das Projekt sollte so aussehen:
++ Das Trinket sollte automatisch ausgeführt werden und du wirst dich im Flur befinden:
+    
+    ![screenshot](images/rooms-hall-start.png)
 
-	![screenshot](images/rooms-starter.png)
++ Sieh dir die Liste der Datei-Reiter für dieses Trinket an. Kannst du `tvroom.html` sehen? Klick es an.
+    
+    ![Screenshot](images/rooms-tvroom-html.png)
+    
+    Dies ist eine weitere HTML-Datei im selben Projekt.
 
-+ Das Trinket sollte in „Autorun“ laufen und du befindest dich jetzt im Flur:
++ Um zu `tvroom.html` zu gelangen, musst du eine Verknüpfung (in der Regel wird in der Webentwicklung das englische Wort "Link" verwendet) zu `index.html` hinzufügen.
+    
+    Füge den markierten Code innerhalb des `<div>` mit der Klasse (engl.: class) `room` hinzu:
+    
+    ![Screenshot](images/rooms-link-tvroom.png)
 
-	![screenshot](images/rooms-hall-start.png)
-
-+ Sieh dir die Liste der Datei-Reiter für dieses Trinket an. Kannst du hier das `tvroom.html` (Fernsehzimmer) entdecken? Klicke darauf.
-
-	![screenshot](images/rooms-tvroom-html.png)
-
-	Dies ist eine andere HTML-Datei im gleichen Projekt. 
-
-
-+ Um ins `tvroom.html` (Fernsehzimmer) zu gelangen, musst du einen Link im `index.html` (Inhaltsverzeichnis) hinzufügen. 
-
-	Füge den markierten Code in dem `<div>` mit der Klasse `room` (Zimmer) ein: 
-
-	![screenshot](images/rooms-link-tvroom.png)
-
-+ Teste dein Trinket, indem du auf den __TV Room__ (Fernsehzimmer) Link klickst, um die `tvroom.html` Webseite sehen zu können.
-
-	Beachte bitte, dass das `tvroom.html` auch seine eigene `tvroom.css` Stil-Datei besitzt, welche das Layout für diese Seite definiert. 
-
-	![screenshot](images/rooms-tvroom-unstyled.png)
++ Teste dein Trinket, indem du auf den **Fernsehzimmer** Link klickst, um die Webseite `tvroom.html` aufzurufen.
+    
+    Beachte, dass `tvroom.html` auch eine eigene `tvroom.css` Style-Datei hat, die das Layout für diese Seite definiert.
+    
+    ![Screenshot](images/rooms-tvroom-unstyled.png)

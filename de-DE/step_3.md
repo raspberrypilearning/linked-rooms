@@ -1,16 +1,13 @@
 --- challenge ---
-## Aufgabe: Füge einen weiteren Link hinzu 
 
-Füge einen `<a>` Link zur `tvroom.html` Webseite, um wieder zurück zur Flur-Webseite mit dem Namen `index.html` (Inhaltsverzeichnis) zu gelangen, Der Link-Text sollte 'Hall' (Flur) sein.
+## Herausforderung: Füge einen weiteren Link hinzu
 
-Die Fernsehzimmer-Webseite (TV Room) sollte dann einen klickbaren Link wie diesen hier haben:
+Füge einen `<a>` Link zur `tvroom.html` Webseite hinzu, um zur Flur-Webseite mit dem Namen `index.html` zurückzukehren. Der Linktext sollte "Flur" sein.
+
+Die Fernsehzimmer-Webseite sollte dann einen anklickbaren Link wie diesen haben:
 
 ![screenshot](images/rooms-hall-link.png)
 
-Achte darauf, dass du deinen Code testest. Du solltest jetzt in der Lage sein, dich vom Flur ins Fernsehzimmer und wieder zurück zu begeben, indem du auf die Links klickst.  
-
-
-
-
+Vergiss nicht, deinen Code zu testen. Du solltest in der Lage sein, vom Flur ins Fernsehzimmer und wieder zurück zu gelangen, indem du auf die Links klickst.
 
 --- /challenge ---
