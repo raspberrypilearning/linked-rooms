@@ -1,37 +1,37 @@
-## Add another room
+## Añadir otra sala
 
-Now let's add another room, a **Games Room**.
+Ahora agreguemos otra sala, una **Sala de juegos**.
 
-+ Click on the add page **+** button:
++ Haga clic en el botón añadir página **+**:
     
-    ![screenshot](images/rooms-add-page.png)
+    ![captura de pantalla](images/rooms-add-page.png)
     
-    Type `gamesroom.html` as the page name:
+    Escribe `saladejuegos.html` como el nombre de la página:
     
-    ![screenshot](images/rooms-games-html.png)
+    ![captura de pantalla](images/rooms-games-html.png)
 
-+ The HTML for the **Games Room** is very similar to `tvroom.html` so **copy** that and **paste** it into `gamesroom.html`.
++ El HTML para la **Sala de juegos** es muy similar a `saladetv.html` entonces **copia** eso y **pegar** en `saladejuegos.html`.
     
-    Edit the highlighted items so they say Games not TV:
+    Edite los elementos resaltados para que digan Juegos no TV:
     
-    ![screenshot](images/rooms-games-html2.png)
+    ![captura de pantalla](images/rooms-games-html2.png)
 
-+ Your `gamesroom.html` now uses `gamesroom.css` which doesn't exist yet.
++ Tu `saladejuegos.html` utiliza `saladejuegos.css` que por el momento no existe.
     
-    Create `gamesroom.css` by clicking on the add page **+** button.
+    Crea `saladejuegos.css` haciendo clic en el botón **+**.
 
-+ The CSS for the **Games Room** is very similar to `tvroom.css` so **copy** that and **paste** it into `gamesroom.css`.
++ El CSS para la **Sala de juegos** es muy similar a `saladetv.css` entonces **copia** eso y **pegar** en `saladejuegos.css`.
     
-    ![screenshot](images/rooms-add-games-css.png)
+    ![captura de pantalla](images/rooms-add-games-css.png)
 
-+ Add a link from the Hall to the Games room:
++ Agregue un enlace desde el Salón a la Sala de Juegos:
     
-    ![screenshot](images/rooms-hall-games.png)
+    ![captura de pantalla](images/rooms-hall-games.png)
 
-+ Test your project by clicking on the Games Room link
++ Prueba tu proyecto haciendo clic en el enlace de Sala de Juegos
     
-    The **Games Room** should look like this:
+    La **Sala de Juegos** debería verse así:
     
-    ![screenshot](images/rooms-games-before.png)
+    ![captura de pantalla](images/rooms-games-before.png)
     
-    Not very exciting, but you can fix that in the next challenge.
+    No es muy emocionante, pero puedes solucionarlo en el próximo desafío.
