@@ -1,17 +1,17 @@
 \--- challenge \---
 
-## Challenge: Make it yours!
+## Desafío: ¡Hazlo tuyo!
 
-Add more rooms to your project. Remember that you can use **copy** and **paste** to save time and then just change the things that need to be different.
+Agrega más salas a tu proyecto. Recuerda que puedes usar **copy** y **pegar** para ahorrar tiempo y luego simplemente cambiar las cosas que deben ser diferentes.
 
-For each room you will need to:
+Para cada habitación necesitarás:
 
-+ Create a `.html` file
-+ Add door links to and from the new 'room'
-+ Create a `.css` file with the styles for your new room and its doors
++ Crear un archivo `.html`
++ Agregue enlaces de puerta hacia y desde la nueva 'sala'
++ Crear un archivo `.css` con los estilos para su nueva sala y sus puertas
 
-You can change the `background-color:` for each room. Click on the images icon to see the background images you can choose from:
+Puede cambiar el `color de fondo:` para cada sala. Haga clic en el icono de imágenes para ver las imágenes de fondo que puede elegir:
 
-![screenshot](images/rooms-images.png)
+![captura de pantalla](images/rooms-images.png)
 
 \--- /challenge \---
