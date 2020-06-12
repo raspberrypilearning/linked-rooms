@@ -1,37 +1,36 @@
-## Add another room
+## अन्य कमरा जोड़ें
 
-Now let's add another room, a **Games Room**.
+अब एक और कमरा जोड़ते हैं, एक ** गेम्स रूम ** ।
 
-+ Click on the add page **+** button:
++ ऐड पेज ** + ** बटन पर क्लिक करें :
     
-    ![screenshot](images/rooms-add-page.png)
+    ![स्क्रीनशॉट](images/rooms-add-page.png)
     
-    Type `gamesroom.html` as the page name:
-    
-    ![screenshot](images/rooms-games-html.png)
+    पेज का नाम ` gamesroom.html </ 0> लिखें</p>
 
-+ The HTML for the **Games Room** is very similar to `tvroom.html` so **copy** that and **paste** it into `gamesroom.html`.
+<p><img src="images/rooms-games-html.png" alt="स्क्रीनशॉट" /></p></li>
+<li><p><strong> गेम रूम </strong> का HTML  <code> tvroom.htm के समान है ` इसलिए tvroom से कापी और गेम रूम पेस्ट करें
     
-    Edit the highlighted items so they say Games not TV:
+    हाइलाइट की गई चीजों को संपादित करें ताकि वे कहें कि गेम्स, टीवी नहीं:
     
-    ![screenshot](images/rooms-games-html2.png)
+    ![स्क्रीनशॉट](images/rooms-games-html2.png)
 
-+ Your `gamesroom.html` now uses `gamesroom.css` which doesn't exist yet.
++ आपका ` gamesroom.html ` अब ` gamesroom.css का उपयोग करता है ` जो अभी तक मौजूद नहीं है।
     
-    Create `gamesroom.css` by clicking on the add page **+** button.
+    ऐड पेज ** + ** बटन पर क्लिक करके ` gamesroom.css बनाएँ `।
 
-+ The CSS for the **Games Room** is very similar to `tvroom.css` so **copy** that and **paste** it into `gamesroom.css`.
++ ** गेम रूम के लिए सीएसएस ** ,` tvroom.css के समान है ` इलिए tvroom से कापी और गेम रूम पेस्ट करें
     
-    ![screenshot](images/rooms-add-games-css.png)
+    ![स्क्रीनशॉट](images/rooms-add-games-css.png)
 
-+ Add a link from the Hall to the Games room:
++ हॉल से गेम्स रूम में एक लिंक जोड़ें:
     
-    ![screenshot](images/rooms-hall-games.png)
+    ![स्क्रीनशॉट](images/rooms-hall-games.png)
 
-+ Test your project by clicking on the Games Room link
++ गेम्स रूम लिंक पर क्लिक करके अपनी परियोजना का परीक्षण करें
     
-    The **Games Room** should look like this:
+    ** गेम्स रूम ** इस तरह दिखना चाहिए:
     
-    ![screenshot](images/rooms-games-before.png)
+    ![स्क्रीनशॉट](images/rooms-games-before.png)
     
-    Not very exciting, but you can fix that in the next challenge.
+    बहुत रोमांचक नहीं है, लेकिन आप इसे अगली चुनौती में ठीक कर सकते हैं।
