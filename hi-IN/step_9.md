@@ -1,17 +1,17 @@
 \--- challenge \---
 
-## Challenge: Add wallpaper to the Games Room
+## चुनौती: गेम्स रूम में वॉलपेपर जोड़ें
 
-Can you decorate the games room with a background image?
+क्या आप बैकग्राउंड के साथ गेम रूम को सजा सकते हैं?
 
-You can use the `space-invader.png` background image which is included in your project.
+आप आपके प्रोजेक्ट में शामिल` space-invader.png ` बैकग्राउंड का उपयोग कर सकते हैं|
 
-You'll need to:
+आपको इसकी आवश्यकता होगी:
 
-+ Add a `background-image:` to the `.room` CSS for the Games Room. 
++ गेम्स रूम के लिए ` .रूम ` सीएसएस मे एक ` बैकग्राउंड ` जोड़ें। 
 
-The decorated room should look like this:
+सजाया कमरा इस तरह दिखना चाहिए:
 
-![screenshot](images/rooms-games-finished.png)
+![स्क्रीनशॉट](images/rooms-games-finished.png)
 
 \--- /challenge \---
