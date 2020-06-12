@@ -1,17 +1,17 @@
 \--- challenge \---
 
-## Challenge: Add wallpaper to the Games Room
+## Desafío: agregar fondo de pantalla a la Sala de juegos
 
-Can you decorate the games room with a background image?
+¿Puedes decorar la sala de juegos con una imagen de fondo?
 
-You can use the `space-invader.png` background image which is included in your project.
+Puedes usar la imagen de fondo `space-invader.png` que se incluye en su proyecto.
 
-You'll need to:
+Necesitarás:
 
-+ Add a `background-image:` to the `.room` CSS for the Games Room. 
++ Agregar una `imagen de fondo:` al CSS `.room` para la Sala de juegos. 
 
-The decorated room should look like this:
+La sala decorada debería verse así:
 
-![screenshot](images/rooms-games-finished.png)
+![captura de pantalla](images/rooms-games-finished.png)
 
 \--- /challenge \---
