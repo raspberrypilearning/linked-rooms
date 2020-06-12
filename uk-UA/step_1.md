@@ -1,6 +1,6 @@
 ## Вступ
 
-У цьому проекті ви створите набір пов'язаних номерів, де кожна кімната є іншою веб-сторінкою, яку ви можете прикрасити за допомогою HTML.
+У цьому проєкті ти створиш кілька з’єднаних кімнат, кожна з яких є окремою вебсторінкою, яку ти можеш прикрашати за допомогою HTML.
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/html/eab49f4f06?outputOnly=true&start=result" width="600" height="450" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
@@ -8,85 +8,85 @@
   <img src="images/rooms-hall-finished.png">
 </div>
 
-**Вступ**: Натисніть на двері для переміщення між кімнатами.
+**Інструкція**: Натискай на двері для переміщення між кімнатами.
 
-### Додаткова інформація для лідерів клубу
+### Додаткова інформація для керівників клубів
 
-Якщо вам потрібно роздрукувати цей проект, скористайтеся [ Версія для друку ](https://projects.raspberrypi.org/en/projects/linked-rooms/print).
+Якщо вам потрібно роздрукувати цей проєкт, будь ласка, скористайтеся [версією для друку](https://projects.raspberrypi.org/en/projects/linked-rooms/print).
 
 ## \--- collapse \---
 
-## title: Нотатки керівників клубу
+## title: Нотатки керівника клубу
 
 ## Вступ:
 
-У цьому проекті діти познайомилися з кількома пов'язаними веб-сторінками в одному проекті, кожна з яких має власний CSS-файл.
+У цьому проєкті діти розглянуть кілька зв'язаних вебсторінок, кожна з яких має власний CSS-файл.
 
-## Інтернет-ресурси
+## Онлайн Ресурси
 
-Ми рекомендуємо використовувати [ trinket](https://trinket.io/), щоб написати HTML & CSS онлайн. Цей проект містить такий trinket:
+Ми рекомендуємо використовувати [trinket](https://trinket.io/) щоб писати код HTML та CSS онлайн. Цей проєкт містить наступний ресурс trinket:
 
-* [Відправна точка "пов'язаних номерів"-- jumpto.cc/web-rooms](https://trinket.io/html/f1486ddb24)
+* [Початковий проєкт "З’єднані кімнати" -- jumpto.cc/web-rooms](https://trinket.io/html/f1486ddb24)
 
-Діти також можуть скористатися цим порожнім trinket [ (jumpto.cc / html-blank) ](http://jumpto.cc/html-blank), щоб написати свій власний HTML & CSS, або ж вони можуть використовувати цей шаблон trinket [ (jumpto.cc/html-template) ](http://jumpto.cc/html-template).
+Діти також можуть скористатися порожнім проєктом [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) щоб писати свій власний код HTML та CSS, або вони можуть використовувати шаблон [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
 
-Існує також trinket, що містить вибіркове рішення для вирішення проблем:
+Також, існує проєкт, що містить приклади вирішення завдань:
 
-* ["Пов'язані кімнати завершено"-- https://trinket.io/html/ba5d27ec68](https://trinket.io/html/eab49f4f06)
+* [Завершений проєкт "З’єднані кімнати" -- https://trinket.io/html/ba5d27ec68](https://trinket.io/html/eab49f4f06)
 
 ## Оффлайн ресурси
 
-Цей проект може бути [ завершено оффлайн ](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/), якщо це є бажаним. Ви можете отримати доступ до ресурсів проекту, натиснувши посилання "Матеріали проекту" для цього проекту. Це посилання містить розділ "Ресурси проекту", який включає в себе ресурси, необхідні для завершення цього проекту в режимі оффлайн. Переконайтеся, що кожна дитина має доступ до копії цих ресурсів. Цей розділ містить наступні файли:
+За бажанням цей проєкт може бути [реалізовано офлайн](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/). Ви можете отримати доступ до ресурсів проєкту, натиснувши на посилання "Матеріали проєкту". Це посилання містить розділ "Ресурси проєкту", який включає в себе ресурси, необхідні дітям для реалізації цього проєкту в режимі офлайн. Переконайтеся, що кожна дитина має доступ до копії цих ресурсів. Цей розділ містить наступні файли:
 
 * linked-rooms/index.html
 * linked-rooms/style.css
 * linked-rooms/script.js
 * linked-rooms/prefixfree.js
-* linked-rooms/4 x .png images
+* 4 зображення .png в linked-rooms
 * template/template.html
 * template/style.css
 
-Ви також можете знайти завершену версію цього проекту у розділі "Ресурси волонтерів", яка містить:
+Також, ви можете знайти завершену версію цього проєкту в розділі "Ресурси керівника клубу", яка містить:
 
 * linked-rooms-finished/index.html
 * linked-rooms-finished/style.css
 * linked-rooms-finished/script.js
 * linked-rooms-finished/prefixfree.js
-* linked-rooms-finished/4 x .png images
+* 4 зображення .png в linked-rooms
 
-(Усі вищезазначені ресурси також можна завантажувати як проектні та добровільні файли `.zip `.)
+(Всі вищезгадані ресурси доступні для завантаження як `.zip`-файли проєкта та керівника клубу.)
 
 ## Мета навчання
 
-* Цей проект представляє проекти з декількома Html-сторінками, з'єднаними між собою
-* Кілька CSS-файлів також введено
+* Цей проєкт знайомить з проєктами, що містять декількілька html-сторінок, пов’язаних між собою
+* Також знайомить з кількома CSS-файлами
 
-Цей проект охоплює елементи з наступних напрямків навчального плану [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+Цей проєкт охоплює елементи з наступних напрямків [Електронного навчального плану Raspberry Pi](http://rpf.io/curriculum):
 
-* [ Розробіть основні 2D та 3D атрибути ](https://www.raspberrypi.org/curriculum/design/creator).
+* [Розробка простих ресурсів 2D та 3D](https://www.raspberrypi.org/curriculum/design/creator).
 
-## Виклики
+## Завдання
 
-* "Додати інше посилання" - Додати посилання між сторінками одного і того ж проекту;
-* “Стиль та посилання на Ігрову кімнату”-- Додати посилання та створити сторінку з власним CSS-файлом. 
-* "Додати більше дверей!" - Використовуйте 
+* "Додати ще одне посилання" — додати посилання між сторінками одного і того ж проєкту;
+* “Стиль і посилання для ігрової кімнати” — додати посилання та створити стиль сторінки з власним CSS-файлом. 
+* "Додати більше дверей!" — використання елементів 
 
 <
 
-div> s як налаштовувані посилання + "Додати шпалери в ігрову кімнату" - Додати фонове зображення + "Зробіть це своїм!" - Додати більше кімнат, використовуючи набуті навички + "Додати ключовий курсор" - веселе додаткове додаткове для тих, хто завершує проект
+div> як посилання, на які можна клацати + "Додавання шпалер в ігрову кімнату" — додати фонове зображення + "Зроби по-своєму!" — додати більше кімнат, використовуючи набуті навички + "Додати курсор-ключ" — веселе додаткове завдання для тих, хто завершив проєкт
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Матеріали проекту
+## title: Матеріали проєкту
 
-## Ресурси проекту
+## Ресурси проєкту
 
-* [.zip-файл, що містить всі ресурси проекту](https://rpf.io/p/en/linked-rooms-go)
-* [Інтернет-брелок з усіма ресурсами проекту "Зв'язані кімнати"](http://jumpto.cc/web-rooms)
-* [Шаблон онлайн-брелок](http://jumpto.cc/trinket-template)
-* [Онлайн чистий брелок](http://jumpto.cc/trinket-blank)
+* [.zip-файл, що містить всі ресурси проєкту](https://rpf.io/p/en/linked-rooms-go)
+* [Онлайн проєкт Trinket, що містить всі ресурси проєкту "З’єднані кімнати"](http://jumpto.cc/web-rooms)
+* [Онлайн шаблон проєкту Trinket](http://jumpto.cc/trinket-template)
+* [Порожній онлайн проєкт Trinket](http://jumpto.cc/trinket-blank)
 * [template/index.html](resources/template-index.html)
 * [template/style.css](resources/template-style.css)
 * [linked-rooms/index.html](resources/linked-rooms-index.html)
@@ -99,10 +99,10 @@ div> s як налаштовувані посилання + "Додати шпа
 * [linked-rooms/star.png](resources/linked-rooms-star.png)
 * [linked-rooms/stripes.png](resources/linked-rooms-stripes.png)
 
-## Ресурси лідерів клубу
+## Ресурси керівника клубу
 
-* [.zip file containing all completed project resources](https://rpf.io/p/en/linked-rooms-go)
-* [Онлайн завершений проект Trinket](https://trinket.io/html/eab49f4f06)
+* [.zip-файл, що містить всі завершені проєктні ресурси](https://rpf.io/p/en/linked-rooms-go)
+* [Завершений онлайн проєкт Trinket](https://trinket.io/html/eab49f4f06)
 * [linked-rooms-finished/index.html](resources/linked-rooms-finished-index.html)
 * [linked-rooms-finished/style.css](resources/linked-rooms-finished-style.css)
 * [linked-rooms-finished/tvroom.html](resources/linked-rooms-finished-tvroom.html)
