@@ -1,31 +1,31 @@
-## Linking to another web page in the same project
+## समान प्रोजेक्ट में अन्य वेब पेज से लिंक करना
 
-Web projects can be made up of lots of HTML files linked together.
+वेब प्रोजैक्ट को एक साथ लिंक की गई बहुत सारी HTML फ़ाइलों से बनाया जा सकता है।
 
-+ Open this trinket: <a href="https://trinket.io/html/f1486ddb24" target="_blank">jumpto.cc/web-rooms</a>.
++ इस ट्रिंकेट को खोलें: <a href="https://trinket.io/html/f1486ddb24" target="_blank"> jumpto.cc/web-rooms </a> ।
     
-    The project should look like this:
+    प्रोजेक्ट इस तरह दिखना चाहिए:
     
-    ![screenshot](images/rooms-starter.png)
+    ![स्क्रीनशॉट](images/rooms-starter.png)
 
-+ The trinket should autorun and you will find yourself in the Hall:
++ ट्रिंकेट को ऑटोरन करना चाहिए और आप खुद को हॉल में पाएंगे:
     
-    ![screenshot](images/rooms-hall-start.png)
+    ![स्क्रीनशॉट](images/rooms-hall-start.png)
 
-+ Look at the list of file tabs for this trinket. Can you see `tvroom.html`? Click on it.
++ इस trinket के लिए फ़ाइल टैब की सूची देखें। क्या आप ` tvroom.html ` देख सकते हैं ? इस पर क्लिक करें।
     
-    ![screenshot](images/rooms-tvroom-html.png)
+    ![स्क्रीनशॉट](images/rooms-tvroom-html.png)
     
-    This is another html file in the same project.
+    यह उसी प्रोजेक्ट में एक और html फाइल है।
 
-+ To get to `tvroom.html` you need to add a link in `index.html`.
++ ` tvroom.html पर जाने के लिए ` आपको ` index.html में एक लिंक जोड़ने की आवश्यकता है ` ।
     
-    Add the highlighted code inside the `<div>` with the class `room`:
+    क्लास ` रूम के साथ <code><div>` के अंदर हाइलाइटेड कोड जोड़ें </code> :
     
-    ![screenshot](images/rooms-link-tvroom.png)
+    ![स्क्रीनशॉट](images/rooms-link-tvroom.png)
 
-+ Test your trinket by clicking on the **TV Room** link to see the `tvroom.html` webpage.
++ ** टीवी रूम पर क्लिक करके अपनी ट्रिंकेट का परीक्षण करें ** ` tvroom.html देखने के लिए लिंक ` वेब पेज।
     
-    Note that `tvroom.html` also has its own `tvroom.css` style file which defines the layout for this page.
+    ध्यान दें कि ` tvroom.html ` इसका अपना <<> tvroom.css भी है </code> शैली फ़ाइल जो इस पृष्ठ के लिए लेआउट को परिभाषित करती है।
     
-    ![screenshot](images/rooms-tvroom-unstyled.png)
+    ![स्क्रीनशॉट](images/rooms-tvroom-unstyled.png)
