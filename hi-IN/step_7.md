@@ -1,27 +1,27 @@
 \--- challenge \---
 
-## Challenge: Add more doors!
+## चुनौती: और दरवाज़े जोड़ें!
 
-Turn the other links in your project into doors in the same way.
+अपने प्रोजेक्ट के अन्य लिंक को उसी तरह दरवाजों में बंद करें।
 
-For each door you'll need to:
+प्रत्येक दरवाजे के लिए आपको निम्न की आवश्यकता होगी:
 
-+ Edit the door link to use a `<div>` with an id such as `hall2games` so that you can style it.
++ एक `<div>` जैसे ` hall2games के साथ एक <0> का उपयोग करने के लिए दरवाजा लिंक संपादित करें ` ताकि आप इसे स्टाइल कर सकें।
     
-    For example:
+    उदाहरण के लिए:
     
-    `<a href="gamesroom.html"><div id="hall2games">Games Room</div></a>`
+    `<a href="gamesroom.html"><div id="hall2games"> गेम्स रूम </div></a>`
 
-+ Add CSS for the door id to the `.css` file for its room. Use *copy* and *paste* to save time. You can make each door look different if you like.
++ दरवाजा आईडी के लिए ` .css में सीएसएस जोड़ें ` इसके कमरे के लिए फाइल। समय बचाने के लिए * कॉपी- पेस्ट का उपयोग करें * आप चाहें तो हर दरवाजे को अलग दिखा सकते हैं।
 
-+ Position the door using `bottom:` and `left:` or `right:`.
++ `दरवाजे का उपयोग: ` नीचे, बाएं या दाहिने</code> तरफ करे
 
-The Hall might look like this:
+हॉल इस तरह दिख सकता है:
 
-![screenshot](images/rooms-hall-doors.png)
+![स्क्रीनशॉट](images/rooms-hall-doors.png)
 
-The TV Room should look something like this:
+टीवी रूम को कुछ इस तरह देखना चाहिए:
 
-![screenshot](images/rooms-tvroom-door.png)
+![स्क्रीनशॉट](images/rooms-tvroom-door.png)
 
 \--- /challenge \---
