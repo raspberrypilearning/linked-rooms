@@ -1,9 +1,9 @@
-## Adding a background image
+## बैकग्राउंड इमेज जोड़ना
 
-Let's decorate the hall with a background image.
+हॉल को एक बैकग्राउंड के साथ सजाते हैं।
 
-+ Edit the `style.css` to add a background image to the Hall:
++ हॉल में एक बैकग्राउंड जोड़ने के लिए:` style.css संपादित करें ` 
     
-    ![screenshot](images/rooms-hall-decorated.png)
+    ![स्क्रीनशॉट](images/rooms-hall-decorated.png)
     
-    The image will be repeated to fill the whole room.
+    पूरे कमरे को भरने के लिए छवि को दोहराया जाएगा।
