@@ -1,13 +1,13 @@
 \--- challenge \---
 
-## Challenge: Style and link the Games Room
+## चुनौती: गेम्स रूम को स्टाइल दें और लिंक करें
 
-Edit the HTML and CSS for the **Games Room** so that the webpage looks like this:
+** गेम्स रूम के लिए HTML और CSS को एडिट करें ** ताकि वेबपेज इस तरह दिखे:
 
-![screenshot](images/rooms-games-challenge.png)
+![स्क्रीनशॉट](images/rooms-games-challenge.png)
 
-Hint: You'll need to change the background colour, font colour and border colour in `gamesroom.css`. The bright green colour is called `chartreuse`.
+संकेत: आपको ` gamesroom.css में पृष्ठभूमि रंग, फ़ॉन्ट रंग और सीमा रंग बदलने की आवश्यकता होगी ` । चमकीले हरे रंग को ` चार्टरेस कहा जाता है ` ।
 
-Hint: You'll need to add an `<a>` link in `gamesroom.html` which links to `index.html`.
+संकेत: आपको ` gamesroom.html ` में `<a>` लिंक जोड़ना होगा जो ` index.html ` से लिंक करता है ।
 
 \--- /challenge \---
