@@ -1,13 +1,13 @@
 \--- challenge \---
 
-## Challenge: Add another link
+## चुनौती: अन्य लिंक जोड़ें
 
-Add an `<a>` link to the `tvroom.html` webpage to get you back to the Hall webpage which is called `index.html`. The link text should be 'Hall'.
+आपको हॉल वेबपृष्ठ पर वापस लाने के लिए ` tvroom.html ` वेबपृष्ठ पर एक `<a>` लिंक जोड़ें जिसे ` index.html ` कहा जाता है । लिंक का टेक्स्ट 'हॉल' होना चाहिए।
 
-The TV Room webpage should then have a clickable link like this:
+टीवी रूम वेबपेज पर इस तरह क्लिक करने योग्य लिंक होना चाहिए:
 
-![screenshot](images/rooms-hall-link.png)
+![स्क्रीनशॉट](images/rooms-hall-link.png)
 
-Make sure you test your code. You should be able to move from the Hall to the TV Room and back again by clicking on links.
+सुनिश्चित करें कि आप अपने कोड का परीक्षण करें। आपको हॉल से टीवी कक्ष में जाने में सक्षम होना चाहिए और फिर से लिंक पर क्लिक करके वापस आना चाहिए।
 
 \--- /challenge \---
