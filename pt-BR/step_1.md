@@ -73,19 +73,19 @@ Este projeto abrange elementos das seguintes vertentes do [Currículo de Criaç�
 
 <
 
-div>s como links clicaveis + "Adicionar papel de parede à Sala de Jogos" - Adicionar uma imagem de fundo + "Personalize!" - Adicione mais cômodos usando as habilidades aprendidas + "Adicionar um cursor de tecla" - Um extra opcional divertido para quem completar o projeto
+div>s as clickable links + "Add wallpaper to the Games Room" - Add a background image + "Make it yours!" - Add more rooms using the skills learned + "Add a key cursor" - A fun optional extra for those who complete the project
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## Título: Materiais do projeto
+## title: Project materials
 
 ## Recursos do projeto
 
-* [arquivo.zip contendo todos os recursos do projeto](https://rpf.io/p/en/linked-rooms-go)
+* [.zip file containing all project resources](https://rpf.io/p/en/linked-rooms-go)
 * [Trinket online contendo todos os recursos do projeto 'Cômodos Conectados'](http://jumpto.cc/web-rooms)
-* [Modelo Online Trinket](http://jumpto.cc/trinket-template)
+* [Online Trinket template](http://jumpto.cc/trinket-template)
 * [Trinket online em branco](http://jumpto.cc/trinket-blank)
 * [template/index.html](resources/template-index.html)
 * [template/style.css](resources/template-style.css)
@@ -101,7 +101,7 @@ div>s como links clicaveis + "Adicionar papel de parede à Sala de Jogos" - Adic
 
 ## Recursos do líder do clube
 
-* [arquivo .zip contém todos os recursos do projeto](https://rpf.io/p/en/linked-rooms-go)
+* [.zip file containing all completed project resources](https://rpf.io/p/en/linked-rooms-go)
 * [Projeto Trinket online completo](https://trinket.io/html/eab49f4f06)
 * [linked-rooms-finished/index.html](resources/linked-rooms-finished-index.html)
 * [linked-rooms-finished/style.css](resources/linked-rooms-finished-style.css)
