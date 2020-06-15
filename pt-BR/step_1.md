@@ -63,7 +63,7 @@ Você também pode encontrar uma versão resolvida dos desafios deste projeto na
 
 Este projeto abrange elementos das seguintes vertentes do [Currículo de Criação Digital Raspberry Pi](http://rpf.io/curriculum):
 
-* [Design de ativos 2D e 3D básicos](https://www.raspberrypi.org/curriculum/design/creator).
+* [Design basic 2D and 3D assets](https://www.raspberrypi.org/curriculum/design/creator).
 
 ## Desafios
 
