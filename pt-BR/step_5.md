@@ -1,13 +1,13 @@
 \--- challenge \---
 
-## Challenge: Style and link the Games Room
+## Desafio: Decore e interligue a sala de jogos
 
 Edite o HTML e CSS para a ** Sala de Jogos ** para que a página fique assim:
 
-![screenshot](images/rooms-games-challenge.png)
+![captura de tela](images/rooms-games-challenge.png)
 
-Hint: You'll need to change the background colour, font colour and border colour in `gamesroom.css`. The bright green colour is called `chartreuse`.
+Dica: Você precisará alterar a cor de fundo, a cor da fonte e a cor da borda em `saladejogos.css`. A cor verde brilhante se chama `chartreuse`.
 
-Hint: You'll need to add an `<a>` link in `gamesroom.html` which links to `index.html`.
+Dica: Você precisará adicionar um `<a>` link em ` saladejogos.html ` que direciona para `index.html`.
 
 \--- /challenge \---
