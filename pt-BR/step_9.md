@@ -12,6 +12,6 @@ Você precisará de:
 
 A sala decorada deve ficar assim:
 
-![screenshot](images/rooms-games-finished.png)
+![captura de tela](images/rooms-games-finished.png)
 
 \--- /challenge \---
