@@ -2,7 +2,7 @@
 
 ## Desafio: Faça do seu jeito!
 
-Adicione mais cômodos ao seu projeto. Remember that you can use **copy** and **paste** to save time and then just change the things that need to be different.
+Adicione mais cômodos ao seu projeto. Lembre-se de que você pode usar **copiar** e **colar** para ganhar tempo e alterar apenas o que precisa ser diferente.
 
 Para cada cômodo, você vai precisar:
 
@@ -12,6 +12,6 @@ Para cada cômodo, você vai precisar:
 
 Você pode alterar a cor de fundo `background-color:` de cada cômodo. Clique no ícone das imagens para ver as imagens de fundo disponíveis para escolha:
 
-![screenshot](images/rooms-images.png)
+![captura de tela](images/rooms-images.png)
 
 \--- /challenge \---
