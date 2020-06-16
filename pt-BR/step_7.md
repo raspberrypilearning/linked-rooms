@@ -14,7 +14,7 @@ Para cada porta, você vai precisar:
 
 + Adicione o CSS do id da porta ao arquivo `.css` de sua sala. Use *copie* e *cole* para economizar tempo. You can make each door look different if you like.
 
-+ Posicione a porta usando `parte inferior:` and `esquerda:` ou `direita:`.
++ Position the door using `bottom:` and `left:` or `right:`.
 
 O Saguão deve aparecer assim:
 
@@ -24,4 +24,4 @@ A Sala de TV deve exibir algo do tipo:
 
 ![screenshot](images/rooms-tvroom-door.png)
 
-\--- /desafio \---
+\--- /challenge \---
