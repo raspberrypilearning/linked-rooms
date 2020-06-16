@@ -16,11 +16,11 @@ Agora vamos adicionar outra sala, uma **Sala de Jogos.**.
     
     ![screenshot](images/rooms-games-html2.png)
 
-+ Seu `saladejogos.html` agora usa o `saladejogos.css` que ainda não existe.
++ Your `gamesroom.html` now uses `gamesroom.css` which doesn't exist yet.
     
     Crie `saladejogos.css` clicando no botão adicionar página **+**.
 
-+ O CSS da **Sala de Jogos** é muito parecido com o `tvroom.css`, então **copie ** e **cole** em `saladejogos.css`.
++ The CSS for the **Games Room** is very similar to `tvroom.css` so **copy** that and **paste** it into `gamesroom.css`.
     
     ![captura de tela](images/rooms-add-games-css.png)
 
