@@ -1,4 +1,4 @@
-## Adicionando imagem de fundo
+## Adding a background image
 
 Vamos decorar o saguão com uma imagem de fundo.
 
