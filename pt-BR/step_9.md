@@ -1,4 +1,4 @@
-\--- desafio \---
+\--- challenge \---
 
 ## Desafio: Adicione papel de parede à Sala de Jogos
 
@@ -14,4 +14,4 @@ A sala decorada deve ficar assim:
 
 ![screenshot](images/rooms-games-finished.png)
 
-\--- /desafio \---
+\--- /challenge \---
