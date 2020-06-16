@@ -26,7 +26,7 @@ Neste projeto, crianças são apresentadas a várias páginas da Web vinculadas 
 
 Nós recomendamos usar [trinket](https://trinket.io/) para escrever HTML & CSS online. Este projeto contém o seguinte trinket:
 
-* ['Cômodos conectados' ponto de partida -- jumpto.cc/web-rooms](https://trinket.io/html/f1486ddb24)
+* ['Cômodos conectados' ponto de partida -- https://trinket.io/html/496941882f](https://trinket.io/html/f1486ddb24)
 
 Crianças também podem usar este trinket em branco [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) para escrever seu próprio HTML & CSS, ou alternativamente eles podem usar este modelo de trinket [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
 
@@ -63,7 +63,7 @@ Você também pode encontrar uma versão resolvida dos desafios deste projeto na
 
 Este projeto abrange elementos das seguintes vertentes do [Currículo de Criação Digital Raspberry Pi](http://rpf.io/curriculum):
 
-* [Design basic 2D and 3D assets](https://www.raspberrypi.org/curriculum/design/creator).
+* [Criação de recursos 2D e 3D básicos](https://www.raspberrypi.org/curriculum/design/creator).
 
 ## Desafios
 
@@ -73,19 +73,19 @@ Este projeto abrange elementos das seguintes vertentes do [Currículo de Criaç�
 
 <
 
-div>s as clickable links + "Add wallpaper to the Games Room" - Add a background image + "Make it yours!" - Add more rooms using the skills learned + "Add a key cursor" - A fun optional extra for those who complete the project
+div>s como links clicáveis + "Adicione papel de parede à Sala de Jogos" - Adicione uma imagem de fundo + "Personalize!" - Adicione mais cômodos usando as habilidades aprendidas + "Adicione um cursor de tecla" - Um extra opcional divertido para quem completar o projeto
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Project materials
+## title: Materiais do projeto
 
 ## Recursos do projeto
 
-* [.zip file containing all project resources](https://rpf.io/p/en/linked-rooms-go)
+* [arquivo .zip contendo todos os recursos do projeto](https://rpf.io/p/en/linked-rooms-go)
 * [Trinket online contendo todos os recursos do projeto 'Cômodos Conectados'](http://jumpto.cc/web-rooms)
-* [Online Trinket template](http://jumpto.cc/trinket-template)
+* [Modelo online Trinket](http://jumpto.cc/trinket-template)
 * [Trinket online em branco](http://jumpto.cc/trinket-blank)
 * [template/index.html](resources/template-index.html)
 * [template/style.css](resources/template-style.css)
@@ -101,7 +101,7 @@ div>s as clickable links + "Add wallpaper to the Games Room" - Add a background 
 
 ## Recursos do líder do clube
 
-* [.zip file containing all completed project resources](https://rpf.io/p/en/linked-rooms-go)
+* [arquivo .zip contendo todos os recursos do projeto concluído](https://rpf.io/p/en/linked-rooms-go)
 * [Projeto Trinket online completo](https://trinket.io/html/eab49f4f06)
 * [linked-rooms-finished/index.html](resources/linked-rooms-finished-index.html)
 * [linked-rooms-finished/style.css](resources/linked-rooms-finished-style.css)
