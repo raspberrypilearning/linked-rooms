@@ -2,30 +2,30 @@
 
 Os projetos da Web podem ser compostos de vários arquivos HTML vinculados.
 
-+ Open this trinket: <a href="https://trinket.io/html/f1486ddb24" target="_blank">jumpto.cc/web-rooms</a>.
++ Abra este trinket: <a href="https://trinket.io/html/f1486ddb24" target="_blank">https://trinket.io/html/496941882f</a>.
     
     O projeto deverá ficar assim:
     
     ![captura de tela](images/rooms-starter.png)
 
-+ The trinket should autorun and you will find yourself in the Hall:
++ O trinket deve rodar automaticamente e você vai encontrar-se no Saguão:
     
     ![captura de tela](images/rooms-hall-start.png)
 
-+ Veja a lista de guias de arquivos para este trinket. Can you see `tvroom.html`? Clique nele.
++ Veja a lista de guias de arquivos para este trinket. Você consegue ver `saladetv.html`? Clique nele.
     
     ![captura de tela](images/rooms-tvroom-html.png)
     
     Este é outro arquivo html no mesmo projeto.
 
-+ To get to `tvroom.html` you need to add a link in `index.html`.
++ Para chegar a `saladetv.html` você precisa adicionar um link em `index.html`.
     
-    Add the highlighted code inside the `<div>` with the class `room`:
+    Adicione o código destacado dentro do `<div>` com a classe `room`:
     
     ![captura de tela](images/rooms-link-tvroom.png)
 
-+ Test your trinket by clicking on the **TV Room** link to see the `tvroom.html` webpage.
++ Teste seu trinket clicando no link **Sala de TV** para ver a página da Web `saladetv.html`.
     
-    Note that `tvroom.html` also has its own `tvroom.css` style file which defines the layout for this page.
+    Observe que `saladetv.html` também tem seu próprio arquivo de estilo `saladetv.css` que define o layout para esta página.
     
     ![captura de tela](images/rooms-tvroom-unstyled.png)
