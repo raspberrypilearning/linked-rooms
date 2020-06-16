@@ -2,9 +2,9 @@
 
 Links não precisam ser apenas texto. Vamos fazer uma porta clicável usando um `<div>`.
 
-+ Open `index.html` and add a `<div>` around the **TV Room** link text. Para torná-lo clicável, o texto precisa estar dentro do `<a>`.
++ Abra `index.html` e adicione um `<div>` ao texto do link **Sala de TV**. Para torná-lo clicável, o texto precisa estar dentro do `<a>`.
     
-    Add `id="hall2tv"` to label it as the door from the Hall to the TV Room so that you can style the door.
+    Adicione `id="hall2tv"` para rotulá-lo como a porta do Saguão para a Sala de TV para que você possa estilizar a porta.
     
     ![captura de tela](images/rooms-tvroom-div.png)
 
@@ -16,14 +16,14 @@ Links não precisam ser apenas texto. Vamos fazer uma porta clicável usando um 
 
 + Agora vamos fazer parecer um pouco mais com uma porta, adicionando uma borda ao redor de três lados:
     
-    ![screenshot](images/rooms-door-css2.png)
+    ![captura de tela](images/rooms-door-css2.png)
 
 + E vamos adicionar CSS para deixar o texto na porta com melhor aparência:
     
-    ![screenshot](images/rooms-door-css3.png)
+    ![captura de tela](images/rooms-door-css3.png)
 
 + Você provavelmente já percebeu que a porta está flutuando no ar. Vamos consertar isso posicionando a porta dentro da sala.
     
-    ![screenshot](images/rooms-door-position.png)
+    ![captura de tela](images/rooms-door-position.png)
 
 + Teste sua página web clicando na porta para chegar à **Sala de TV**.
