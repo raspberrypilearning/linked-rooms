@@ -1,15 +1,13 @@
 --- challenge ---
-## चुनौती: गेम्स रूम को स्टाइल दें और लिंक करें
 
-__Games Room__ (गेम्स रूम) के लिए HTML और CSS को संपादित करें ताकि वेबपेज ऐसा दिखाई दे: 
+## चुनौती: Games Room को स्टाइल दें और लिंक करें
 
-![screenshot](images/rooms-games-challenge.png)
+**Games Room** के लिए HTML और CSS को एडिट (edit) करें ताकि वेबपेज (webpage) इस तरह दिखे:
 
-संकेत: आपको `gamesroom.css` में पृष्ठभूमि कलर, फॉन्ट कलर और बॉर्डर कलर बदलना होगा। चमकदार हरे रंग को `chartreuse` कहते हैं।  
+![स्क्रीनशॉट](images/rooms-games-challenge.png)
 
-संकेत: आपको `gamesroom.html` में `<a>` लिंक जोड़ना होगा जो `hall.html` से लिंक होता है।
+संकेत: आपको `gamesroom.css` में पृष्ठभूमि रंग (background colour), फ़ॉन्ट रंग (font colour) और सीमा रंग ( border colour) बदलने की आवश्यकता होगी । चमकीले हरे रंग को `chartreuse` कहा जाता है ।
 
-
-
+संकेत: आपको `gamesroom.html` में `<a>` लिंक जोड़ना होगा जो `index.html` से लिंक करता है ।
 
 --- /challenge ---
