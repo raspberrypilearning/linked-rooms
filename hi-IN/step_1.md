@@ -26,7 +26,7 @@
 
 HTML & CSS को ऑनलाइन लिखने के लिए हम [trinket](https://trinket.io/) का उपयोग करने की अनुशंसा करते हैं। इस प्रोजेक्ट में निम्नलिखित Trinket हैं:
 
-* ['स्टिकर' शुरुआती बिंदु - jumpto.cc/web-rooms](https://trinket.io/html/f1486ddb24)
+* ['लिंक्ड रूम' को यहाँ से शुरू करे - jumpto.cc/web-rooms](https://trinket.io/html/f1486ddb24)
 
 बच्चे स्वयं का HTML और CSS लिखने के लिए इस [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) खाली ट्रिंकेट का भी उपयोग कर सकते हैं, या वैकल्पिक तौर पर वे इस टैंपलेट ट्रिंकेट का उपयोग कर सकते हैं [(jumpto.cc/html-template)](http://jumpto.cc/html-template)।
 
