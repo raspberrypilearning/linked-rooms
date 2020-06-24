@@ -1,35 +1,36 @@
 ## अन्य कमरा जोड़ें
 
-अब एक और कमरा जोड़ते हैं, एक ** गेम्स रूम ** ।
+अब एक और कमरा जोड़ते हैं, एक **Games Room**
 
-+ ऐड पेज ** + ** बटन पर क्लिक करें :
++ ऐड पेज (add page) **+** बटन पर क्लिक करें:
     
     ![स्क्रीनशॉट](images/rooms-add-page.png)
     
-    पेज का नाम ` gamesroom.html </ 0> लिखें</p>
-
-<p><img src="images/rooms-games-html.png" alt="स्क्रीनशॉट" /></p></li>
-<li><p><strong> गेम रूम </strong> का HTML  <code> tvroom.htm के समान है ` इसलिए tvroom से कापी और गेम रूम पेस्ट करें
+    पेज का नाम `gamesroom.html` लिखें:
     
-    हाइलाइट की गई चीजों को संपादित करें ताकि वे कहें कि गेम्स, टीवी नहीं:
+    ![स्क्रीनशॉट](images/rooms-games-html.png)
+
++ **Game Room** का HTML `tvroom.html` के समान है इसलिए वहा से **copy** और `gamesroom.html` में **paste** करें |
+    
+    हाइलाइट की गई चीजों को एडिट (edit) करें ताकि वे कहें कि Games, TV नहीं:
     
     ![स्क्रीनशॉट](images/rooms-games-html2.png)
 
-+ आपका ` gamesroom.html ` अब ` gamesroom.css का उपयोग करता है ` जो अभी तक मौजूद नहीं है।
++ आपका `gamesroom.html` अब `gamesroom.css` का उपयोग करता है जो अभी तक मौजूद नहीं है।
     
-    ऐड पेज ** + ** बटन पर क्लिक करके ` gamesroom.css बनाएँ `।
+    ऐड पेज (add page) **+** बटन पर क्लिक करके `gamesroom.css` बनाएँ।
 
-+ ** गेम रूम के लिए सीएसएस ** ,` tvroom.css के समान है ` इलिए tvroom से कापी और गेम रूम पेस्ट करें
++ **Game Room** का CSS `tvroom.css` के समान है इसलिए वहा से **copy** और `gamesroom.css` में **paste** करें |
     
     ![स्क्रीनशॉट](images/rooms-add-games-css.png)
 
-+ हॉल से गेम्स रूम में एक लिंक जोड़ें:
++ Hall से Games Room में एक लिंक जोड़ें:
     
     ![स्क्रीनशॉट](images/rooms-hall-games.png)
 
-+ गेम्स रूम लिंक पर क्लिक करके अपनी परियोजना का परीक्षण करें
++ गेम्स रूम (Games Room) लिंक पर क्लिक करके अपनी परियोजना का परीक्षण करें
     
-    ** गेम्स रूम ** इस तरह दिखना चाहिए:
+    **Games Room** इस तरह दिखना चाहिए:
     
     ![स्क्रीनशॉट](images/rooms-games-before.png)
     
