@@ -1,26 +1,29 @@
 ---
-title: लिंक किए गए कमरे
+title: संपर्क किए गए कमरे
 hero_image: images/banner.png
-theme: violet
+theme: red
 duration: 2
 listed: false
 ingredient: false
 copyedit: false
-curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
+curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
 description: एक साथ जुड़े कई 'rooms' के साथ वेब प्रोजेक्ट बनाएँ।
 original_url: https://codeclubprojects.org/en-GB/webdev/linked-rooms
 interests: ''
-technologies: html/css
-site_areas: codeclub, webdev
+technologies: html-css-javascript
+site_areas: projects
+hardware: ''
+software: htmp-css-javascript
+version: 3
+last_tested: 2017-01-01
 steps:
-- title: भूमिका
-- title: समान प्रोजेक्ट में अन्य वेब पेज से लिंक करना
-- title: 'चुनौती: अन्य लिंक जोड़ें'
-- title: अन्य कमरा जोड़ें
-- title: 'चुनौती: गेम्स रूम को स्टाइल दें और लिंक करें'
-- title: दरवाज़ों की तरह दिखाई देने वाले लिंक बनाएँ
-- title: 'चुनौती: और दरवाज़े जोड़ें!'
-- title: पृष्ठभूमि छवि जोड़ना
-- title: 'चुनौती: गेम्स रूम में वॉलपेपर जोड़ें'
-- title: 'चुनौती: इसे अपना बनाएँ!'
-
+  - title: भूमिका
+  - title: समान प्रोजेक्ट में अन्य वेब पेज से लिंक करना
+  - title: 'चुनौती: अन्य लिंक जोड़ें'
+  - title: अन्य कमरा जोड़ें
+  - title: 'चुनौती: गेम्स रूम को स्टाइल दें और लिंक करें'
+  - title: दरवाज़ों की तरह दिखाई देने वाले लिंक बनाएँ
+  - title: 'चुनौती: और दरवाज़े जोड़ें!'
+  - title: पृष्ठभूमि छवि जोड़ना
+  - title: 'चुनौती: गेम्स रूम में वॉलपेपर जोड़ें'
+  - title: 'चुनौती: इसे अपना बनाएँ!'
