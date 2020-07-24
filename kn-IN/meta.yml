@@ -1,0 +1,39 @@
+---
+title: ಲಿಂಕ್ಡ್ ಕೋಣೆಗಳು
+hero_image: images/banner.png
+theme: red
+duration: 2
+listed: false
+ingredient: false
+copyedit: false
+curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
+description: ಹಲವಾರು 'room' ಗಳನ್ನು ಒಟ್ಟಿಗೆ ಜೋಡಿಸಿರುವ ವೆಬ್ ಯೋಜನೆಯನ್ನು ರಚಿಸಿ.
+original_url: https://codeclubprojects.org/en-GB/webdev/linked-rooms
+interests: ''
+technologies: html-css-javascript
+site_areas: projects
+hardware: ''
+software: html-css-javascript
+version: 3
+last_tested: 2017-01-01
+steps:
+  - 
+    title: ಪರಿಚಯ
+  - 
+    title: ಅದೇ ಯೋಜನೆಯಲ್ಲಿ ಮತ್ತೊಂದು ವೆಬ್ ಪುಟಕ್ಕೆ ಲಿಂಕ್ ಮಾಡಲಾಗುತ್ತಿದೆ
+  - 
+    title: 'ಸವಾಲು: ಇನ್ನೊಂದು ಲಿಂಕ್ ಸೇರಿಸಿ'
+  - 
+    title: ಮತ್ತೊಂದು ಕೋಣೆಯನ್ನು ಸೇರಿಸಿ
+  - 
+    title: 'ಸವಾಲು: ಆಟಗಳ ಕೊಠಡಿಯನ್ನು ಶೈಲಿಯನ್ನಾಗಿ ಮತ್ತು ಲಿಂಕ್ ಮಾಡಿ'
+  - 
+    title: ಲಿಂಕ್ ಗಳನ್ನು ಬಾಗಿಲುಗಳ ಹಾಗೆ ಕಾಣುವಂತೆ ಮಾಡಿ
+  - 
+    title: 'ಸವಾಲು: ಹೆಚ್ಚಿನ ಬಾಗಿಲುಗಳನ್ನು ಸೇರಿಸಿ!'
+  - 
+    title: ಹಿನ್ನೆಲೆ ಚಿತ್ರವನ್ನು ಸೇರಿಸಲಾಗುತ್ತಿದೆ
+  - 
+    title: 'ಸವಾಲು: ಆಟಗಳ ಕೋಣೆಗೆ ವಾಲ್‌ಪೇಪರ್ ಸೇರಿಸಿ'
+  - 
+    title: 'ಸವಾಲು: ಇದನ್ನು ನಿಮ್ಮದಾಗಿಸಿ!'
