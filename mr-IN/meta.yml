@@ -1,0 +1,29 @@
+---
+title: जोडलेल्या खोल्या
+hero_image: images/banner.png
+theme: red
+duration: 2
+listed: false
+ingredient: false
+copyedit: false
+curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
+description: अनेक 'खोल्या' एकत्र जोडलेले वेब प्रोजेक्ट तयार करा.
+original_url: https://codeclubprojects.org/en-GB/webdev/linked-rooms
+interests: ''
+technologies: html-css-javascript
+site_areas: projects
+hardware: ''
+software: html-css-javascript
+version: 3
+last_tested: 2017-01-01
+steps:
+  - title: परिचय
+  - title: त्याच प्रकल्पातील दुसर्‍या वेब पृष्ठाशी दुवा साधत आहे
+  - title: 'आव्हान: अजून एक लिंक जोडा'
+  - title: आणखी एक खोली जोडा
+  - title: 'आव्हान: शैली आणि खेळाच्या खोलीचा दुवा साधा'
+  - title: दुवे दारासारखे दिसू द्या
+  - title: 'आव्हान: अजून स्टाईलची भर घाला!'
+  - title: पार्श्वभूमी प्रतिमा जोडत आहे
+  - title: 'आव्हान: गेम्स रूममध्ये वॉलपेपर जोडा'
+  - title: 'आव्हान: आपले बनवा!'
