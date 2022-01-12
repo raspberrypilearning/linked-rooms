@@ -17,13 +17,15 @@ software: html-css-javascript
 version: 3
 last_tested: 2017-01-01
 steps:
-  - title: Introdução
-  - title: Vinculando a outra página da Web no mesmo projeto
-  - title: 'Desafio: adicione outro link'
-  - title: Adicione outra sala
-  - title: 'Desafio: desenhe e interligue a sala de jogos'
-  - title: Faça com que os links pareçam portas
-  - title: 'Desafio: adicione mais portas!'
-  - title: Adicionando imagem de fundo
-  - title: 'Desafio: adicione papel de parede à Sala de Jogos'
-  - title: 'Desafio: faça do seu jeito!'
+- title: Introdução
+  completion: engaged
+- title: Vinculando a outra página da Web no mesmo projeto
+- title: 'Desafio: adicione outro link'
+- title: Adicione outra sala
+- title: 'Desafio: desenhe e interligue a sala de jogos'
+- title: Faça com que os links pareçam portas
+- title: 'Desafio: adicione mais portas!'
+- title: Adicionando imagem de fundo
+- title: 'Desafio: adicione papel de parede à Sala de Jogos'
+  completion: internal
+- title: 'Desafio: faça do seu jeito!'

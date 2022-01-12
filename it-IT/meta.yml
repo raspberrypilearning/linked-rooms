@@ -16,14 +16,16 @@ hardware: ''
 software: html-css-javascript
 version: 3
 last_tested: 2017-01-01
-steps: 
+steps:
 - title: Introduzione
-- title: "Collegamento a un’altra pagina Web dello stesso progetto"
+  completion: engaged
+- title: Collegamento a un’altra pagina Web dello stesso progetto
 - title: 'Sfida: Aggiungi un altro link'
-- title: "Aggiungi un’altra stanza"
+- title: Aggiungi un’altra stanza
 - title: 'Sfida: Attribuisci degli stili e collega la Games Room (Stanza dei giochi)'
 - title: Trasformiamo i link in porte
 - title: 'Sfida: Aggiungi altre porte!'
-- title: "Aggiunta di un’immagine di sfondo"
+- title: Aggiunta di un’immagine di sfondo
 - title: 'Sfida: Aggiungi la carta da parati alla Games Room (Stanza dei giochi)'
+  completion: internal
 - title: 'Sfida: Personalizzala!'

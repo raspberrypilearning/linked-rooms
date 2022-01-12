@@ -17,13 +17,15 @@ software: html-css-javascript
 version: 3
 last_tested: 2017-01-01
 steps:
-  - title: Uvod
-  - title: Povezivanje sa drugom veb-stranicom u istom projektu
-  - title: 'Izazov: Dodaj još jedan link'
-  - title: Dodaj još jednu salu
-  - title: 'Izazov: Stilizuj i poveži Salu za igre'
-  - title: Napravi da linkovi izgledaju kao vrata
-  - title: 'Izazov: Dodaj više vrata!'
-  - title: Dodavanje pozadinske slike
-  - title: 'Izazov: Dodaj tapet Sali za igre'
-  - title: 'Izazov: Uradi to na svoj način!'
+- title: Uvod
+  completion: engaged
+- title: Povezivanje sa drugom veb-stranicom u istom projektu
+- title: 'Izazov: Dodaj još jedan link'
+- title: Dodaj još jednu salu
+- title: 'Izazov: Stilizuj i poveži Salu za igre'
+- title: Napravi da linkovi izgledaju kao vrata
+- title: 'Izazov: Dodaj više vrata!'
+- title: Dodavanje pozadinske slike
+- title: 'Izazov: Dodaj tapet Sali za igre'
+  completion: internal
+- title: 'Izazov: Uradi to na svoj način!'

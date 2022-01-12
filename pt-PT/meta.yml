@@ -17,13 +17,15 @@ software: html-css-javascript
 version: 3
 last_tested: 2017-01-01
 steps:
-  - title: Introdução
-  - title: Ligar a outra página web no mesmo projeto
-  - title: 'Desafio: Acrescenta outro link'
-  - title: Acrescentar outra sala
-  - title: 'Desafio: Estiliza e liga a Sala de Jogos'
-  - title: Faz com que os links se pareçam com portas
-  - title: 'Desafio: Adiciona mais portas!'
-  - title: Acrescenta uma imagem de fundo
-  - title: 'Desafio: Acrescenta uma imagem de fundo à Sala de Jogos'
-  - title: 'Desafio: Personaliza-o!'
+- title: Introdução
+  completion: engaged
+- title: Ligar a outra página web no mesmo projeto
+- title: 'Desafio: Acrescenta outro link'
+- title: Acrescentar outra sala
+- title: 'Desafio: Estiliza e liga a Sala de Jogos'
+- title: Faz com que os links se pareçam com portas
+- title: 'Desafio: Adiciona mais portas!'
+- title: Acrescenta uma imagem de fundo
+- title: 'Desafio: Acrescenta uma imagem de fundo à Sala de Jogos'
+  completion: internal
+- title: 'Desafio: Personaliza-o!'

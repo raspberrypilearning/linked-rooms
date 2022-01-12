@@ -16,8 +16,9 @@ hardware: ''
 software: html-css-javascript
 version: 3
 last_tested: 2017-01-01
-steps: 
+steps:
 - title: Introducción
+  completion: engaged
 - title: Crear un enlace a otra página web en el mismo proyecto
 - title: 'Desafío: Añadir otro enlace'
 - title: Añadir otra sala
@@ -26,4 +27,5 @@ steps:
 - title: 'Desafío: ¡Añadir más puertas!'
 - title: Añadir una imagen de fondo
 - title: 'Desafío: Empapelar la Sala de juegos'
+  completion: internal
 - title: 'Desafío: ¡Hazlo tuyo!'

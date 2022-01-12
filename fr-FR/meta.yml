@@ -17,13 +17,15 @@ software: html-css-javascript
 version: 3
 last_tested: 2017-01-01
 steps:
-  - title: Introduction
-  - title: Établir un lien avec une autre page Web du même projet
-  - title: 'Défi : Ajouter un autre lien'
-  - title: Ajouter une autre salle
-  - title: 'Défi : Styliser et relier la Salle de jeux'
-  - title: Faire en sorte que les liens ressemblent à des portes
-  - title: 'Défi : Ajouter plus de portes !'
-  - title: Ajouter une image d'arrière-plan
-  - title: "Défi : Ajouter un fond d'écran à la Salle de jeux"
-  - title: 'Défi : Personnalise-le !'
+- title: Introduction
+  completion: engaged
+- title: Établir un lien avec une autre page Web du même projet
+- title: 'Défi : Ajouter un autre lien'
+- title: Ajouter une autre salle
+- title: 'Défi : Styliser et relier la Salle de jeux'
+- title: Faire en sorte que les liens ressemblent à des portes
+- title: 'Défi : Ajouter plus de portes !'
+- title: Ajouter une image d'arrière-plan
+- title: 'Défi : Ajouter un fond d''écran à la Salle de jeux'
+  completion: internal
+- title: 'Défi : Personnalise-le !'

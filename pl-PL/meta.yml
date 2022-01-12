@@ -7,7 +7,8 @@ listed: false
 ingredient: false
 copyedit: false
 curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
-description: Zbuduj kilka połączonych pokojów, z których każdy jest osobną stroną internetową.
+description: Zbuduj kilka połączonych pokojów, z których każdy jest osobną stroną
+  internetową.
 original_url: https://codeclubprojects.org/en-GB/webdev/linked-rooms
 interests: ''
 technologies: html-css-javascript
@@ -17,13 +18,15 @@ software: html-css-javascript
 version: 3
 last_tested: 2017-01-01
 steps:
-  - title: Wprowadzenie
-  - title: Linkowanie do innej strony w tym samym projekcie
-  - title: 'Wyzwanie: Dodaj kolejny link'
-  - title: Dodaj kolejny pokój
-  - title: 'Wyzwanie: Dodaj styl i podlinkuj Pokój Zabaw'
-  - title: Spraw, żeby linki wyglądały jak drzwi
-  - title: 'Wyzwanie: Dodaj więcej drzwi!'
-  - title: Dodawanie tła
-  - title: 'Wyzwanie: Dodaj tapetę do Pokoju Zabaw'
-  - title: 'Wyzwanie: Zrób to po swojemu!'
+- title: Wprowadzenie
+  completion: engaged
+- title: Linkowanie do innej strony w tym samym projekcie
+- title: 'Wyzwanie: Dodaj kolejny link'
+- title: Dodaj kolejny pokój
+- title: 'Wyzwanie: Dodaj styl i podlinkuj Pokój Zabaw'
+- title: Spraw, żeby linki wyglądały jak drzwi
+- title: 'Wyzwanie: Dodaj więcej drzwi!'
+- title: Dodawanie tła
+- title: 'Wyzwanie: Dodaj tapetę do Pokoju Zabaw'
+  completion: internal
+- title: 'Wyzwanie: Zrób to po swojemu!'

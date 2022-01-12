@@ -16,8 +16,9 @@ hardware: ''
 software: html-css-javascript
 version: 3
 last_tested: 2017-01-01
-steps: 
+steps:
 - title: Introduction
+  completion: engaged
 - title: Linking to another web page in the same project
 - title: 'Challenge: Add another link'
 - title: Add another room
@@ -26,4 +27,5 @@ steps:
 - title: 'Challenge: Add more doors!'
 - title: Adding a background image
 - title: 'Challenge: Add wallpaper to the Games Room'
+  completion: internal
 - title: 'Challenge: Make it yours!'
